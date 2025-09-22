@@ -1,0 +1,568 @@
+[
+    {
+        "title": "Qui-Gon Jinn",
+        "id": "Qui-Gon Jinn",
+        "game": "Star Wars Unlimited",
+        "format": "Premier",
+        "cardCount": 52,
+        "createdAt": "2025-07-03T07:52:32.083Z",
+        "lastModifiedAt": "2025-07-03T08:01:28.415Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Unit - Ground",
+                "Unit - Space",
+                "Event",
+                "Upgrade",
+                "Base",
+                "Leader"
+            ],
+            "Sideboard": [],
+            "Unit - Ground": [
+                {
+                    "count": 1,
+                    "id": "JTL_201"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_190"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_255"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_199"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_196"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_100"
+                },
+                {
+                    "count": 1,
+                    "id": "LOF_249"
+                },
+                {
+                    "count": 1,
+                    "id": "SHD_096"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_111"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_096"
+                },
+                {
+                    "count": 2,
+                    "id": "TWI_193"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_242"
+                },
+                {
+                    "count": 2,
+                    "id": "TWI_217"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_193"
+                }
+            ],
+            "Unit - Space": [
+                {
+                    "count": 2,
+                    "id": "LOF_194"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_099"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_197"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_198"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 2,
+                    "id": "LOF_218"
+                },
+                {
+                    "count": 1,
+                    "id": "LOF_104"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_219"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_227"
+                }
+            ],
+            "Upgrade": [
+                {
+                    "count": 3,
+                    "id": "LOF_201"
+                }
+            ],
+            "Base": [
+                {
+                    "count": 1,
+                    "id": "LOF_023"
+                }
+            ],
+            "Leader": [
+                {
+                    "count": 1,
+                    "id": "LOF_016"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Darth Maul",
+        "id": "Darth Maul",
+        "game": "Star Wars Unlimited",
+        "format": "Premier",
+        "cardCount": 52,
+        "createdAt": "2025-07-03T08:01:54.240Z",
+        "lastModifiedAt": "2025-07-03T08:04:11.182Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Unit - Ground",
+                "Unit - Space",
+                "Event",
+                "Upgrade",
+                "Base",
+                "Leader"
+            ],
+            "Sideboard": [],
+            "Unit - Ground": [
+                {
+                    "count": 2,
+                    "id": "LOF_129"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_067"
+                },
+                {
+                    "count": 1,
+                    "id": "TWI_138"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_039"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_231"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_156"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_031"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_229"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_160"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_059"
+                },
+                {
+                    "count": 1,
+                    "id": "LOF_063"
+                },
+                {
+                    "count": 1,
+                    "id": "LOF_038"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_137"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_035"
+                },
+                {
+                    "count": 2,
+                    "id": "LOF_136"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_154"
+                }
+            ],
+            "Unit - Space": [
+                {
+                    "count": 3,
+                    "id": "LOF_233"
+                },
+                {
+                    "count": 3,
+                    "id": "LOF_131"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 3,
+                    "id": "LOF_041"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_139"
+                }
+            ],
+            "Upgrade": [
+                {
+                    "count": 3,
+                    "id": "LOF_140"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_137"
+                },
+                {
+                    "count": 1,
+                    "id": "LOF_138"
+                }
+            ],
+            "Base": [
+                {
+                    "count": 1,
+                    "id": "LOF_021"
+                }
+            ],
+            "Leader": [
+                {
+                    "count": 1,
+                    "id": "LOF_009"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Darth Vader",
+        "id": "Darth Vader",
+        "game": "SWU",
+        "format": "Premier",
+        "cardCount": 52,
+        "createdAt": "2025-04-15T17:22:34.991Z",
+        "lastModifiedAt": "2025-04-15T17:27:47.721Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Leader",
+                "Base",
+                "Unit - Ground",
+                "Unit - Space",
+                "Event",
+                "Upgrade"
+            ],
+            "Leader": [
+                {
+                    "count": 1,
+                    "id": "SOR_010"
+                }
+            ],
+            "Base": [
+                {
+                    "count": 1,
+                    "id": "SOR_023"
+                }
+            ],
+            "Unit - Ground": [
+                {
+                    "count": 3,
+                    "id": "SOR_128"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_226"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_129"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_079"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_130"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_227"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_228"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_229"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_230"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_083"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_084"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_232"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_088"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_135"
+                }
+            ],
+            "Unit - Space": [
+                {
+                    "count": 2,
+                    "id": "SOR_225"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_231"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_132"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_086"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_089"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 1,
+                    "id": "SOR_123"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_139"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_233"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_172"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_126"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_234"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_092"
+                }
+            ],
+            "Upgrade": [
+                {
+                    "count": 3,
+                    "id": "SOR_136"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Luke Skywalker",
+        "id": "Luke Skywalker",
+        "game": "SWU",
+        "format": "Premier",
+        "cardCount": 52,
+        "createdAt": "2025-04-15T17:15:36.528Z",
+        "lastModifiedAt": "2025-04-15T17:21:36.937Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Unit - Ground",
+                "Unit - Space",
+                "Event",
+                "Upgrade",
+                "Leader",
+                "Base"
+            ],
+            "Unit - Ground": [
+                {
+                    "count": 1,
+                    "id": "SOR_059"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_236"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_238"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_239"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_189"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_240"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_045"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_063"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_194"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_046"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_242"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_244"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_196"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_048"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_049"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_198"
+                }
+            ],
+            "Unit - Space": [
+                {
+                    "count": 3,
+                    "id": "SOR_237"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_044"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_241"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_066"
+                },
+                {
+                    "count": 1,
+                    "id": "SOR_195"
+                }
+            ],
+            "Event": [
+                {
+                    "count": 1,
+                    "id": "SOR_217"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_074"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_218"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_220"
+                },
+                {
+                    "count": 2,
+                    "id": "SOR_222"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_078"
+                }
+            ],
+            "Upgrade": [
+                {
+                    "count": 1,
+                    "id": "SOR_069"
+                },
+                {
+                    "count": 3,
+                    "id": "SOR_053"
+                }
+            ],
+            "Leader": [
+                {
+                    "count": 1,
+                    "id": "SOR_005"
+                }
+            ],
+            "Base": [
+                {
+                    "count": 1,
+                    "id": "SOR_029"
+                }
+            ]
+        }
+    }
+]

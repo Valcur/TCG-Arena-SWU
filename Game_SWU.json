@@ -1,0 +1,201 @@
+{
+    "name": "Star wars unlimited",
+    "menuBackgroundImage": "https://i.imgur.com/FMrbNER.jpeg",
+    "deckBuilding": {
+        "mainFilters": [
+            "aspects",
+            "type",
+            "cost"
+        ],
+        "formats": [
+            {
+                "title": "Premier",
+                "gameplay": "Classic"
+            },
+            {
+                "title": "Twin Suns",
+                "gameplay": "Classic"
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "You can draw a new hand once.",
+                "startingHandSize": 6,
+                "drawNewHand": true
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": true,
+                "firstPlayerTokenName": "Initiative",
+                "drawPerTurn": 2
+            },
+            "tokens": [
+                {
+                    "name": "Initiative",
+                    "image": "https://i.imgur.com/Zr2oV9p.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": false
+                },
+                {
+                    "name": "Blast",
+                    "image": "https://i.imgur.com/gW5E0z1.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": true
+                },
+                {
+                    "name": "Plan",
+                    "image": "https://i.imgur.com/hDR7qTd.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": true
+                },
+                {
+                    "name": "Force",
+                    "image": "https://i.imgur.com/SBFJBia.png",
+                    "isUnique": false,
+                    "leavesAtEndOfTurn": false
+                }
+            ],
+            "countersStartingValues": [
+                0
+            ],
+            "sections": {
+                "customSections": [
+                    "Ground",
+                    "Space",
+                    "Leader",
+                    "Base",
+                    "Mana"
+                ],
+                "layout": {
+                    "direction": "row",
+                    "isSymetricalForOpponents": true,
+                    "content": [
+                        {
+                            "direction": "column",
+                            "content": [
+                                {
+                                    "section": "Ground"
+                                },
+                                {
+                                    "section": "Mana"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "column",
+                            "style": {
+                                "width": "22vh",
+                                "justify-content": "start"
+                            },
+                            "content": [
+                                {
+                                    "section": "Base"
+                                },
+                                {
+                                    "section": "Leader"
+                                }
+                            ]
+                        },
+                        {
+                            "section": "Space"
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": [
+                    "Leader",
+                    "Base"
+                ],
+                "autoPlayFromHand": {
+                    "Unit - Ground": "Ground",
+                    "Unit - Space": "Space",
+                    "Leader": "Leader",
+                    "Base": "Base",
+                    "Event": "Stack",
+                    "Upgrade": "GROUP"
+                },
+                "autoPlayFromStack": {
+                    "Unit - Ground": "Ground",
+                    "Unit - Space": "Space",
+                    "Leader": "Leader",
+                    "Base": "Base",
+                    "Event": "Discard",
+                    "Upgrade": "GROUP"
+                },
+                "sectionsDict": {
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Pile"
+                    },
+                    "Ground": {
+                        "title": "Ground",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "enterTapped": true,
+                        "displayedTitle": "Ground units"
+                    },
+                    "Space": {
+                        "title": "Space",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "enterTapped": true,
+                        "displayedTitle": "Space units"
+                    },
+                    "Leader": {
+                        "title": "Leader",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "noQuickActions": true
+                    },
+                    "Base": {
+                        "title": "Base",
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true,
+                        "noQuickActions": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": "END",
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Ressources"
+                    }
+                }
+            }
+        }
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://i.imgur.com/KmXSVQp.jpeg",
+            "https://i.imgur.com/CFOwlKx.jpeg",
+            "https://i.imgur.com/n2EYbyu.jpeg",
+            "https://i.imgur.com/C3LAixE.jpeg",
+            "https://i.imgur.com/EZ9z8z6.jpeg",
+            "https://i.imgur.com/CKuiePb.jpeg"
+        ],
+        "decksUrl": "https://valcur.github.io/JSON/SWUDecks.json"
+    },
+    "customHelp": "To put a card in your ressources, drag and drop the card in the ressources area. You can take the initiative, blast and plan token with the '+' button on the bottom left corner.",
+    "cards": {
+        "dataUrl": "https://valcur.github.io/JSON/SWUCards.json",
+        "cardBack": "https://i.imgur.com/alTEVLx.jpeg"
+    }
+}
