@@ -1,0 +1,2969 @@
+{
+  "total_cards": 104,
+  "data": [
+    {
+      "Set": "IBH",
+      "Number": "82",
+      "Name": "Admiral Ozzel",
+      "Subtitle": "As Clumsy as He Is Stupid",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "1",
+      "FrontText": "When Defeated: Each opponent discards a card from their hand.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/82.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "85",
+      "Name": "Admiral Ozzel",
+      "Subtitle": "As Clumsy as He Is Stupid",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "1",
+      "FrontText": "When Defeated: Each opponent discards a card from their hand.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/85.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "60",
+      "Name": "Admiral Piett",
+      "Subtitle": "In Command Now",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "On Attack: If you control a Aggression unit, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/60.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "65",
+      "Name": "Admiral Piett",
+      "Subtitle": "In Command Now",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "On Attack: If you control a Aggression unit, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/65.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "72",
+      "Name": "Avenger",
+      "Subtitle": "Hunting the Rebels",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "8",
+      "Power": "8",
+      "HP": "6",
+      "FrontText": "When Played: Deal 1 damage to each other unit (including friendly units).",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "EJ Dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/72.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "103",
+      "Name": "Blizzard Force AT-ST",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/103.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "70",
+      "Name": "Blizzard Force AT-ST",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/70.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "89",
+      "Name": "Blizzard Force AT-ST",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/89.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "99",
+      "Name": "Blizzard One",
+      "Subtitle": "Veers at the Helm",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "When Played: You may defeat a non-leader ground unit with 3 or less remaining HP.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/99.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "14",
+      "Name": "Bright Hope",
+      "Subtitle": "Narrow Escape",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Ignacio Bazan Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/14.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "26",
+      "Name": "Bright Hope",
+      "Subtitle": "Narrow Escape",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Ignacio Bazan Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/26.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "19",
+      "Name": "C-3P0",
+      "Subtitle": "Oh Dear, Oh Dear",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "When Played: If you control a Cunning unit, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/19.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "41",
+      "Name": "C-3P0",
+      "Subtitle": "Oh Dear, Oh Dear",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "When Played: If you control a Cunning unit, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/41.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "3",
+      "Name": "Chewbacca",
+      "Subtitle": "Rrruuuurrr",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "WOOKIEE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/3.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "46",
+      "Name": "Chewbacca",
+      "Subtitle": "Rrruuuurrr",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "WOOKIEE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/46.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "53",
+      "Name": "Darth Vader",
+      "Subtitle": "Don't Fail Me Again",
+      "Type": "Leader",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "IMPERIAL",
+        "SITH"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "3",
+      "HP": "8",
+      "FrontText": "Action [C=1, Exhaust]: Deal 1 damage to a base.",
+      "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+      "DoubleSided": true,
+      "BackArt": "https://cdn.swu-db.com/images/cards/IBH/53-b.png",
+      "BackText": "On Attack: Deal 2 damage to a base.",
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/53.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "79",
+      "Name": "Death Squadron Star Destroyer",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Francois Cannels",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/79.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "98",
+      "Name": "Death Squadron Star Destroyer",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Francois Cannels",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/98.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "69",
+      "Name": "E-Web Gunner",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "0",
+      "HP": "4",
+      "FrontText": "Raid 4 (This unit gets +4/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/69.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "83",
+      "Name": "E-Web Gunner",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "0",
+      "HP": "4",
+      "FrontText": "Raid 4 (This unit gets +4/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/83.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "2",
+      "Name": "Echo Caverns",
+      "Subtitle": "Hoth",
+      "Type": "Base",
+      "Aspects": [
+        "Cunning"
+      ],
+      "HP": "20",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "EJ dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/2.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "43",
+      "Name": "Echo Coordinator",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "5",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Benjamin Paulus van Onzen",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/43.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "47",
+      "Name": "Echo Coordinator",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "5",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Benjamin Paulus van Onzen",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/47.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "7",
+      "Name": "Echo Coordinator",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "5",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Benjamin Paulus van Onzen",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/7.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "12",
+      "Name": "Evacuation Escort",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Pandu Mahardika",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/12.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "35",
+      "Name": "Evacuation Escort",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Pandu Mahardika",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/35.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "44",
+      "Name": "Evacuation Escort",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Pandu Mahardika",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/44.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "101",
+      "Name": "First Legion Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Monika Pa\u0142osz",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/101.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "55",
+      "Name": "First Legion Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Monika Pa\u0142osz",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/55.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "73",
+      "Name": "First Legion Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Monika Pa\u0142osz",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/73.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "54",
+      "Name": "Forward Command Post",
+      "Subtitle": "Hoth",
+      "Type": "Base",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "HP": "20",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Stephen Zavala",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/54.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "22",
+      "Name": "GR-75 Medium Transport",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/22.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "33",
+      "Name": "GR-75 Medium Transport",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/33.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "40",
+      "Name": "GR-75 Medium Transport",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/40.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "23",
+      "Name": "General Rieekan",
+      "Subtitle": "Stalwart Tactician",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "6",
+      "FrontText": "Action [Exhaust]: Attack with another Heroism unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/23.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "36",
+      "Name": "General Rieekan",
+      "Subtitle": "Stalwart Tactician",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "6",
+      "FrontText": "Action [Exhaust]: Attack with another Heroism unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/36.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "68",
+      "Name": "General Veers",
+      "Subtitle": "Leading the Assault",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "When Played: If you control a Vigilance unit, deal 2 damage to an enemy base and heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/68.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "88",
+      "Name": "General Veers",
+      "Subtitle": "Leading the Assault",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "When Played: If you control a Vigilance unit, deal 2 damage to an enemy base and heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/88.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "18",
+      "Name": "Go for the Legs",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "1",
+      "FrontText": "Exhaust an enemy ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Marko Fiedler",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/18.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "45",
+      "Name": "Go for the Legs",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "1",
+      "FrontText": "Exhaust an enemy ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Marko Fiedler",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/45.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "56",
+      "Name": "Ground Assault AT-AT",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Kyle Petchock",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/56.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "67",
+      "Name": "Ground Assault AT-AT",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Kyle Petchock",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/67.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "10",
+      "Name": "Han Solo",
+      "Subtitle": "Scruffy-Looking Nerf Herder",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets \u20132/\u20130 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/10.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "42",
+      "Name": "Han Solo",
+      "Subtitle": "Scruffy-Looking Nerf Herder",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets \u20132/\u20130 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/42.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "64",
+      "Name": "Hoth Lieutenant",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "When Played: You may attack with another unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/64.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "92",
+      "Name": "Hoth Lieutenant",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "When Played: You may attack with another unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/92.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "37",
+      "Name": "Hoth Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/37.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "38",
+      "Name": "Hoth Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/38.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "48",
+      "Name": "Hoth Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/48.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "102",
+      "Name": "I Want Proof, Not Leads",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "2",
+      "FrontText": "Draw 2 cards, then discard a card from your hand.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/102.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "74",
+      "Name": "I Want Proof, Not Leads",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "2",
+      "FrontText": "Draw 2 cards, then discard a card from your hand.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "David Buisa\u0301n",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/74.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "39",
+      "Name": "I'll Cover For You",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Deal 1 damage to an enemy unit and 1 damage to another enemy unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Kursad Karatas",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/39.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "5",
+      "Name": "I'll Cover For You",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Deal 1 damage to an enemy unit and 1 damage to another enemy unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Kursad Karatas",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/5.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "25",
+      "Name": "I've Found Them",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "GAMBIT"
+      ],
+      "Cost": "2",
+      "FrontText": "Reveal the top 3 cards of your deck. Draw a unit revealed this way, then discard the other revealed cards.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/25.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "9",
+      "Name": "I've Found Them",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "GAMBIT"
+      ],
+      "Cost": "2",
+      "FrontText": "Reveal the top 3 cards of your deck. Draw a unit revealed this way, then discard the other revealed cards.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/9.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "100",
+      "Name": "Imperial Deck Officer",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Action [Exhaust]: Heal 2 damage from a Villainy unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/100.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "62",
+      "Name": "Imperial Deck Officer",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Action [Exhaust]: Heal 2 damage from a Villainy unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/62.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "21",
+      "Name": "Improvised Detonation",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Attack with a unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Derek Laufman",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/21.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "30",
+      "Name": "Improvised Detonation",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Attack with a unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Derek Laufman",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/30.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "16",
+      "Name": "Ion Cannon",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "WEAPON"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "0",
+      "HP": "5",
+      "FrontText": "Action [Exhaust]: Deal 3 damage to a space unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Marko Fiedler",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/16.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "27",
+      "Name": "Ion Cannon",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "WEAPON"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "0",
+      "HP": "5",
+      "FrontText": "Action [Exhaust]: Deal 3 damage to a space unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Marko Fiedler",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/27.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "58",
+      "Name": "Lambda Shuttle",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Guillaume Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/58.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "84",
+      "Name": "Lambda Shuttle",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Guillaume Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/84.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "90",
+      "Name": "Lambda Shuttle",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Guillaume Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/90.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "1",
+      "Name": "Leia Organa",
+      "Subtitle": "Get to Your Transports!",
+      "Type": "Leader",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "7",
+      "FrontText": "Action [C=1, Exhaust]: Heal 1 damage from a friendly unit.",
+      "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader. (Flip her, ready her, and move her to the ground arena.)",
+      "DoubleSided": true,
+      "BackArt": "https://cdn.swu-db.com/images/cards/IBH/1-b.png",
+      "BackText": "On Attack: Heal 1 damage from a friendly unit and 1 damage from another friendly unit.",
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/1.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "20",
+      "Name": "Luke Skywalker",
+      "Subtitle": "Do You Read Me?",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE",
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)\nWhen Played: You may deal 3 damage to a ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/20.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "31",
+      "Name": "Millennium Falcon",
+      "Subtitle": "Bucket of Bolts",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "6",
+      "FrontText": "When Played: If your base has more damage on it than an enemy base, ready this unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/31.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "11",
+      "Name": "R2-D2",
+      "Subtitle": "Known to Make Mistakes",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "On Attack: If you control a Command unit, exhaust an enemy ground unit that costs 4 or less.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/11.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "49",
+      "Name": "R2-D2",
+      "Subtitle": "Known to Make Mistakes",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "On Attack: If you control a Command unit, exhaust an enemy ground unit that costs 4 or less.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/49.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "76",
+      "Name": "Rampaging Wampa",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "6",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/76.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "24",
+      "Name": "Rebellion Y-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "On Attack: Deal 1 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/24.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "32",
+      "Name": "Rebellion Y-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "On Attack: Deal 1 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/32.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "6",
+      "Name": "Rebellion Y-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "On Attack: Deal 1 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/6.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "13",
+      "Name": "Recovery",
+      "Type": "Event",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "3",
+      "FrontText": "Heal 5 damage from a unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Derek Laufman",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/13.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "17",
+      "Name": "Rogue Squadron Speeder",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "SPEEDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/17.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "34",
+      "Name": "Rogue Squadron Speeder",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "SPEEDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/34.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "4",
+      "Name": "Rogue Squadron Speeder",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "SPEEDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/4.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "75",
+      "Name": "Scouting TIE Fighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aaron Dhanda",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/75.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "81",
+      "Name": "Scouting TIE Fighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aaron Dhanda",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/81.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "97",
+      "Name": "Scouting TIE Fighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aaron Dhanda",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/97.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "63",
+      "Name": "Snowtrooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/63.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "77",
+      "Name": "Snowtrooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/77.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "87",
+      "Name": "Snowtrooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/87.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "57",
+      "Name": "Snowtrooper Vanguard",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ivan Fiorelli",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/57.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "80",
+      "Name": "Snowtrooper Vanguard",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ivan Fiorelli",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/80.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "96",
+      "Name": "Snowtrooper Vanguard",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ivan Fiorelli",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/96.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "78",
+      "Name": "Surface Assault Bomber",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/78.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "93",
+      "Name": "Surface Assault Bomber",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/93.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "94",
+      "Name": "Surface Assault Bomber",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/94.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "59",
+      "Name": "Target the Main Generator",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Deal 2 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/59.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "71",
+      "Name": "Target the Main Generator",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Deal 2 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/71.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "15",
+      "Name": "Tauntaun Mount",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "When Defeated: Heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/15.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "28",
+      "Name": "Tauntaun Mount",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "When Defeated: Heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/28.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "51",
+      "Name": "Tauntaun Mount",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "When Defeated: Heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/51.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "104",
+      "Name": "The Desolation of Hoth",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "DISASTER"
+      ],
+      "Cost": "6",
+      "FrontText": "Defeat up to 2 enemy units that each cost 3 or less.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/104.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "66",
+      "Name": "Too Strong for Blasters",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "1",
+      "FrontText": "Heal 2 damage from a unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/66.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "91",
+      "Name": "Too Strong for Blasters",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "1",
+      "FrontText": "Heal 2 damage from a unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/91.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "29",
+      "Name": "Trench Defender",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/29.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "50",
+      "Name": "Trench Defender",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/50.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "8",
+      "Name": "Trench Defender",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/8.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "52",
+      "Name": "Watch This",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "GAMBIT"
+      ],
+      "Cost": "6",
+      "FrontText": "Return a non-leader unit that costs 6 or less to its owner's hand. Exhaust each other enemy unit in the same arena.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Francois Cannels",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/52.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "61",
+      "Name": "We're In Trouble",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Deal 3 damage to a unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ignacio Bazan Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/61.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "86",
+      "Name": "We're In Trouble",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Deal 3 damage to a unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Ignacio Bazan Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/86.png"
+    },
+    {
+      "Set": "IBH",
+      "Number": "95",
+      "Name": "You Have Failed Me",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "4",
+      "FrontText": "Defeat a friendly unit. If you do, ready a friendly unit with 5 or less power.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "1.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/95.png"
+    }
+  ]
+}

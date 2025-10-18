@@ -64475,5 +64475,2784 @@
       "FORCE",
       "BOUNTY HUNTER"
     ]
+  },
+  "IBH_82": {
+    "id": "IBH_82",
+    "face": {
+      "front": {
+        "name": "Admiral Ozzel, As Clumsy as He Is Stupid",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/82.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Ozzel, As Clumsy as He Is Stupid",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 1,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_85": {
+    "id": "IBH_85",
+    "face": {
+      "front": {
+        "name": "Admiral Ozzel, As Clumsy as He Is Stupid",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/85.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Ozzel, As Clumsy as He Is Stupid",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 1,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_60": {
+    "id": "IBH_60",
+    "face": {
+      "front": {
+        "name": "Admiral Piett, In Command Now",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/60.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Piett, In Command Now",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_65": {
+    "id": "IBH_65",
+    "face": {
+      "front": {
+        "name": "Admiral Piett, In Command Now",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/65.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Piett, In Command Now",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_72": {
+    "id": "IBH_72",
+    "face": {
+      "front": {
+        "name": "Avenger, Hunting the Rebels",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/72.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avenger, Hunting the Rebels",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Special",
+    "power": 8,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "IBH_103": {
+    "id": "IBH_103",
+    "face": {
+      "front": {
+        "name": "Blizzard Force AT-ST",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard Force AT-ST",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_70": {
+    "id": "IBH_70",
+    "face": {
+      "front": {
+        "name": "Blizzard Force AT-ST",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/70.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard Force AT-ST",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_89": {
+    "id": "IBH_89",
+    "face": {
+      "front": {
+        "name": "Blizzard Force AT-ST",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/89.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard Force AT-ST",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_99": {
+    "id": "IBH_99",
+    "face": {
+      "front": {
+        "name": "Blizzard One, Veers at the Helm",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/99.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard One, Veers at the Helm",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_14": {
+    "id": "IBH_14",
+    "face": {
+      "front": {
+        "name": "Bright Hope, Narrow Escape",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bright Hope, Narrow Escape",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_26": {
+    "id": "IBH_26",
+    "face": {
+      "front": {
+        "name": "Bright Hope, Narrow Escape",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bright Hope, Narrow Escape",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_19": {
+    "id": "IBH_19",
+    "face": {
+      "front": {
+        "name": "C-3P0, Oh Dear, Oh Dear",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "C-3P0, Oh Dear, Oh Dear",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IBH_41": {
+    "id": "IBH_41",
+    "face": {
+      "front": {
+        "name": "C-3P0, Oh Dear, Oh Dear",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/41.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "C-3P0, Oh Dear, Oh Dear",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IBH_3": {
+    "id": "IBH_3",
+    "face": {
+      "front": {
+        "name": "Chewbacca, Rrruuuurrr",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chewbacca, Rrruuuurrr",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "WOOKIEE"
+    ]
+  },
+  "IBH_46": {
+    "id": "IBH_46",
+    "face": {
+      "front": {
+        "name": "Chewbacca, Rrruuuurrr",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/46.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chewbacca, Rrruuuurrr",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "WOOKIEE"
+    ]
+  },
+  "IBH_53": {
+    "id": "IBH_53",
+    "face": {
+      "front": {
+        "name": "Darth Vader, Don't Fail Me Again",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/53-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Vader, Don't Fail Me Again",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/IBH/53-b.png"
+      }
+    },
+    "name": "Darth Vader, Don't Fail Me Again",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 8,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH"
+    ]
+  },
+  "IBH_79": {
+    "id": "IBH_79",
+    "face": {
+      "front": {
+        "name": "Death Squadron Star Destroyer",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/79.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Squadron Star Destroyer",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "IBH_98": {
+    "id": "IBH_98",
+    "face": {
+      "front": {
+        "name": "Death Squadron Star Destroyer",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/98.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Squadron Star Destroyer",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "IBH_69": {
+    "id": "IBH_69",
+    "face": {
+      "front": {
+        "name": "E-Web Gunner",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/69.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "E-Web Gunner",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_83": {
+    "id": "IBH_83",
+    "face": {
+      "front": {
+        "name": "E-Web Gunner",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/83.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "E-Web Gunner",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_2": {
+    "id": "IBH_2",
+    "face": {
+      "front": {
+        "name": "Echo Caverns, Hoth",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/2-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Echo Caverns, Hoth",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 20,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IBH_43": {
+    "id": "IBH_43",
+    "face": {
+      "front": {
+        "name": "Echo Coordinator",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/43.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Echo Coordinator",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IBH_47": {
+    "id": "IBH_47",
+    "face": {
+      "front": {
+        "name": "Echo Coordinator",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/47.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Echo Coordinator",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IBH_7": {
+    "id": "IBH_7",
+    "face": {
+      "front": {
+        "name": "Echo Coordinator",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Echo Coordinator",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IBH_12": {
+    "id": "IBH_12",
+    "face": {
+      "front": {
+        "name": "Evacuation Escort",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evacuation Escort",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_35": {
+    "id": "IBH_35",
+    "face": {
+      "front": {
+        "name": "Evacuation Escort",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evacuation Escort",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_44": {
+    "id": "IBH_44",
+    "face": {
+      "front": {
+        "name": "Evacuation Escort",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/44.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evacuation Escort",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_101": {
+    "id": "IBH_101",
+    "face": {
+      "front": {
+        "name": "First Legion Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Legion Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_55": {
+    "id": "IBH_55",
+    "face": {
+      "front": {
+        "name": "First Legion Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/55.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Legion Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_73": {
+    "id": "IBH_73",
+    "face": {
+      "front": {
+        "name": "First Legion Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Legion Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_54": {
+    "id": "IBH_54",
+    "face": {
+      "front": {
+        "name": "Forward Command Post, Hoth",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/54-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Forward Command Post, Hoth",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 20,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IBH_22": {
+    "id": "IBH_22",
+    "face": {
+      "front": {
+        "name": "GR-75 Medium Transport",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "GR-75 Medium Transport",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_33": {
+    "id": "IBH_33",
+    "face": {
+      "front": {
+        "name": "GR-75 Medium Transport",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/33.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "GR-75 Medium Transport",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_40": {
+    "id": "IBH_40",
+    "face": {
+      "front": {
+        "name": "GR-75 Medium Transport",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/40.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "GR-75 Medium Transport",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_23": {
+    "id": "IBH_23",
+    "face": {
+      "front": {
+        "name": "General Rieekan, Stalwart Tactician",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Rieekan, Stalwart Tactician",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_36": {
+    "id": "IBH_36",
+    "face": {
+      "front": {
+        "name": "General Rieekan, Stalwart Tactician",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Rieekan, Stalwart Tactician",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_68": {
+    "id": "IBH_68",
+    "face": {
+      "front": {
+        "name": "General Veers, Leading the Assault",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/68.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Veers, Leading the Assault",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_88": {
+    "id": "IBH_88",
+    "face": {
+      "front": {
+        "name": "General Veers, Leading the Assault",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/88.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Veers, Leading the Assault",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_18": {
+    "id": "IBH_18",
+    "face": {
+      "front": {
+        "name": "Go for the Legs",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Go for the Legs",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_45": {
+    "id": "IBH_45",
+    "face": {
+      "front": {
+        "name": "Go for the Legs",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/45.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Go for the Legs",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_56": {
+    "id": "IBH_56",
+    "face": {
+      "front": {
+        "name": "Ground Assault AT-AT",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ground Assault AT-AT",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_67": {
+    "id": "IBH_67",
+    "face": {
+      "front": {
+        "name": "Ground Assault AT-AT",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/67.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ground Assault AT-AT",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 7,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IBH_10": {
+    "id": "IBH_10",
+    "face": {
+      "front": {
+        "name": "Han Solo, Scruffy-Looking Nerf Herder",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Han Solo, Scruffy-Looking Nerf Herder",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IBH_42": {
+    "id": "IBH_42",
+    "face": {
+      "front": {
+        "name": "Han Solo, Scruffy-Looking Nerf Herder",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/42.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Han Solo, Scruffy-Looking Nerf Herder",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IBH_64": {
+    "id": "IBH_64",
+    "face": {
+      "front": {
+        "name": "Hoth Lieutenant",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/64.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoth Lieutenant",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_92": {
+    "id": "IBH_92",
+    "face": {
+      "front": {
+        "name": "Hoth Lieutenant",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/92.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoth Lieutenant",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_37": {
+    "id": "IBH_37",
+    "face": {
+      "front": {
+        "name": "Hoth Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/37.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoth Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_38": {
+    "id": "IBH_38",
+    "face": {
+      "front": {
+        "name": "Hoth Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/38.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoth Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_48": {
+    "id": "IBH_48",
+    "face": {
+      "front": {
+        "name": "Hoth Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/48.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoth Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_102": {
+    "id": "IBH_102",
+    "face": {
+      "front": {
+        "name": "I Want Proof, Not Leads",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Want Proof, Not Leads",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "IBH_74": {
+    "id": "IBH_74",
+    "face": {
+      "front": {
+        "name": "I Want Proof, Not Leads",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/74.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Want Proof, Not Leads",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "IBH_39": {
+    "id": "IBH_39",
+    "face": {
+      "front": {
+        "name": "I'll Cover For You",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/39.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I'll Cover For You",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_5": {
+    "id": "IBH_5",
+    "face": {
+      "front": {
+        "name": "I'll Cover For You",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I'll Cover For You",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_25": {
+    "id": "IBH_25",
+    "face": {
+      "front": {
+        "name": "I've Found Them",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I've Found Them",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "IBH_9": {
+    "id": "IBH_9",
+    "face": {
+      "front": {
+        "name": "I've Found Them",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I've Found Them",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "IBH_100": {
+    "id": "IBH_100",
+    "face": {
+      "front": {
+        "name": "Imperial Deck Officer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imperial Deck Officer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
+    ]
+  },
+  "IBH_62": {
+    "id": "IBH_62",
+    "face": {
+      "front": {
+        "name": "Imperial Deck Officer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/62.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imperial Deck Officer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
+    ]
+  },
+  "IBH_21": {
+    "id": "IBH_21",
+    "face": {
+      "front": {
+        "name": "Improvised Detonation",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Improvised Detonation",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_30": {
+    "id": "IBH_30",
+    "face": {
+      "front": {
+        "name": "Improvised Detonation",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Improvised Detonation",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_16": {
+    "id": "IBH_16",
+    "face": {
+      "front": {
+        "name": "Ion Cannon",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/16.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ion Cannon",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "WEAPON"
+    ]
+  },
+  "IBH_27": {
+    "id": "IBH_27",
+    "face": {
+      "front": {
+        "name": "Ion Cannon",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ion Cannon",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 5,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "WEAPON"
+    ]
+  },
+  "IBH_58": {
+    "id": "IBH_58",
+    "face": {
+      "front": {
+        "name": "Lambda Shuttle",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/58.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lambda Shuttle",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_84": {
+    "id": "IBH_84",
+    "face": {
+      "front": {
+        "name": "Lambda Shuttle",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/84.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lambda Shuttle",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_90": {
+    "id": "IBH_90",
+    "face": {
+      "front": {
+        "name": "Lambda Shuttle",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/90.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lambda Shuttle",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_1": {
+    "id": "IBH_1",
+    "face": {
+      "front": {
+        "name": "Leia Organa, Get to Your Transports!",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/1-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Leia Organa, Get to Your Transports!",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/IBH/1-b.png"
+      }
+    },
+    "name": "Leia Organa, Get to Your Transports!",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 7,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "IBH_20": {
+    "id": "IBH_20",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, Do You Read Me?",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luke Skywalker, Do You Read Me?",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 6,
+    "HP": 6,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "REBEL"
+    ]
+  },
+  "IBH_31": {
+    "id": "IBH_31",
+    "face": {
+      "front": {
+        "name": "Millennium Falcon, Bucket of Bolts",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Millennium Falcon, Bucket of Bolts",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IBH_11": {
+    "id": "IBH_11",
+    "face": {
+      "front": {
+        "name": "R2-D2, Known to Make Mistakes",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "R2-D2, Known to Make Mistakes",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IBH_49": {
+    "id": "IBH_49",
+    "face": {
+      "front": {
+        "name": "R2-D2, Known to Make Mistakes",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/49.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "R2-D2, Known to Make Mistakes",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IBH_76": {
+    "id": "IBH_76",
+    "face": {
+      "front": {
+        "name": "Rampaging Wampa",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/76.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampaging Wampa",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 6,
+    "HP": 3,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "IBH_24": {
+    "id": "IBH_24",
+    "face": {
+      "front": {
+        "name": "Rebellion Y-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebellion Y-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_32": {
+    "id": "IBH_32",
+    "face": {
+      "front": {
+        "name": "Rebellion Y-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/32.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebellion Y-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_6": {
+    "id": "IBH_6",
+    "face": {
+      "front": {
+        "name": "Rebellion Y-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebellion Y-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_13": {
+    "id": "IBH_13",
+    "face": {
+      "front": {
+        "name": "Recovery",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recovery",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "IBH_17": {
+    "id": "IBH_17",
+    "face": {
+      "front": {
+        "name": "Rogue Squadron Speeder",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Squadron Speeder",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "IBH_34": {
+    "id": "IBH_34",
+    "face": {
+      "front": {
+        "name": "Rogue Squadron Speeder",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/34.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Squadron Speeder",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "IBH_4": {
+    "id": "IBH_4",
+    "face": {
+      "front": {
+        "name": "Rogue Squadron Speeder",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Squadron Speeder",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 5,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "IBH_75": {
+    "id": "IBH_75",
+    "face": {
+      "front": {
+        "name": "Scouting TIE Fighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/75.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scouting TIE Fighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_81": {
+    "id": "IBH_81",
+    "face": {
+      "front": {
+        "name": "Scouting TIE Fighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/81.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scouting TIE Fighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_97": {
+    "id": "IBH_97",
+    "face": {
+      "front": {
+        "name": "Scouting TIE Fighter",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/97.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scouting TIE Fighter",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_63": {
+    "id": "IBH_63",
+    "face": {
+      "front": {
+        "name": "Snowtrooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/63.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_77": {
+    "id": "IBH_77",
+    "face": {
+      "front": {
+        "name": "Snowtrooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/77.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_87": {
+    "id": "IBH_87",
+    "face": {
+      "front": {
+        "name": "Snowtrooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/87.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_57": {
+    "id": "IBH_57",
+    "face": {
+      "front": {
+        "name": "Snowtrooper Vanguard",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/57.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper Vanguard",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_80": {
+    "id": "IBH_80",
+    "face": {
+      "front": {
+        "name": "Snowtrooper Vanguard",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/80.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper Vanguard",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_96": {
+    "id": "IBH_96",
+    "face": {
+      "front": {
+        "name": "Snowtrooper Vanguard",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/96.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snowtrooper Vanguard",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 3,
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IBH_78": {
+    "id": "IBH_78",
+    "face": {
+      "front": {
+        "name": "Surface Assault Bomber",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/78.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surface Assault Bomber",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_93": {
+    "id": "IBH_93",
+    "face": {
+      "front": {
+        "name": "Surface Assault Bomber",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/93.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surface Assault Bomber",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_94": {
+    "id": "IBH_94",
+    "face": {
+      "front": {
+        "name": "Surface Assault Bomber",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/94.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surface Assault Bomber",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 3,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IBH_59": {
+    "id": "IBH_59",
+    "face": {
+      "front": {
+        "name": "Target the Main Generator",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/59.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Target the Main Generator",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_71": {
+    "id": "IBH_71",
+    "face": {
+      "front": {
+        "name": "Target the Main Generator",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/71.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Target the Main Generator",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_15": {
+    "id": "IBH_15",
+    "face": {
+      "front": {
+        "name": "Tauntaun Mount",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauntaun Mount",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "IBH_28": {
+    "id": "IBH_28",
+    "face": {
+      "front": {
+        "name": "Tauntaun Mount",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauntaun Mount",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "IBH_51": {
+    "id": "IBH_51",
+    "face": {
+      "front": {
+        "name": "Tauntaun Mount",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/51.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauntaun Mount",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "IBH_104": {
+    "id": "IBH_104",
+    "face": {
+      "front": {
+        "name": "The Desolation of Hoth",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Desolation of Hoth",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "DISASTER"
+    ]
+  },
+  "IBH_66": {
+    "id": "IBH_66",
+    "face": {
+      "front": {
+        "name": "Too Strong for Blasters",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/66.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Too Strong for Blasters",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "IBH_91": {
+    "id": "IBH_91",
+    "face": {
+      "front": {
+        "name": "Too Strong for Blasters",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/91.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Too Strong for Blasters",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "IBH_29": {
+    "id": "IBH_29",
+    "face": {
+      "front": {
+        "name": "Trench Defender",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trench Defender",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_50": {
+    "id": "IBH_50",
+    "face": {
+      "front": {
+        "name": "Trench Defender",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/50.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trench Defender",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_8": {
+    "id": "IBH_8",
+    "face": {
+      "front": {
+        "name": "Trench Defender",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trench Defender",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 4,
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "IBH_52": {
+    "id": "IBH_52",
+    "face": {
+      "front": {
+        "name": "Watch This",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/52.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watch This",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "IBH_61": {
+    "id": "IBH_61",
+    "face": {
+      "front": {
+        "name": "We're In Trouble",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/61.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "We're In Trouble",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_86": {
+    "id": "IBH_86",
+    "face": {
+      "front": {
+        "name": "We're In Trouble",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/86.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "We're In Trouble",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "IBH_95": {
+    "id": "IBH_95",
+    "face": {
+      "front": {
+        "name": "You Have Failed Me",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IBH/95.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "You Have Failed Me",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
   }
 }

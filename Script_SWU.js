@@ -214,7 +214,7 @@ async function run() {
         }
     }
 
-    const files = ["SWU_SOR.json", "SWU_SHD.json", "SWU_TWI.json", "SWU_JTL.json", "SWU_LOF.json"];
+    const files = ["SWU_SOR.json", "SWU_SHD.json", "SWU_TWI.json", "SWU_JTL.json", "SWU_LOF.json", "SWU_IBH.json"];
 
     // Exécution séquentielle
     for (let i = 0; i < files.length; i++) {
