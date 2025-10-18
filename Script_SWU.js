@@ -16,7 +16,7 @@ async function modifyJsonFile(inputFilePath, outputFilePath, result, isLast) {
             }
 
             function getArtUrl(image) {
-                if (isHorizontal) {
+                if (isHorizontal && !image.includes("github")) {
                     let withoutExtension = image.slice(0, -4);
                     return withoutExtension + "-r.png";
                 } else {
