@@ -211,6 +211,28 @@ async function run() {
             unique: false,
             traits: ["VEHICLE", "FIGHTER"],
             isToken: true
+        },
+        "T_07": {
+            id: "T_07",
+            face: {
+                front: {
+                    name: "Spy",
+                    type: "Unit - Ground",
+                    cost: 0,
+                    image: "https://swudb.com/cdn-cgi/image/quality=95/images/cards/TSEC/T01.png",
+                    isHorizontal: false
+                }
+            },
+            name: "Spy",
+            type: "Unit - Ground",
+            cost: 0,
+            rarity: "Token",
+            power: 0,
+            HP: 2,
+            aspects: [],
+            unique: false,
+            traits: ["OFFICIAL"],
+            isToken: true
         }
     }
 
