@@ -41,6 +41,7 @@ async function modifyJsonFile(inputFilePath, outputFilePath, result, isLast) {
                 rarity: c.Rarity,
                 power: parseInt(c.Power ? c.Power : 0),
                 HP: parseInt(c.HP ? c.HP : 0),
+                set: c.Set,
                 aspects: c.Aspects ? c.Aspects : [],
                 unique: c.Unique ? true : false,
                 traits: c.Traits ? c.Traits : []
