@@ -1,6 +1,5 @@
 const fs = require('fs').promises;
 
-// Fonction pour lire et modifier le fichier JSON
 async function modifyJsonFile(inputFilePath, outputFilePath, result, isLast) {
     try {
         const data = await fs.readFile("Sets/" + inputFilePath, 'utf8');
@@ -248,7 +247,6 @@ async function run() {
         "SWU_LAW.json"
     ];
 
-    // Exécution séquentielle
     for (let i = 0; i < files.length; i++) {
         const isLast = i === files.length - 1;
         await modifyJsonFile(files[i], outputFilePath, res, isLast);
