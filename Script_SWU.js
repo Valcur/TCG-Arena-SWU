@@ -233,6 +233,28 @@ async function run() {
             unique: false,
             traits: ["OFFICIAL"],
             isToken: true
+        },
+        "T_08": {
+            id: "T_08",
+            face: {
+                front: {
+                    name: "Credit",
+                    type: "Credit Token",
+                    cost: 0,
+                    image: "https://starwarsunlimited.com/_next/image?url=https%3A%2F%2Fcdn.starwarsunlimited.com%2F%2Fmedium_07010_T01_EN_Credit_44e5cf78ad.png&w=1200&q=75",
+                    isHorizontal: false
+                }
+            },
+            name: "Credit",
+            type: "Credit Token",
+            cost: 0,
+            rarity: "Token",
+            power: 0,
+            HP: 0,
+            aspects: [],
+            unique: false,
+            traits: ["SUPPLY"],
+            isToken: true
         }
     }
 
