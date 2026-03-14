@@ -99,7 +99,19 @@
                             ]
                         },
                         {
-                            "section": "Space"
+                            "direction": "column",
+                            "content": [
+                                {
+                                    "section": "Space"
+                                },
+                                {
+                                    "section": "Others",
+                                    "style": {
+                                        "marginLeft": "auto",
+                                        "width": "40%"
+                                    }
+                                }
+                            ]
                         }
                     ]
                 },
@@ -113,7 +125,8 @@
                     "Leader": "Leader",
                     "Base": "Base",
                     "Event": "Stack",
-                    "Upgrade": "GROUP"
+                    "Upgrade": "GROUP",
+                    "Credit Token": "Others"
                 },
                 "autoPlayFromStack": {
                     "Unit - Ground": "Ground",
@@ -121,7 +134,8 @@
                     "Leader": "Leader",
                     "Base": "Base",
                     "Event": "Discard",
-                    "Upgrade": "GROUP"
+                    "Upgrade": "GROUP",
+                    "Credit Token": "Others"
                 },
                 "sectionsDict": {
                     "Stack": {
@@ -177,6 +191,14 @@
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Ressources"
+                    },
+                    "Others": {
+                        "title": "Others",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "opponentAlignment": "END",
+                        "displayedTitle": "Others"
                     }
                 }
             }

@@ -188,7 +188,7 @@
         "name": "Credit",
         "type": "Credit Token",
         "cost": 0,
-        "image": "https://starwarsunlimited.com/_next/image?url=https%3A%2F%2Fcdn.starwarsunlimited.com%2F%2Fmedium_07010_T01_EN_Credit_44e5cf78ad.png&w=1200&q=75",
+        "image": "https://valcur.github.io/TCG-Arena-SWU/Images/LAW/creditToken.webp",
         "isHorizontal": false
       }
     },
