@@ -107,6 +107,7 @@
                                 },
                                 {
                                     "section": "Others",
+                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "marginLeft": "auto",
                                         "width": "40%"
@@ -198,7 +199,6 @@
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "END",
-                        "opponentAlignment": "END",
                         "displayedTitle": "Others"
                     }
                 }
