@@ -101,6 +101,7 @@
                         },
                         {
                             "direction": "column",
+                            "isSymetricalForOpponents": true,
                             "content": [
                                 {
                                     "section": "Space"
