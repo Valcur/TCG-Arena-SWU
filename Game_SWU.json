@@ -108,7 +108,6 @@
                                 },
                                 {
                                     "section": "Others",
-                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "marginLeft": "auto",
                                         "width": "40%"
