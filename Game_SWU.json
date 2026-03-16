@@ -199,6 +199,7 @@
                         "isHidden": "no",
                         "height": "SMALL",
                         "alignment": "END",
+                        "opponentAlignment": "START",
                         "displayedTitle": "Others",
                         "noQuickActions": true
                     }
