@@ -101,13 +101,13 @@
                         },
                         {
                             "direction": "column",
+                            "isSymetricalForOpponents": true,
                             "content": [
                                 {
                                     "section": "Space"
                                 },
                                 {
                                     "section": "Others",
-                                    "isSymetricalForOpponents": true,
                                     "style": {
                                         "marginLeft": "auto",
                                         "width": "40%"
