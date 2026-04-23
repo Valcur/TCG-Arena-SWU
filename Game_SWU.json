@@ -23,7 +23,14 @@
             "mulligan": {
                 "info": "You can draw a new hand once.",
                 "startingHandSize": 6,
-                "drawNewHand": true
+                "mulliganCount": {
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "selectionRange": {
+                        "min": 6
+                    }
+                }
             },
             "newTurn": {
                 "drawOnStart": false,
