@@ -102245,5 +102245,2354 @@
       "UNDERWORLD",
       "BOUNTY HUNTER"
     ]
+  },
+  "TS26_20": {
+    "id": "TS26_20",
+    "face": {
+      "front": {
+        "name": "501st Veteran",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "501st Veteran",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "TS26_37": {
+    "id": "TS26_37",
+    "face": {
+      "front": {
+        "name": "Abandoned the Order",
+        "type": "Upgrade",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/37.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abandoned the Order",
+    "type": "Upgrade",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "TS26_8": {
+    "id": "TS26_8",
+    "face": {
+      "front": {
+        "name": "Ahsoka Tano, I Have an Idea",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/8-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Ahsoka Tano, I Have an Idea",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/8-b.png"
+      }
+    },
+    "name": "Ahsoka Tano, I Have an Idea",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "TS26_35": {
+    "id": "TS26_35",
+    "face": {
+      "front": {
+        "name": "Ahsoka's Lightsabers",
+        "type": "Upgrade",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ahsoka's Lightsabers",
+    "type": "Upgrade",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON",
+      "LIGHTSABER"
+    ]
+  },
+  "TS26_2": {
+    "id": "TS26_2",
+    "face": {
+      "front": {
+        "name": "Anakin Skywalker, Protect Her At All Costs",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/2-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Anakin Skywalker, Protect Her At All Costs",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/2-b.png"
+      }
+    },
+    "name": "Anakin Skywalker, Protect Her At All Costs",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "TS26_44": {
+    "id": "TS26_44",
+    "face": {
+      "front": {
+        "name": "Arena Reek",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/44.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arena Reek",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "TS26_68": {
+    "id": "TS26_68",
+    "face": {
+      "front": {
+        "name": "Arms Deal",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/68.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arms Deal",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "TS26_7": {
+    "id": "TS26_7",
+    "face": {
+      "front": {
+        "name": "Asajj Ventress, Ambitious Apprentice",
+        "type": "Leader",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/7-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Asajj Ventress, Ambitious Apprentice",
+        "type": "Leader",
+        "cost": "5",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/7-b.png"
+      }
+    },
+    "name": "Asajj Ventress, Ambitious Apprentice",
+    "type": "Leader",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH"
+    ]
+  },
+  "TS26_23": {
+    "id": "TS26_23",
+    "face": {
+      "front": {
+        "name": "Assault Lander LAAT",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Assault Lander LAAT",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_70": {
+    "id": "TS26_70",
+    "face": {
+      "front": {
+        "name": "Backed by Black Sun",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/70.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Backed by Black Sun",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "TS26_58": {
+    "id": "TS26_58",
+    "face": {
+      "front": {
+        "name": "Backed by the Pykes",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/58.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Backed by the Pykes",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "TS26_78": {
+    "id": "TS26_78",
+    "face": {
+      "front": {
+        "name": "Barriss Offee, It's Only a Matter of Time",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/78.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Barriss Offee, It's Only a Matter of Time",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "TS26_65": {
+    "id": "TS26_65",
+    "face": {
+      "front": {
+        "name": "Bo-Katan Kryze, The Lawless",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/65.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bo-Katan Kryze, The Lawless",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "TS26_59": {
+    "id": "TS26_59",
+    "face": {
+      "front": {
+        "name": "Brothers",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/59.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brothers",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "TS26_15": {
+    "id": "TS26_15",
+    "face": {
+      "front": {
+        "name": "C-3P0, Die, Jedi Dogs!",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "C-3P0, Die, Jedi Dogs!",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "DROID"
+    ]
+  },
+  "TS26_39": {
+    "id": "TS26_39",
+    "face": {
+      "front": {
+        "name": "Captain Vaughn, Search the Tunnels",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/39.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Vaughn, Search the Tunnels",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "TS26_45": {
+    "id": "TS26_45",
+    "face": {
+      "front": {
+        "name": "Champion",
+        "type": "Upgrade",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/45.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Champion",
+    "type": "Upgrade",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "TS26_31": {
+    "id": "TS26_31",
+    "face": {
+      "front": {
+        "name": "Chaotic Diversion",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chaotic Diversion",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC",
+      "TRICK"
+    ]
+  },
+  "TS26_19": {
+    "id": "TS26_19",
+    "face": {
+      "front": {
+        "name": "Coleman Trebor, Jedi Rescuer",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coleman Trebor, Jedi Rescuer",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 2,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "TS26_53": {
+    "id": "TS26_53",
+    "face": {
+      "front": {
+        "name": "Coruscanti Spy",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/53.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coruscanti Spy",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 2,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "OFFICIAL"
+    ]
+  },
+  "TS26_1": {
+    "id": "TS26_1",
+    "face": {
+      "front": {
+        "name": "Count Dooku, Offering Aid",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/1-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Count Dooku, Offering Aid",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/1-b.png"
+      }
+    },
+    "name": "Count Dooku, Offering Aid",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 7,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_13": {
+    "id": "TS26_13",
+    "face": {
+      "front": {
+        "name": "Darth Sidious, Under a Cloak of Darkness",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Sidious, Under a Cloak of Darkness",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH"
+    ]
+  },
+  "TS26_77": {
+    "id": "TS26_77",
+    "face": {
+      "front": {
+        "name": "Deployed Droideka",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/77.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deployed Droideka",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID"
+    ]
+  },
+  "TS26_10": {
+    "id": "TS26_10",
+    "face": {
+      "front": {
+        "name": "Dooku's Palace, Serenno",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/10-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Dooku's Palace, Serenno",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "TS26_38": {
+    "id": "TS26_38",
+    "face": {
+      "front": {
+        "name": "Dooku's Solar Sailer, Beautiful and Expensive",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/38.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dooku's Solar Sailer, Beautiful and Expensive",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_61": {
+    "id": "TS26_61",
+    "face": {
+      "front": {
+        "name": "Encircle",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/61.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encircle",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_82": {
+    "id": "TS26_82",
+    "face": {
+      "front": {
+        "name": "Evade Arrest",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/82.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evade Arrest",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "TS26_11": {
+    "id": "TS26_11",
+    "face": {
+      "front": {
+        "name": "Executioner's Arena, Geonosis",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/11-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Executioner's Arena, Geonosis",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "TS26_84": {
+    "id": "TS26_84",
+    "face": {
+      "front": {
+        "name": "Fearless Attack",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/84.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fearless Attack",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_72": {
+    "id": "TS26_72",
+    "face": {
+      "front": {
+        "name": "Fervor",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/72.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fervor",
+    "type": "Event",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "TS26_25": {
+    "id": "TS26_25",
+    "face": {
+      "front": {
+        "name": "Fiery Alliance",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiery Alliance",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "TS26_9": {
+    "id": "TS26_9",
+    "face": {
+      "front": {
+        "name": "First Battle Memorial, Coruscant",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/9-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "First Battle Memorial, Coruscant",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "TS26_34": {
+    "id": "TS26_34",
+    "face": {
+      "front": {
+        "name": "Fives, I Have Proof!",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/34.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fives, I Have Proof!",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "TS26_27": {
+    "id": "TS26_27",
+    "face": {
+      "front": {
+        "name": "Fortune and Glory, Hondo's Luxury Yacht",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fortune and Glory, Hondo's Luxury Yacht",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_56": {
+    "id": "TS26_56",
+    "face": {
+      "front": {
+        "name": "Galactic Escalation",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galactic Escalation",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "TS26_21": {
+    "id": "TS26_21",
+    "face": {
+      "front": {
+        "name": "Gar Saxon, Sundari Pillager",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gar Saxon, Sundari Pillager",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "TS26_50": {
+    "id": "TS26_50",
+    "face": {
+      "front": {
+        "name": "General Grievous, Crush Them!",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/50.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Grievous, Crush Them!",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_75": {
+    "id": "TS26_75",
+    "face": {
+      "front": {
+        "name": "Jango Fett, Guarding the Count",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/75.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jango Fett, Guarding the Count",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "TS26_55": {
+    "id": "TS26_55",
+    "face": {
+      "front": {
+        "name": "Jedi General",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/55.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jedi General",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE",
+      "REPUBLIC",
+      "JEDI"
+    ]
+  },
+  "TS26_18": {
+    "id": "TS26_18",
+    "face": {
+      "front": {
+        "name": "Jendirian Valley, Refugee Freighter",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jendirian Valley, Refugee Freighter",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_16": {
+    "id": "TS26_16",
+    "face": {
+      "front": {
+        "name": "King Katuunko, Great King of Toydaria",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/16.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Katuunko, Great King of Toydaria",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "OFFICIAL"
+    ]
+  },
+  "TS26_33": {
+    "id": "TS26_33",
+    "face": {
+      "front": {
+        "name": "Kouhun Assassination",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/33.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kouhun Assassination",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "TS26_51": {
+    "id": "TS26_51",
+    "face": {
+      "front": {
+        "name": "Lom Pyke, Making a Withdrawal",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/51.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lom Pyke, Making a Withdrawal",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_3": {
+    "id": "TS26_3",
+    "face": {
+      "front": {
+        "name": "Maul, Collective Ambition",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/3-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Maul, Collective Ambition",
+        "type": "Leader",
+        "cost": "7",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/3-b.png"
+      }
+    },
+    "name": "Maul, Collective Ambition",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 9,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_30": {
+    "id": "TS26_30",
+    "face": {
+      "front": {
+        "name": "Maul, One Last Lesson",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maul, One Last Lesson",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_57": {
+    "id": "TS26_57",
+    "face": {
+      "front": {
+        "name": "Mechanize",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/57.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mechanize",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
+  "TS26_81": {
+    "id": "TS26_81",
+    "face": {
+      "front": {
+        "name": "Mislead",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/81.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mislead",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "TS26_73": {
+    "id": "TS26_73",
+    "face": {
+      "front": {
+        "name": "Moralo Eval, Infamous Murderer",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moralo Eval, Infamous Murderer",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 2,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_26": {
+    "id": "TS26_26",
+    "face": {
+      "front": {
+        "name": "Mother Talzin, Stealing the Spirit",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mother Talzin, Stealing the Spirit",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
+  "TS26_40": {
+    "id": "TS26_40",
+    "face": {
+      "front": {
+        "name": "Obi-Wan Kenobi, Steadfast Knight",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/40.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Obi-Wan Kenobi, Steadfast Knight",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "TS26_4": {
+    "id": "TS26_4",
+    "face": {
+      "front": {
+        "name": "Padmé Amidala, Follow My Lead",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/4-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Padmé Amidala, Follow My Lead",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/4-b.png"
+      }
+    },
+    "name": "Padmé Amidala, Follow My Lead",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "NABOO",
+      "REPUBLIC",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_74": {
+    "id": "TS26_74",
+    "face": {
+      "front": {
+        "name": "Pre Vizsla, For Mandalore!",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/74.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pre Vizsla, For Mandalore!",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "TS26_28": {
+    "id": "TS26_28",
+    "face": {
+      "front": {
+        "name": "Prime Minister Almec, Scheming Populist",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prime Minister Almec, Scheming Populist",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_62": {
+    "id": "TS26_62",
+    "face": {
+      "front": {
+        "name": "R2-D2, Getting His Chance",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/62.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "R2-D2, Getting His Chance",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "DROID"
+    ]
+  },
+  "TS26_32": {
+    "id": "TS26_32",
+    "face": {
+      "front": {
+        "name": "Reckless Landing",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/32.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reckless Landing",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "TS26_42": {
+    "id": "TS26_42",
+    "face": {
+      "front": {
+        "name": "Relief Frigate",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/42.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relief Frigate",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 7,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "TS26_69": {
+    "id": "TS26_69",
+    "face": {
+      "front": {
+        "name": "Remove the Chip",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/69.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remove the Chip",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "MODIFICATION"
+    ]
+  },
+  "TS26_80": {
+    "id": "TS26_80",
+    "face": {
+      "front": {
+        "name": "Reveal Intentions",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/80.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reveal Intentions",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "TS26_6": {
+    "id": "TS26_6",
+    "face": {
+      "front": {
+        "name": "Rex, No Other Option",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/6-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Rex, No Other Option",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/6-b.png"
+      }
+    },
+    "name": "Rex, No Other Option",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "TS26_63": {
+    "id": "TS26_63",
+    "face": {
+      "front": {
+        "name": "Rex's DC-17s",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/63.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rex's DC-17s",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "TS26_67": {
+    "id": "TS26_67",
+    "face": {
+      "front": {
+        "name": "Ruping Rider",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/67.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruping Rider",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "CREATURE",
+      "TROOPER"
+    ]
+  },
+  "TS26_17": {
+    "id": "TS26_17",
+    "face": {
+      "front": {
+        "name": "Rush Clovis, Trapped by Authority",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rush Clovis, Trapped by Authority",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_5": {
+    "id": "TS26_5",
+    "face": {
+      "front": {
+        "name": "Savage Opress, You Must Have Your Revenge",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/5-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Savage Opress, You Must Have Your Revenge",
+        "type": "Leader",
+        "cost": "6",
+        "image": "https://cdn.swu-db.com/images/cards/TS26/5-b.png"
+      }
+    },
+    "name": "Savage Opress, You Must Have Your Revenge",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 7,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_46": {
+    "id": "TS26_46",
+    "face": {
+      "front": {
+        "name": "Secret Marriage",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/46.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Secret Marriage",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "TS26_49": {
+    "id": "TS26_49",
+    "face": {
+      "front": {
+        "name": "Separatist Council, Quarrelsome Holdouts",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/49.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Separatist Council, Quarrelsome Holdouts",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 6,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "TS26_52": {
+    "id": "TS26_52",
+    "face": {
+      "front": {
+        "name": "Sith Traditions",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/52.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sith Traditions",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SITH",
+      "LEARNED"
+    ]
+  },
+  "TS26_24": {
+    "id": "TS26_24",
+    "face": {
+      "front": {
+        "name": "Sundari Gauntlet",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sundari Gauntlet",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_12": {
+    "id": "TS26_12",
+    "face": {
+      "front": {
+        "name": "Sundari Palace, Mandalore",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/12-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Sundari Palace, Mandalore",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 27,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "TS26_71": {
+    "id": "TS26_71",
+    "face": {
+      "front": {
+        "name": "Take Action",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/71.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Action",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_83": {
+    "id": "TS26_83",
+    "face": {
+      "front": {
+        "name": "Take Aim",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/83.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Aim",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_60": {
+    "id": "TS26_60",
+    "face": {
+      "front": {
+        "name": "Take Charge",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/60.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Charge",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_47": {
+    "id": "TS26_47",
+    "face": {
+      "front": {
+        "name": "Take Cover",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/47.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Take Cover",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_22": {
+    "id": "TS26_22",
+    "face": {
+      "front": {
+        "name": "The Darksaber, Only the Strongest Shall Rule",
+        "type": "Upgrade",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Darksaber, Only the Strongest Shall Rule",
+    "type": "Upgrade",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Command",
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "TS26_36": {
+    "id": "TS26_36",
+    "face": {
+      "front": {
+        "name": "Tribunal, Grave of the 332nd",
+        "type": "Unit - Space",
+        "cost": 10,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tribunal, Grave of the 332nd",
+    "type": "Unit - Space",
+    "cost": 10,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 8,
+    "set": "TS26",
+    "aspects": [
+      "Cunning",
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "TS26_41": {
+    "id": "TS26_41",
+    "face": {
+      "front": {
+        "name": "Twilight, Escaping Malevolence",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/41.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twilight, Escaping Malevolence",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "TS26_79": {
+    "id": "TS26_79",
+    "face": {
+      "front": {
+        "name": "Underestimated",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/79.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Underestimated",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "TS26_64": {
+    "id": "TS26_64",
+    "face": {
+      "front": {
+        "name": "Urgent Mission",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/64.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urgent Mission",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "TS26_48": {
+    "id": "TS26_48",
+    "face": {
+      "front": {
+        "name": "Vanquish the Legion",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/48.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanquish the Legion",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "TS26_54": {
+    "id": "TS26_54",
+    "face": {
+      "front": {
+        "name": "Wartime Mercenaries",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/54.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wartime Mercenaries",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "set": "TS26",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TROOPER"
+    ]
+  },
+  "TS26_66": {
+    "id": "TS26_66",
+    "face": {
+      "front": {
+        "name": "Wartime Pirate",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/66.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wartime Pirate",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "TS26_76": {
+    "id": "TS26_76",
+    "face": {
+      "front": {
+        "name": "Wartime Profiteer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/76.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wartime Profiteer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "TS26_43": {
+    "id": "TS26_43",
+    "face": {
+      "front": {
+        "name": "Wartime Refugee",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/43.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wartime Refugee",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TWI'LEK"
+    ]
+  },
+  "TS26_14": {
+    "id": "TS26_14",
+    "face": {
+      "front": {
+        "name": "Yoda, Begun, the Clone War Has",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yoda, Begun, the Clone War Has",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Vigilance",
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "REPUBLIC"
+    ]
+  },
+  "TS26_29": {
+    "id": "TS26_29",
+    "face": {
+      "front": {
+        "name": "Ziton Moj, Sowing Chaos",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/TS26/29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ziton Moj, Sowing Chaos",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 4,
+    "set": "TS26",
+    "aspects": [
+      "Aggression",
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
   }
 }
