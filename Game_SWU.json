@@ -64,6 +64,33 @@
                     "leavesAtEndOfTurn": false
                 }
             ],
+            "draggableTokens": [
+                {
+                  "id": "Shield",
+                  "name": "Shield",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/shield.png"
+                },
+                {
+                  "id": "Experience",
+                  "name": "Experience",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/experience.png"
+                },
+                {
+                  "id": "Epic action",
+                  "name": "Epic action",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/epic.png"
+                },
+                {
+                  "id": "Reminder",
+                  "name": "Reminder",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/reminder.png"
+                },
+                {
+                  "id": "Sentinel",
+                  "name": "Sentinel",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/sentinel.png"
+                }
+              ],
             "countersStartingValues": [
                 0
             ],
