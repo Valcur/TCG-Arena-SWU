@@ -81,6 +81,26 @@
                   "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/epic.png"
                 },
                 {
+                  "id": "0a1",
+                  "name": "0a1",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/0a1.png"
+                },
+				{
+                  "id": "a10",
+                  "name": "a10",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/a10.png"
+                },
+				{
+                  "id": "a1a1",
+                  "name": "a1a1",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/a1a1.png"
+                },
+				{
+                  "id": "m1m1",
+                  "name": "m1m1",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/m1m19.png"
+                },
+				{
                   "id": "Reminder",
                   "name": "Reminder",
                   "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/reminder.png"
