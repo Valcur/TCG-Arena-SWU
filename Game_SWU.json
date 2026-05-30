@@ -80,6 +80,16 @@
                   "name": "Epic action",
                   "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/epic.png"
                 },
+				{
+                  "id": "Reminder",
+                  "name": "Reminder",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/reminder.png"
+                },
+                {
+                  "id": "Sentinel",
+                  "name": "Sentinel",
+                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/sentinel.png"
+                },
                 {
                   "id": "0a1",
                   "name": "0a1",
@@ -99,16 +109,6 @@
                   "id": "m1m1",
                   "name": "m1m1",
                   "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/m1m1.png"
-                },
-				{
-                  "id": "Reminder",
-                  "name": "Reminder",
-                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/reminder.png"
-                },
-                {
-                  "id": "Sentinel",
-                  "name": "Sentinel",
-                  "image": "https://valcur.github.io/TCG-Arena-SWU/Images/DraggableTokens/sentinel.png"
                 }
               ],
             "countersStartingValues": [
