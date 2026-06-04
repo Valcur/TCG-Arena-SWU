@@ -267,7 +267,8 @@ async function run() {
         "SWU_IBH.json",
         "SWU_SEC.json",
         "SWU_LAW.json",
-        "SWU_TS26.json"
+        "SWU_TS26.json",
+        "SWU_ASH.json"
     ];
 
     for (let i = 0; i < files.length; i++) {
