@@ -205,6 +205,56 @@
     ],
     "isToken": true
   },
+  "T_09": {
+    "id": "T_09",
+    "face": {
+      "front": {
+        "name": "Mandalorian",
+        "type": "Unit - Ground",
+        "cost": 0,
+        "image": "https://swudb.com/cdn-cgi/image/quality=95/images/ASH/T09.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandalorian",
+    "type": "Unit - Ground",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 2,
+    "HP": 2,
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ],
+    "isToken": true
+  },
+  "T_10": {
+    "id": "T_10",
+    "face": {
+      "front": {
+        "name": "Advantage",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://swudb.com/cdn-cgi/image/quality=95/images/ASH/T10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Advantage",
+    "type": "Upgrade",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 1,
+    "HP": 0,
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ],
+    "isToken": true
+  },
   "SOR_059": {
     "id": "SOR_059",
     "face": {
