@@ -1,5 +1,5 @@
 {
-  "total_cards": 103,
+  "total_cards": 260,
   "data": [
     {
       "Set": "ASH",
@@ -32,6 +32,38 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/118.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "098",
+      "Name": "AT-ST Raider",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "5",
+      "FrontText": "While you control another non-unique unit, this unit gains Ambush. (When you play this unit, it may attack an enemy unit.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Ambush"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/098.png"
     },
     {
       "Set": "ASH",
@@ -101,6 +133,36 @@
     },
     {
       "Set": "ASH",
+      "Number": "164",
+      "Name": "Alamite Hunter",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Overwhelm"
+      ],
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/164.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "159",
       "Name": "Alphabet Squadron U-Wing",
       "Subtitle": "Quiet Devotion",
@@ -132,6 +194,34 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/159.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "214",
+      "Name": "Amnesty Officer",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "When Played: You may exhaust a unit with one or more Keywords.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/214.png"
     },
     {
       "Set": "ASH",
@@ -213,6 +303,112 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/116.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "084",
+      "Name": "Arcana Star Map",
+      "Subtitle": "Path to Peridea",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "ITEM"
+      ],
+      "Cost": "1",
+      "FrontText": "Attached unit gains: \u201cIf you would search a number of cards from your deck, search twice that number of cards instead.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/084.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "070",
+      "Name": "At Attin Safety Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "If your base would be dealt more than 4 damage, prevent all but 4 of that damage.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/070.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "238",
+      "Name": "Attendant Navigator",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "FIRST ORDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Played: You may give 2 Advantage tokens to a space unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Guilluame Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/238.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "169",
+      "Name": "Axe Woves",
+      "Subtitle": "Undaunted",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "When you draw 1 or more cards (including during the regroup phase): Give an Advantage token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Wu Shenyou",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/169.png"
     },
     {
       "Set": "ASH",
@@ -371,6 +567,94 @@
     },
     {
       "Set": "ASH",
+      "Number": "204",
+      "Name": "Blade Three",
+      "Subtitle": "Bane of the Devastator",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "When your base is dealt damage: Give an Advantage token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/204.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "055",
+      "Name": "Blade of Talzin",
+      "Subtitle": "A Gift of Shadows",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "NIGHT",
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "2",
+      "FrontText": "Attach to a non-Vehicle unit.\nWhen Defeated: If this upgrade was on a friendly Night unit, return this upgrade from your discard pile to your hand.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Terry Wei",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/055.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "121",
+      "Name": "Blurrg",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nOverwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Overwhelm",
+        "Support"
+      ],
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/121.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "010",
       "Name": "Bo-Katan Kryze",
       "Subtitle": "Reclaiming Mandalore",
@@ -403,6 +687,124 @@
     },
     {
       "Set": "ASH",
+      "Number": "105",
+      "Name": "Bo-Katan Kryze",
+      "Subtitle": "For All of Mandalore",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "While you control another Mandalorian unit, this unit gains Raid 2.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/105.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "063",
+      "Name": "Bo-Katan's Gauntlet",
+      "Subtitle": "Reinforce from Above",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "5",
+      "FrontText": "Restore 1\nEach other friendly non-token unit gains: \u201cWhen Defeated: Create a Mandalorian token.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/063.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "179",
+      "Name": "Boba Fett's Rancor",
+      "Subtitle": "Emotionally Complex Creature",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "8",
+      "Power": "8",
+      "HP": "9",
+      "FrontText": "When Played: Deal 5 damage to your base. Then, deal 5 damage to an enemy ground unit. Then, deal 5 damage to the same unit.\nOn Attack: You may deal 1 damage to a base for every 5 damage on your base.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "EJ Dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/179.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "180",
+      "Name": "Bokken Saber",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "1",
+      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \u201cWhen Attack Ends: Give an Advantage token to this unit.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Lucia Massucco-Aguilar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/180.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "128",
       "Name": "Bothan-5",
       "Subtitle": "New Republic Prison Ship",
@@ -430,6 +832,31 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/128.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "091",
+      "Name": "Buy Time",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Create a Mandalorian token and give it Sentinel for this phase. (Enemy units in its arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/091.png"
     },
     {
       "Set": "ASH",
@@ -469,6 +896,152 @@
     },
     {
       "Set": "ASH",
+      "Number": "229",
+      "Name": "Camtono",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "ITEM"
+      ],
+      "Cost": "2",
+      "FrontText": "Attached unit gains: \u201cWhen Attack Ends: Look at the top card of your deck. If it costs 2 or less, you may play it for free.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Miki Montll\u00f3",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/229.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "093",
+      "Name": "Captain Pellaeon",
+      "Subtitle": "Plotting from the Shadows",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "While a leader unit has been defeated this phase, this unit gains Raid 3. (He gets +3/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Vincent Dutrait",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/093.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "202",
+      "Name": "Carson Teva",
+      "Subtitle": "There's Something Going On",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "NEW REPUBLIC"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nWhile attacking, this unit deals combat damage before the defender.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/202.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "111",
+      "Name": "Children of the Watch",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: Create 2 Mandalorian tokens.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/111.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "052",
+      "Name": "Chimaera",
+      "Subtitle": "A Frightening Reality",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "When Played: You may choose a friendly unit and an enemy non-leader unit. If you do, defeat those units.\nWhen an enemy unit is defeated: Heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "Stephen Zavala",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/052.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "257",
       "Name": "Choose Your Path",
       "Type": "Event",
@@ -489,6 +1062,127 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/257.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "165",
+      "Name": "Clan Vizsla Soldier",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Defeated: You may defeat an upgrade.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Lucia Massucco-Aguilar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/165.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "107",
+      "Name": "Clan Wren Loyalist",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "When Played: Search the top 5 cards of your deck for a card that shares a Trait with a unit you control, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Eslam AboShady",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/107.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "060",
+      "Name": "Cobb Vanth",
+      "Subtitle": "Let Me Handle This",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "6",
+      "FrontText": "Grit\nWhen you play another unit: You may deal 2 damage to this unit. If you do, give a Shield token to that unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Grit"
+      ],
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/060.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "122",
+      "Name": "Consortium StarViper",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "FRINGE",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "While you have the initiative, this unit gains RESTORE 2. (When this unit attacks, heal 2 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Christian Papazoglakis",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/122.png"
     },
     {
       "Set": "ASH",
@@ -524,6 +1218,63 @@
     },
     {
       "Set": "ASH",
+      "Number": "080",
+      "Name": "Covert Believers",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "5",
+      "FrontText": "When Defeated: Create a Mandalorian token.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Andrea Milana",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/080.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "249",
+      "Name": "Covert Veteran",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Jim Moore",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/249.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "108",
       "Name": "Crix Madine",
       "Subtitle": "Strike Team Strategist",
@@ -551,6 +1302,82 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/108.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "087",
+      "Name": "Cybernetic Enhancements",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "MODIFICATION"
+      ],
+      "Cost": "3",
+      "FrontText": "When Played: Draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/087.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "210",
+      "Name": "DDC Defender",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "1",
+      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \u201cOn Defense: You may deal 1 damage to a unit in this unit's arena and exhaust it.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/210.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "157",
+      "Name": "Danger Squadron Wingmen",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "5",
+      "FrontText": "On Attack: You may give an Advantage token to another unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Francois Cannels",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/157.png"
     },
     {
       "Set": "ASH",
@@ -589,6 +1416,29 @@
     },
     {
       "Set": "ASH",
+      "Number": "104",
+      "Name": "Dathomiri Magicks",
+      "Type": "Event",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Cost": "6",
+      "FrontText": "If you control a Force unit, this event costs 1 less to play.\nPlay up to 3 non-Vehicle units that each cost 2 or less from your discard pile for free.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Robynn Frauhn",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/104.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "150",
       "Name": "Deadly Vulnerability",
       "Type": "Upgrade",
@@ -609,6 +1459,120 @@
       "MarketPrice": "0.00",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/150.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "242",
+      "Name": "Death Trooper Squad",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/242.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "129",
+      "Name": "Defenders of the Forest",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "EWOK"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "3",
+      "FrontText": "Ambush (When you play this unit, it may attack an enemy unit.)\nOverwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Ambush",
+        "Overwhelm"
+      ],
+      "Artist": "Luke Harrington",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/129.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "170",
+      "Name": "Desert Sharpshooter",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "TWI'LEK",
+        "BOUNTY HUNTER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: You may deal 2 damage to an upgraded ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Joey Vazquez",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/170.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "131",
+      "Name": "Dinosaur Turtle",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "7",
+      "HP": "7",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/131.png"
     },
     {
       "Set": "ASH",
@@ -634,6 +1598,86 @@
     },
     {
       "Set": "ASH",
+      "Number": "136",
+      "Name": "Display of Strength",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Give a unit +3/+3 for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/136.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "072",
+      "Name": "Doctor Pershing",
+      "Subtitle": "Dedicated to Research",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "NEW REPUBLIC"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "0",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nOn Attack: If this unit has 3 or more remaining HP, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/072.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "068",
+      "Name": "Domesticated Loth-Cat",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Enemy units lose Ambush and Support.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Aleksa Stajsic",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/068.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "024",
       "Name": "Dragonsnake Bog",
       "Subtitle": "Dagobah",
@@ -651,6 +1695,56 @@
       "MarketPrice": "0.00",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/024.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "058",
+      "Name": "Duchess's Protector",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Defeated: Create a Mandalorian token.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/058.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "086",
+      "Name": "Durasteel Plating",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "ARMOR"
+      ],
+      "Cost": "2",
+      "FrontText": "When Played: Give a Shield token to attached unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/086.png"
     },
     {
       "Set": "ASH",
@@ -716,6 +1810,38 @@
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/015.png",
       "tcgplayerId": "688997"
+    },
+    {
+      "Set": "ASH",
+      "Number": "193",
+      "Name": "Emperor's Champion",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Shielded (When you play this unit, give a Shield token to it.)\nSaboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Saboteur",
+        "Shielded"
+      ],
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/193.png"
     },
     {
       "Set": "ASH",
@@ -822,6 +1948,37 @@
     },
     {
       "Set": "ASH",
+      "Number": "149",
+      "Name": "Eviscerator",
+      "Subtitle": "Burn Them Away",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "8",
+      "Power": "9",
+      "HP": "7",
+      "FrontText": "Advantage tokens on friendly units lose all abilities. (They aren't defeated after combat.)\nWhen Played/On Attack: Give 2 Advantage tokens to each other friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/149.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "166",
       "Name": "Ewok Warrior",
       "Type": "Unit",
@@ -884,6 +2041,58 @@
     },
     {
       "Set": "ASH",
+      "Number": "246",
+      "Name": "Exploit Advantage",
+      "Type": "Event",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Defeat a friendly upgrade. If you do, draw 2 cards.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/246.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "245",
+      "Name": "Eye of Sion",
+      "Subtitle": "Delivered from Exile",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "8",
+      "FrontText": "Action [Exhaust]: Search the top 8 cards of your deck for a unit that costs the same as or less than this unit's power. Play it for free. It enters play ready.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/245.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "013",
       "Name": "Ezra Bridger",
       "Subtitle": "It's Now or Never",
@@ -922,6 +2131,72 @@
     },
     {
       "Set": "ASH",
+      "Number": "209",
+      "Name": "Ezra Bridger",
+      "Subtitle": "The Force is All I Need",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE",
+        "JEDI",
+        "SPECTRE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nOn Attack: If this unit is upgraded, you may give a unit -3/-0 for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/209.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "130",
+      "Name": "Fang Fighter Squadron",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "5",
+      "HP": "5",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Wu Shenyou",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/130.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "236",
       "Name": "Far Far Away",
       "Type": "Event",
@@ -941,6 +2216,29 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/236.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "211",
+      "Name": "Fateful Goodbye",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "2",
+      "FrontText": "If a friendly unit left play this phase, distribute 3 Advantage tokens among friendly units. If a friendly leader unit left play this phase, distribute 5 Advantage tokens instead.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/211.png"
     },
     {
       "Set": "ASH",
@@ -976,6 +2274,40 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/002.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "192",
+      "Name": "Fennec Shand",
+      "Subtitle": "The Galaxy is Dangerous",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "BOUNTY HUNTER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "Ambush (When you play this unit, she may attack an enemy unit.)\nSaboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Ambush",
+        "Saboteur"
+      ],
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/192.png"
     },
     {
       "Set": "ASH",
@@ -1035,6 +2367,35 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/215.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "167",
+      "Name": "Flarestar Attack Shuttle",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "1",
+      "FrontText": "When Played/When Defeated: You may give an Advantage token to a unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Kursad Karatas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/167.png"
     },
     {
       "Set": "ASH",
@@ -1114,6 +2475,28 @@
     },
     {
       "Set": "ASH",
+      "Number": "092",
+      "Name": "Foundling Rescue",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "4",
+      "FrontText": "You may defeat a unit with 2 or less remaining HP.\nCreate a Mandalorian token.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Bruno Frenda",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/092.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "026",
       "Name": "Freetown",
       "Subtitle": "Tatooine",
@@ -1131,6 +2514,139 @@
       "MarketPrice": "0.00",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/026.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "232",
+      "Name": "Full of Surprises",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TRICK"
+      ],
+      "Cost": "2",
+      "FrontText": "Return an upgrade that costs 2 or less to its owner's hand.\nGive a Shield token to a unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/232.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "100",
+      "Name": "Gallius Rax",
+      "Subtitle": "Counselor to the Empire",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "7",
+      "FrontText": "Other friendly units with 2 or more different Keywords get +2/+2.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/100.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "254",
+      "Name": "Gallofree Transport",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "When Defeated: Give 2 Advantage tokens to a friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/254.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "188",
+      "Name": "Galvanized Leap",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Cost": "4",
+      "FrontText": "Ready a unit that was damaged this phase.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/188.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "047",
+      "Name": "Gar Saxon",
+      "Subtitle": "Coveting Power",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "When you play an upgrade on this unit: You may create a Mandalorian token. Use this ability only once each round.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Mooncolony",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/047.png"
     },
     {
       "Set": "ASH",
@@ -1329,6 +2845,30 @@
     },
     {
       "Set": "ASH",
+      "Number": "085",
+      "Name": "Grav Charge",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "CONDITION",
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "1",
+      "FrontText": "When attached unit's attack ends: Deal 4 damage to it and defeat this upgrade.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/085.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "017",
       "Name": "Greef Karga",
       "Subtitle": "Gracious Magistrate",
@@ -1358,6 +2898,34 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/017.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "119",
+      "Name": "Greef Karga",
+      "Subtitle": "Introductions are in Order",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "Action [C=1, Exhaust]: If your base was attacked this phase, create a Mandalorian token.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/119.png"
     },
     {
       "Set": "ASH",
@@ -1454,6 +3022,39 @@
     },
     {
       "Set": "ASH",
+      "Number": "223",
+      "Name": "Halo",
+      "Subtitle": "Not According to Plan",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nWhen Attack Ends: If the defending unit was defeated, give a Shield token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Marco Castiello",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/223.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "158",
       "Name": "Han Solo",
       "Subtitle": "It'll Work",
@@ -1485,6 +3086,28 @@
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/158.png",
       "tcgplayerId": "688992"
+    },
+    {
+      "Set": "ASH",
+      "Number": "227",
+      "Name": "Heightened Awareness",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Cost": "1",
+      "FrontText": "Attached unit gains: \u201cWhen the regroup phase starts: Give an Advantage token to this unit.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/227.png"
     },
     {
       "Set": "ASH",
@@ -1610,6 +3233,125 @@
     },
     {
       "Set": "ASH",
+      "Number": "139",
+      "Name": "Hold Them Off",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "4",
+      "FrontText": "Choose a friendly unit. That unit deals damage equal to its power divided as you choose among any number of units in its arena.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Ivan Shavrin",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/139.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "065",
+      "Name": "Home One",
+      "Subtitle": "Heart of the Fleet",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "8",
+      "Power": "7",
+      "HP": "10",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\nWhen Played: Heal all damage from each friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/065.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "154",
+      "Name": "Honorable Nite Owl",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nRaid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Raid",
+        "Support"
+      ],
+      "Artist": "Kyle Petchock",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/154.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "056",
+      "Name": "Huyang",
+      "Subtitle": "Your Aptitude Falls Short",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "JEDI",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "On Attack: You may give an upgraded unit -4/-0 for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Guilluame Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/056.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "048",
       "Name": "Imperial Armored Commando",
       "Type": "Unit",
@@ -1639,6 +3381,195 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/048.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "250",
+      "Name": "Imperial Defector",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "When Played: Look at an opponent's hand.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Miki Montll\u00f3",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/250.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "239",
+      "Name": "Imperial Loyalist",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Sebasti\u00e1n Guidobono",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/239.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "176",
+      "Name": "Imposing Scout Walker",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "When Played: You may deal 3 damage to a ground unit. If it's defeated this way, give 3 Advantage tokens to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "JB Casacop",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/176.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "230",
+      "Name": "Improvised Identity",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "GAMBIT"
+      ],
+      "Cost": "2",
+      "FrontText": "Attach to a ground unit.\nAttached unit gains: \u201cAction: Search the top 3 cards of your deck for a ground unit and discard it. Then, you may attack with this unit. For this attack, this unit gains the discarded unit's abilities. Use this ability only once each round.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/230.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "152",
+      "Name": "Inspired Recruit",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "3",
+      "HP": "1",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Jim Moore",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/152.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "205",
+      "Name": "Inspiring Veteran",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "RESISTANCE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: Give an Advantage token to each of up to 3 exhausted units.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Gustavo Pelissari",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/205.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "185",
+      "Name": "Intimidation",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "2",
+      "FrontText": "If you control a unit with 4 or more power, draw 2 cards.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Ivan Shavrin",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/185.png"
     },
     {
       "Set": "ASH",
@@ -1676,6 +3607,38 @@
     },
     {
       "Set": "ASH",
+      "Number": "219",
+      "Name": "Jod Na Nawood",
+      "Subtitle": "We Don't Want War",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "FORCE",
+        "UNDERWORLD"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "4",
+      "HP": "3",
+      "FrontText": "Sentinel\nWhen Played: You may pay 4. If you do, choose an arena. Exhaust each unit in that arena.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/219.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "146",
       "Name": "Justifier",
       "Subtitle": "Relentless",
@@ -1704,6 +3667,60 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/146.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "160",
+      "Name": "Kachirho Militia",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Heroism"
+      ],
+      "Traits": [
+        "WOOKIEE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)\nWhen an enemy ground unit attacks your base: Ready this unit. Use this ability only once each round.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Kevin Sidharta",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/160.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "233",
+      "Name": "Keep Them Talking",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TRICK"
+      ],
+      "Cost": "2",
+      "FrontText": "Exhaust up to 2 units that each cost 3 or less.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/233.png"
     },
     {
       "Set": "ASH",
@@ -1737,6 +3754,36 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/206.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "178",
+      "Name": "Knobby White Ice Spider",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)\nWhen Played: For each enemy unit, give an Advantage token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/178.png"
     },
     {
       "Set": "ASH",
@@ -1816,6 +3863,34 @@
     },
     {
       "Set": "ASH",
+      "Number": "123",
+      "Name": "Lang",
+      "Subtitle": "Arrogant Mercenary",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Action [Exhaust]: This unit deals damage equal to his power to a ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/123.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "059",
       "Name": "Leia Organa",
       "Subtitle": "Vigilant for Danger",
@@ -1870,6 +3945,39 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/103.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "057",
+      "Name": "Lothal E-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "While an enemy unit is upgraded, this unit gains Restore 2. (When this unit attacks, heal 2 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Natcha Ngamtweerat",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/057.png"
     },
     {
       "Set": "ASH",
@@ -1968,6 +4076,154 @@
     },
     {
       "Set": "ASH",
+      "Number": "113",
+      "Name": "Mandalorian Flagship",
+      "Subtitle": "Captured from the Empire",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "7",
+      "Power": "4",
+      "HP": "8",
+      "FrontText": "While you control a leader unit, this unit gains Ambush. (When you play this unit, it may attack an enemy unit.)\nThis unit gets +1/+0 for each other friendly Mandalorian unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Ambush"
+      ],
+      "Artist": "Kursad Karatas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/113.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "216",
+      "Name": "Mandalorian Scout",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Defeated: Exhaust a ready friendly resource.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Tatsiana Maksimuk",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/216.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "240",
+      "Name": "Mandalorian Super Commandos",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "While you control a leader unit, this unit gets +2/+0.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Manos Sparakis",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/240.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "203",
+      "Name": "Mando's N-1 Starfighter",
+      "Subtitle": "Faster than a Fathier",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Support \nOn Attack: You may exhaust a friendly (non-upgrade) leader. If you do, this unit gets +2/+0 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/203.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "181",
+      "Name": "Mark My Words",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "LEARNED"
+      ],
+      "Cost": "1",
+      "FrontText": "Attach to a damaged unit.\nAttached unit gains Overwhelm. (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Overwhelm"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/181.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "030",
       "Name": "Marrok",
       "Subtitle": "Mysterious Warrior",
@@ -2058,6 +4314,65 @@
     },
     {
       "Set": "ASH",
+      "Number": "217",
+      "Name": "Mayor's Majordomo",
+      "Subtitle": "No Problem Groveling",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Action [Exhaust, discard a card from your hand]: Exhaust a unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Miki Montll\u00f3",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/217.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "168",
+      "Name": "Migs Mayfeld",
+      "Subtitle": "How About a Toast?",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "Support\nOn Attack: Deal 1 damage to the defending unit. If this unit is upgraded, deal 2 damage to the defending unit instead.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Borja Pindado",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/168.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "008",
       "Name": "Moff Gideon",
       "Subtitle": "Indomitable Warlord",
@@ -2088,6 +4403,39 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/008.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "097",
+      "Name": "Moff Gideon",
+      "Subtitle": "Remnant Commander",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "8",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\nWhen Defeated: You may return a non-unique Imperial unit from your discard pile to your hand.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/097.png"
     },
     {
       "Set": "ASH",
@@ -2155,6 +4503,91 @@
     },
     {
       "Set": "ASH",
+      "Number": "142",
+      "Name": "Mortar Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Action [Exhaust]: Deal 1 damage to each of up to 3 ground units.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/142.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "074",
+      "Name": "Mos Eisley Modifier",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nGrit (This unit gets +1/+0 for each damage on it.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Grit",
+        "Support"
+      ],
+      "Artist": "Mooncolony",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/074.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "260",
+      "Name": "Mos Espa Watermonger",
+      "Type": "Unit",
+      "Aspects": [],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "When Played: You may draw a card. If you do, discard a card.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/260.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "237",
       "Name": "Mouse Droid",
       "Type": "Unit",
@@ -2186,6 +4619,94 @@
     },
     {
       "Set": "ASH",
+      "Number": "252",
+      "Name": "N5 Sentry Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "4",
+      "HP": "2",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/252.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "081",
+      "Name": "Nebulon-C Frigate",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "When Played: You may heal 3 damage from a unit or base.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Henning Ludvigsen",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/081.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "248",
+      "Name": "Neel",
+      "Subtitle": "The Cutest Boy",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "When Played/On Attack: The next unit you play this phase with 1 or less power enters play ready.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/248.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "020",
       "Name": "Nevarro City, Restored",
       "Subtitle": "Nevarro",
@@ -2203,6 +4724,122 @@
       "MarketPrice": "0.00",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/020.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "148",
+      "Name": "Ninth Sister",
+      "Subtitle": "Hulking Inquisitor",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "IMPERIAL",
+        "INQUISITOR"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "8",
+      "HP": "7",
+      "FrontText": "Overwhelm\nWhen Played: An opponent discards a card from their hand. You may deal damage equal to its cost divided as you choose among any number of units.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Keywords": [
+        "Overwhelm"
+      ],
+      "Artist": "Bruno Frenda",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/148.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "261",
+      "Name": "Noti Mobile Pod",
+      "Type": "Unit",
+      "Aspects": [],
+      "Traits": [
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Victor Stoll Toaldo",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/261.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "069",
+      "Name": "Noti Nomad",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "2",
+      "FrontText": "Shielded (When you play this unit, give a Shield token to it.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Shielded "
+      ],
+      "Artist": "Borja Pindado",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/069.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "198",
+      "Name": "Nowhere to Hide",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "CONDITION"
+      ],
+      "Cost": "2",
+      "FrontText": "Attached unit gains Sentinel. (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Eric Hibbeler",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/198.png"
     },
     {
       "Set": "ASH",
@@ -2225,6 +4862,91 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/247.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "177",
+      "Name": "Onyx Cinder",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "6",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "Hidden\nOther friendly units gain Hidden.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Ignacio Bazan-Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/177.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "201",
+      "Name": "Open Circle Ace",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "1",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Renato Roldan",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/201.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "151",
+      "Name": "Operation Cinder",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "DISASTER",
+        "PLAN"
+      ],
+      "Cost": "6",
+      "FrontText": "Deal 5 damage to your base. Then, deal 5 damage to each unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/151.png"
     },
     {
       "Set": "ASH",
@@ -2256,6 +4978,102 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/041.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "117",
+      "Name": "Outland Protector",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "2",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\n",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/117.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "073",
+      "Name": "Palace Chef Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "0",
+      "HP": "3",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\nThis unit gets +2/+0 while defending.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/073.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "106",
+      "Name": "Pathfinder Sergeant",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "Ambush (When you play this unit, it may attack an enemy unit.)\nRestore 1 (When this unit attacks, heal 1 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Ambush",
+        "Restore"
+      ],
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/106.png"
     },
     {
       "Set": "ASH",
@@ -2292,6 +5110,142 @@
     },
     {
       "Set": "ASH",
+      "Number": "171",
+      "Name": "Pegasus Tri-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "When Played: You may defeat a friendly upgrade. If you do, ready this unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Christian Papazoglakis",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/171.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "212",
+      "Name": "Peli Motto",
+      "Subtitle": "You Bring the Cash?",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "1",
+      "HP": "1",
+      "FrontText": "Shielded\nIgnore the aspect penalties of the first non\u2011unit card you play each phase.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Shielded"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/212.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "190",
+      "Name": "Peridea Bandit",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "FRINGE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "4",
+      "HP": "1",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Benjamin Paulus",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/190.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "089",
+      "Name": "Perserverance",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "2",
+      "FrontText": "Heal 3 damage from a unit and give a Shield token to it.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Eslam AboShady",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/089.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "075",
+      "Name": "Pit Droid Team",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "The first upgrade you play on another friendly unit each phase costs 1 less.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/075.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "040",
       "Name": "Poe Dameron",
       "Subtitle": "I'll Come Back For You",
@@ -2319,6 +5273,60 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/040.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "054",
+      "Name": "Pointless to Resist",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "CONDITION"
+      ],
+      "Cost": "1",
+      "FrontText": "Attached unit gets -3/-0 while attacking a base.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/054.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "145",
+      "Name": "Praetorian Elite",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "Grit (This unit gets +1/+0 for each damage on it.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Grit"
+      ],
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/145.png"
     },
     {
       "Set": "ASH",
@@ -2352,6 +5360,57 @@
     },
     {
       "Set": "ASH",
+      "Number": "228",
+      "Name": "Preparation",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "1",
+      "FrontText": "When Played: Exhaust attached unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/228.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "124",
+      "Name": "Protectorate Fighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "1",
+      "FrontText": "When Played: If you control a unique unit, create a Mandalorian token.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/124.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "038",
       "Name": "Purrgil Ultra",
       "Type": "Unit",
@@ -2377,6 +5436,63 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/038.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "226",
+      "Name": "Qi'ra",
+      "Subtitle": "Master of Ter\u00e4s K\u00e4si",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "UNDERWORLD"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "9",
+      "HP": "7",
+      "FrontText": "This unit gets -1/-0 for each card in your hand.\nWhen Played: You may discard a card from your hand. If you do, deal 3 damage to a unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Derek Laufman",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/226.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "132",
+      "Name": "Queen Soruna",
+      "Subtitle": "Willing to Fight",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "NABOO",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "When Played/On Attack: You may reveal a unit from your hand. If you do, deal 3 damage to a unit with the same cost as the revealed unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/132.png"
     },
     {
       "Set": "ASH",
@@ -2464,6 +5580,136 @@
     },
     {
       "Set": "ASH",
+      "Number": "102",
+      "Name": "Ravager",
+      "Subtitle": "Final Imperial Command",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "9",
+      "Power": "8",
+      "HP": "10",
+      "FrontText": "Restore 2\nWhen you play a unit: You may have it deal damage equal to its power to a unit in the same arena.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/102.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "172",
+      "Name": "Razor Crest",
+      "Subtitle": "Outfitted Armament",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)\nOn Attack: You may discard a card from your hand. If you do, this unit gets +2/+0 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Saboteur"
+      ],
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/172.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "045",
+      "Name": "Reanimated Night Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "NIGHT",
+        "UNDEAD",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "1",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "When Defeated: Look at the top card of a deck. You may discard it.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/045.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "256",
+      "Name": "Rebel Infiltrators",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)\nSaboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore",
+        "Saboteur"
+      ],
+      "Artist": "Miki Montll\u00f3",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/256.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "163",
       "Name": "Reckless Sacrifice",
       "Type": "Event",
@@ -2484,6 +5730,28 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/163.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "187",
+      "Name": "Reckoning",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "3",
+      "FrontText": "Deal damage to a unit equal to the total amount of damage on all units you control.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/187.png"
     },
     {
       "Set": "ASH",
@@ -2522,6 +5790,28 @@
     },
     {
       "Set": "ASH",
+      "Number": "090",
+      "Name": "Reforge",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "SUPPLY"
+      ],
+      "Cost": "2",
+      "FrontText": "Defeat an upgrade on a friendly unit. If you do, search the top 8 cards of your deck for an upgrade that can attach to that unit, reveal it, and play it on that unit. It costs 4 less.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Ben Vazquez",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/090.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "200",
       "Name": "Rehabilitation",
       "Type": "Event",
@@ -2542,6 +5832,163 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/200.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "051",
+      "Name": "Reinforcing Light Cruiser",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "5",
+      "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)\nWhen Played: You may exhaust a unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Henning Ludvigsen",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/051.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "095",
+      "Name": "Remnant Interceptor",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nRestore 1 (When this unit attacks, heal 1 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore",
+        "Support"
+      ],
+      "Artist": "Ignacio Bazan-Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/095.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "220",
+      "Name": "Remnant Lookouts",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: Look at an opponent's hand. You may discard a card from it. If you do, they draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Miki Montll\u00f3",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/220.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "076",
+      "Name": "Remnant Official",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/076.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "244",
+      "Name": "Remnant Trooper Corps",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "6",
+      "HP": "5",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Alejandro Mirabal",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/244.png"
     },
     {
       "Set": "ASH",
@@ -2575,6 +6022,38 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/036.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "077",
+      "Name": "Ryder Azadi",
+      "Subtitle": "Restored Governor",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "Restore 1\nWhen Played: Name a card. While this unit is in play, opponents can't play cards with that name.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/077.png"
     },
     {
       "Set": "ASH",
@@ -2672,6 +6151,40 @@
     },
     {
       "Set": "ASH",
+      "Number": "046",
+      "Name": "Scion Shuttle",
+      "Subtitle": "At Morgan's Bidding",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "1",
+      "HP": "3",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nWhile this unit is attacking, the defending unit gets -1/-1.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/046.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "029",
       "Name": "Scorpenek Annihilator Droid",
       "Type": "Unit",
@@ -2703,6 +6216,28 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/029.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "235",
+      "Name": "Sense Through the Force",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Cost": "2",
+      "FrontText": "Choose a number, then search the top 5 cards of your deck for a card, reveal it, and draw it. If its cost is the chosen number, you may give 3 Advantage tokens to a Force unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Sandra Chlewi\u0144ska",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/235.png"
     },
     {
       "Set": "ASH",
@@ -2738,6 +6273,193 @@
     },
     {
       "Set": "ASH",
+      "Number": "049",
+      "Name": "Shin Hati",
+      "Subtitle": "Going Somewhere?",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "While this is the only friendly non-leader ground unit, she gains Sentinel. (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Jessi Ochse",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/049.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "191",
+      "Name": "Shin Hati's Fiend Fighter",
+      "Subtitle": "Compact and Agile",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "1",
+      "FrontText": "When Defeated: You may give 2 Advantage tokens to a unit. If this unit wasn't defeated by combat damage, you may give 3 Advantage tokens to that unit instead.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/191.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "173",
+      "Name": "Shydopp Pirate Skiff",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "5",
+      "FrontText": "Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)\n",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Saboteur"
+      ],
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/173.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "194",
+      "Name": "Snub Fighter Squadron",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "3",
+      "FrontText": "Ambush (When you play this unit, it may attack an enemy unit.)\nWhen Played: Deal 1 damage to a space unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Ambush"
+      ],
+      "Artist": "Pandu Mahardika",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/194.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "174",
+      "Name": "StarFortress Heavy Bomber",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "RESISTANCE",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "5",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: You may deal 6 damage to a non-unique ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/174.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "125",
+      "Name": "Stolen Eta Shuttle",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)\nWhile you have the initiative, this unit gets +2/+0.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Christian Piccolo",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/125.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "061",
       "Name": "Strike Team Vanguard",
       "Type": "Unit",
@@ -2764,6 +6486,157 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/061.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "140",
+      "Name": "Stronger Together",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "LEARNED"
+      ],
+      "Cost": "4",
+      "FrontText": "Create 2 Mandalorian tokens.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Buis\u00e1n",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/140.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "083",
+      "Name": "Summa-verminoth",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "12",
+      "Power": "15",
+      "HP": "15",
+      "FrontText": "Sentinel\nOn Attack: Defeat all other space units.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/083.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "126",
+      "Name": "Survivors' Langskib",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "VEHICLE",
+        "SPEEDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "4",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\n",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Bruno Frenda",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/126.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "109",
+      "Name": "T-6 Shuttle 1974",
+      "Subtitle": "With a Mentor's Dedication",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "JEDI",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)\nAction [Exhaust]: Give another unit +2/+2 for this phase. You may attack with that unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/109.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "141",
+      "Name": "TIE Striker",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "1",
+      "Power": "2",
+      "HP": "1",
+      "FrontText": "Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Saboteur"
+      ],
+      "Artist": "Christian Papazoglakis",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/141.png"
     },
     {
       "Set": "ASH",
@@ -2797,6 +6670,68 @@
     },
     {
       "Set": "ASH",
+      "Number": "225",
+      "Name": "Tatooine Sand Beast",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "CREATURE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "8",
+      "HP": "4",
+      "FrontText": "Hidden (This unit can't be attacked if it was played this phase.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Hidden"
+      ],
+      "Artist": "Alejandro Mirabal",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/225.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "143",
+      "Name": "Tempest Lieutenant",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Overwhelm"
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/143.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "001",
       "Name": "The Armorer",
       "Subtitle": "Steel Shapes Us",
@@ -2826,6 +6761,38 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/001.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "064",
+      "Name": "The Armorer",
+      "Subtitle": "Secrecy is Our Survival",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "5",
+      "FrontText": "Shielded (When you play this unit, give a Shield token to her.)\nWhen Played: Give a Shield token to each friendly unit with Shielded (including this one).",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Shielded"
+      ],
+      "Artist": "Axel Hutt",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/064.png"
     },
     {
       "Set": "ASH",
@@ -2883,6 +6850,64 @@
     },
     {
       "Set": "ASH",
+      "Number": "135",
+      "Name": "The Darksaber",
+      "Subtitle": "Icon of Leadership",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "4",
+      "FrontText": "Attach to a unique non-Vehicle unit.\nAttached unit is a leader unit and gains the Mandalorian trait.\nAttached unit gains: \u201cWhile you are paying costs, this unit provides its aspect icons.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Artist": "Benjamin Paulus",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/135.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "101",
+      "Name": "The Great Mothers",
+      "Subtitle": "With Strange Magicks",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "NIGHT"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "7",
+      "Power": "6",
+      "HP": "7",
+      "FrontText": "Support\nWhen Attack Ends: If this unit dealt combat damage to 1 or more non-leader units, defeat those units.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/101.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "014",
       "Name": "The Mandalorian",
       "Subtitle": "We Can't Keep Running",
@@ -2918,6 +6943,38 @@
     },
     {
       "Set": "ASH",
+      "Number": "062",
+      "Name": "The Mandalorian",
+      "Subtitle": "Devoted Rescuer",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "5",
+      "HP": "4",
+      "FrontText": "Shielded\nIf damage would be dealt to another friendly unit, you may defeat a Shield token on this unit. If you do, prevent that damage.",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": true,
+      "Keywords": [
+        "Shielded "
+      ],
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/062.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "115",
       "Name": "The Student Guides the Master",
       "Type": "Event",
@@ -2938,6 +6995,220 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/115.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "127",
+      "Name": "The Twins",
+      "Subtitle": "We Don't Want War",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "HUTT"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "4",
+      "Power": "2",
+      "HP": "7",
+      "FrontText": "When Played/On Attack: You may give another friendly unit Sentinel for this phase.\nWhen another friendly unit is defeated: Heal 1 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/127.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "199",
+      "Name": "There Is No Conflict",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "2",
+      "FrontText": "When Played: Return any number of other upgrades on attached unit to their owners' hands.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/199.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "133",
+      "Name": "Trask Walker",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "8",
+      "Power": "5",
+      "HP": "9",
+      "FrontText": "When Played/On Attack: Choose a unit in your discard pile that costs 7 or less. Either put that card on the bottom of your deck and heal 3 damage from your base or return it to your hand.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Ignacio Bazan-Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/133.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "186",
+      "Name": "Treacherous Minefield",
+      "Type": "Event",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "2",
+      "FrontText": "Choose an arena. For this phase, each unit in that arena gains: \u201cOn Attack: Deal 2 damage to this unit.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Ignacio Bazan-Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/186.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "082",
+      "Name": "Trexler Armored Marauder",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "TANK"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "6",
+      "Power": "5",
+      "HP": "6",
+      "FrontText": "Grit (This unit gets +1/+0 for each damage on it.)\nWhen Played: You may give a Shield token to a unit that costs 3 or less.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Grit"
+      ],
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/082.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "138",
+      "Name": "Turning the Tide",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "3",
+      "FrontText": "Choose a unit. Deal 1 damage to it for each friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "EJ Dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/138.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "182",
+      "Name": "Unfettered Ambition",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "Cost": "2",
+      "FrontText": "When Played: For each upgrade on attached unit not named Advantage (including this one), give an Advantage token to attached unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": false,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/182.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "222",
+      "Name": "Unsanctioned Patrol",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "RESISTANCE",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "4",
+      "Power": "4",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\nSaboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Saboteur",
+        "Support"
+      ],
+      "Artist": "Marco Castiello",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/222.png"
     },
     {
       "Set": "ASH",
@@ -2970,6 +7241,113 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/012.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "144",
+      "Name": "Vane's Snub Fighter",
+      "Subtitle": "Brash and Proud",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "When a friendly unit's attack ends: If it dealt combat damage to a base, give an Advantage token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Marco Castiello",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/144.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "120",
+      "Name": "Warrior of Clan Kryze",
+      "Type": "Unit",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "MANDALORIAN",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "While you control another exhausted unit, this unit gains Sentinel. (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Eduardo Mello",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/120.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "134",
+      "Name": "Warrior's Legacy",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "LEARNED"
+      ],
+      "Cost": "3",
+      "FrontText": "Attached unit gains: \u201cWhen Defeated: Create a Mandalorian token.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Aleksa Stajsic",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/134.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "183",
+      "Name": "Whistling Birds",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "ITEM",
+        "WEAPON"
+      ],
+      "Cost": "3",
+      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \u201cWhen Attack Ends: If this unit dealt combat damage to an opponent's base, deal 2 damage to each unit that opponent controls in this unit's arena.\u201d",
+      "DoubleSided": false,
+      "Rarity": "Legendary",
+      "Unique": false,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/183.png"
     },
     {
       "Set": "ASH",
@@ -3006,6 +7384,28 @@
     },
     {
       "Set": "ASH",
+      "Number": "137",
+      "Name": "Wipe Them Out",
+      "Type": "Event",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "2",
+      "FrontText": "Attack with a unit. For this attack, you may deal its excess damage to another unit in the same arena.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Baldemar Rivas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/137.png"
+    },
+    {
+      "Set": "ASH",
       "Number": "213",
       "Name": "Womp Rat",
       "Type": "Unit",
@@ -3033,6 +7433,96 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/213.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "175",
+      "Name": "Wookiee Chieftain",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "WOOKIEE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "5",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Grit (This unit gets +1/+0 for each damage on it.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Grit"
+      ],
+      "Artist": "Manos Sparakis",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/175.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "253",
+      "Name": "Yellow Aces Bomber",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "NEW REPUBLIC",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "Cost": "3",
+      "Power": "3",
+      "HP": "4",
+      "FrontText": "Support (When you play this unit, you may attack with another unit. It gains this unit's other abilities for this attack.)\n\nOn Attack: If this unit is upgraded, deal 2 damage to a base.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Keywords": [
+        "Support"
+      ],
+      "Artist": "Pandu Mahardika",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/253.png"
+    },
+    {
+      "Set": "ASH",
+      "Number": "251",
+      "Name": "Zealous Soldier",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Played: Give an Advantage token to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/251.png"
     },
     {
       "Set": "ASH",
