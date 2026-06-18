@@ -104622,6 +104622,34 @@
       "DROID"
     ]
   },
+  "ASH_098": {
+    "id": "ASH_098",
+    "face": {
+      "front": {
+        "name": "AT-ST Raider",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "AT-ST Raider",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
   "ASH_110": {
     "id": "ASH_110",
     "face": {
@@ -104684,6 +104712,32 @@
       "JEDI"
     ]
   },
+  "ASH_164": {
+    "id": "ASH_164",
+    "face": {
+      "front": {
+        "name": "Alamite Hunter",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alamite Hunter",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
   "ASH_159": {
     "id": "ASH_159",
     "face": {
@@ -104711,6 +104765,33 @@
       "REBEL",
       "VEHICLE",
       "TRANSPORT"
+    ]
+  },
+  "ASH_214": {
+    "id": "ASH_214",
+    "face": {
+      "front": {
+        "name": "Amnesty Officer",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/214.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amnesty Officer",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "OFFICIAL"
     ]
   },
   "ASH_255": {
@@ -104788,6 +104869,111 @@
     "unique": false,
     "traits": [
       "DROID"
+    ]
+  },
+  "ASH_084": {
+    "id": "ASH_084",
+    "face": {
+      "front": {
+        "name": "Arcana Star Map, Path to Peridea",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcana Star Map, Path to Peridea",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "ITEM"
+    ]
+  },
+  "ASH_070": {
+    "id": "ASH_070",
+    "face": {
+      "front": {
+        "name": "At Attin Safety Droid",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "At Attin Safety Droid",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "DROID"
+    ]
+  },
+  "ASH_238": {
+    "id": "ASH_238",
+    "face": {
+      "front": {
+        "name": "Attendant Navigator",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/238.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attendant Navigator",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FIRST ORDER"
+    ]
+  },
+  "ASH_169": {
+    "id": "ASH_169",
+    "face": {
+      "front": {
+        "name": "Axe Woves, Undaunted",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/169.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axe Woves, Undaunted",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN"
     ]
   },
   "ASH_078": {
@@ -104934,6 +105120,90 @@
       "FORCE"
     ]
   },
+  "ASH_204": {
+    "id": "ASH_204",
+    "face": {
+      "front": {
+        "name": "Blade Three, Bane of the Devastator",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/204.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade Three, Bane of the Devastator",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_055": {
+    "id": "ASH_055",
+    "face": {
+      "front": {
+        "name": "Blade of Talzin, A Gift of Shadows",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade of Talzin, A Gift of Shadows",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "NIGHT",
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "ASH_121": {
+    "id": "ASH_121",
+    "face": {
+      "front": {
+        "name": "Blurrg",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blurrg",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
   "ASH_010": {
     "id": "ASH_010",
     "face": {
@@ -104967,6 +105237,116 @@
       "MANDALORIAN"
     ]
   },
+  "ASH_105": {
+    "id": "ASH_105",
+    "face": {
+      "front": {
+        "name": "Bo-Katan Kryze, For All of Mandalore",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bo-Katan Kryze, For All of Mandalore",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_063": {
+    "id": "ASH_063",
+    "face": {
+      "front": {
+        "name": "Bo-Katan's Gauntlet, Reinforce from Above",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bo-Katan's Gauntlet, Reinforce from Above",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_179": {
+    "id": "ASH_179",
+    "face": {
+      "front": {
+        "name": "Boba Fett's Rancor, Emotionally Complex Creature",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/179.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boba Fett's Rancor, Emotionally Complex Creature",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Legendary",
+    "power": 8,
+    "HP": 9,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "CREATURE"
+    ]
+  },
+  "ASH_180": {
+    "id": "ASH_180",
+    "face": {
+      "front": {
+        "name": "Bokken Saber",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/180.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bokken Saber",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON"
+    ]
+  },
   "ASH_128": {
     "id": "ASH_128",
     "face": {
@@ -104993,6 +105373,32 @@
       "NEW REPUBLIC",
       "VEHICLE",
       "TRANSPORT"
+    ]
+  },
+  "ASH_091": {
+    "id": "ASH_091",
+    "face": {
+      "front": {
+        "name": "Buy Time",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buy Time",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
     ]
   },
   "ASH_011": {
@@ -105029,6 +105435,143 @@
       "BOUNTY HUNTER"
     ]
   },
+  "ASH_229": {
+    "id": "ASH_229",
+    "face": {
+      "front": {
+        "name": "Camtono",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/229.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camtono",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM"
+    ]
+  },
+  "ASH_093": {
+    "id": "ASH_093",
+    "face": {
+      "front": {
+        "name": "Captain Pellaeon, Plotting from the Shadows",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Pellaeon, Plotting from the Shadows",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "ASH_202": {
+    "id": "ASH_202",
+    "face": {
+      "front": {
+        "name": "Carson Teva, There's Something Going On",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/202.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carson Teva, There's Something Going On",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC"
+    ]
+  },
+  "ASH_111": {
+    "id": "ASH_111",
+    "face": {
+      "front": {
+        "name": "Children of the Watch",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Children of the Watch",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_052": {
+    "id": "ASH_052",
+    "face": {
+      "front": {
+        "name": "Chimaera, A Frightening Reality",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimaera, A Frightening Reality",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 6,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
   "ASH_257": {
     "id": "ASH_257",
     "face": {
@@ -105054,6 +105597,116 @@
     "traits": [
       "FORCE",
       "MANDALORIAN"
+    ]
+  },
+  "ASH_165": {
+    "id": "ASH_165",
+    "face": {
+      "front": {
+        "name": "Clan Vizsla Soldier",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/165.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clan Vizsla Soldier",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "ASH_107": {
+    "id": "ASH_107",
+    "face": {
+      "front": {
+        "name": "Clan Wren Loyalist",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clan Wren Loyalist",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "ASH_060": {
+    "id": "ASH_060",
+    "face": {
+      "front": {
+        "name": "Cobb Vanth, Let Me Handle This",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cobb Vanth, Let Me Handle This",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "OFFICIAL"
+    ]
+  },
+  "ASH_122": {
+    "id": "ASH_122",
+    "face": {
+      "front": {
+        "name": "Consortium StarViper",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consortium StarViper",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "ASH_043": {
@@ -105086,6 +105739,58 @@
       "FIGHTER"
     ]
   },
+  "ASH_080": {
+    "id": "ASH_080",
+    "face": {
+      "front": {
+        "name": "Covert Believers",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Covert Believers",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_249": {
+    "id": "ASH_249",
+    "face": {
+      "front": {
+        "name": "Covert Veteran",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/249.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Covert Veteran",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
   "ASH_108": {
     "id": "ASH_108",
     "face": {
@@ -105112,6 +105817,89 @@
     "traits": [
       "REBEL",
       "OFFICIAL"
+    ]
+  },
+  "ASH_087": {
+    "id": "ASH_087",
+    "face": {
+      "front": {
+        "name": "Cybernetic Enhancements",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cybernetic Enhancements",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "MODIFICATION"
+    ]
+  },
+  "ASH_210": {
+    "id": "ASH_210",
+    "face": {
+      "front": {
+        "name": "DDC Defender",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/210.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DDC Defender",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "ASH_157": {
+    "id": "ASH_157",
+    "face": {
+      "front": {
+        "name": "Danger Squadron Wingmen",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/157.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Danger Squadron Wingmen",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "ASH_243": {
@@ -105142,6 +105930,33 @@
       "SITH"
     ]
   },
+  "ASH_104": {
+    "id": "ASH_104",
+    "face": {
+      "front": {
+        "name": "Dathomiri Magicks",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dathomiri Magicks",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
   "ASH_150": {
     "id": "ASH_150",
     "face": {
@@ -105167,6 +105982,112 @@
     "unique": false,
     "traits": [
       "CONDITION"
+    ]
+  },
+  "ASH_242": {
+    "id": "ASH_242",
+    "face": {
+      "front": {
+        "name": "Death Trooper Squad",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/242.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Trooper Squad",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "ASH_129": {
+    "id": "ASH_129",
+    "face": {
+      "front": {
+        "name": "Defenders of the Forest",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Defenders of the Forest",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "EWOK"
+    ]
+  },
+  "ASH_170": {
+    "id": "ASH_170",
+    "face": {
+      "front": {
+        "name": "Desert Sharpshooter",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/170.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desert Sharpshooter",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "TWI'LEK",
+      "BOUNTY HUNTER"
+    ]
+  },
+  "ASH_131": {
+    "id": "ASH_131",
+    "face": {
+      "front": {
+        "name": "Dinosaur Turtle",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dinosaur Turtle",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 7,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
     ]
   },
   "ASH_231": {
@@ -105195,6 +106116,84 @@
       "LAW"
     ]
   },
+  "ASH_136": {
+    "id": "ASH_136",
+    "face": {
+      "front": {
+        "name": "Display of Strength",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/136.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Display of Strength",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "ASH_072": {
+    "id": "ASH_072",
+    "face": {
+      "front": {
+        "name": "Doctor Pershing, Dedicated to Research",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doctor Pershing, Dedicated to Research",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC"
+    ]
+  },
+  "ASH_068": {
+    "id": "ASH_068",
+    "face": {
+      "front": {
+        "name": "Domesticated Loth-Cat",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Domesticated Loth-Cat",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
   "ASH_024": {
     "id": "ASH_024",
     "face": {
@@ -105218,6 +106217,59 @@
     ],
     "unique": false,
     "traits": []
+  },
+  "ASH_058": {
+    "id": "ASH_058",
+    "face": {
+      "front": {
+        "name": "Duchess's Protector",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duchess's Protector",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_086": {
+    "id": "ASH_086",
+    "face": {
+      "front": {
+        "name": "Durasteel Plating",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Durasteel Plating",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "ARMOR"
+    ]
   },
   "ASH_224": {
     "id": "ASH_224",
@@ -105280,6 +106332,33 @@
       "IMPERIAL",
       "SITH",
       "OFFICIAL"
+    ]
+  },
+  "ASH_193": {
+    "id": "ASH_193",
+    "face": {
+      "front": {
+        "name": "Emperor's Champion",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/193.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emperor's Champion",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
     ]
   },
   "ASH_189": {
@@ -105387,6 +106466,35 @@
       "TROOPER"
     ]
   },
+  "ASH_149": {
+    "id": "ASH_149",
+    "face": {
+      "front": {
+        "name": "Eviscerator, Burn Them Away",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/149.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eviscerator, Burn Them Away",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Rare",
+    "power": 9,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
   "ASH_166": {
     "id": "ASH_166",
     "face": {
@@ -105442,6 +106550,60 @@
       "CAPITAL SHIP"
     ]
   },
+  "ASH_246": {
+    "id": "ASH_246",
+    "face": {
+      "front": {
+        "name": "Exploit Advantage",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/246.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exploit Advantage",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "ASH_245": {
+    "id": "ASH_245",
+    "face": {
+      "front": {
+        "name": "Eye of Sion, Delivered from Exile",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/245.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eye of Sion, Delivered from Exile",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 8,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
   "ASH_013": {
     "id": "ASH_013",
     "face": {
@@ -105478,6 +106640,63 @@
       "SPECTRE"
     ]
   },
+  "ASH_209": {
+    "id": "ASH_209",
+    "face": {
+      "front": {
+        "name": "Ezra Bridger, The Force is All I Need",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/209.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ezra Bridger, The Force is All I Need",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "JEDI",
+      "SPECTRE"
+    ]
+  },
+  "ASH_130": {
+    "id": "ASH_130",
+    "face": {
+      "front": {
+        "name": "Fang Fighter Squadron",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fang Fighter Squadron",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
   "ASH_236": {
     "id": "ASH_236",
     "face": {
@@ -105502,6 +106721,33 @@
     "unique": false,
     "traits": [
       "GAMBIT"
+    ]
+  },
+  "ASH_211": {
+    "id": "ASH_211",
+    "face": {
+      "front": {
+        "name": "Fateful Goodbye",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/211.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fateful Goodbye",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
     ]
   },
   "ASH_002": {
@@ -105535,6 +106781,34 @@
     "unique": true,
     "traits": [
       "UNDERWORLD"
+    ]
+  },
+  "ASH_192": {
+    "id": "ASH_192",
+    "face": {
+      "front": {
+        "name": "Fennec Shand, The Galaxy is Dangerous",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fennec Shand, The Galaxy is Dangerous",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "BOUNTY HUNTER"
     ]
   },
   "ASH_218": {
@@ -105587,6 +106861,34 @@
     "unique": false,
     "traits": [
       "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_167": {
+    "id": "ASH_167",
+    "face": {
+      "front": {
+        "name": "Flarestar Attack Shuttle",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/167.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flarestar Attack Shuttle",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
       "VEHICLE",
       "FIGHTER"
     ]
@@ -105669,6 +106971,32 @@
     "unique": false,
     "traits": []
   },
+  "ASH_092": {
+    "id": "ASH_092",
+    "face": {
+      "front": {
+        "name": "Foundling Rescue",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Foundling Rescue",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
   "ASH_026": {
     "id": "ASH_026",
     "face": {
@@ -105692,6 +107020,142 @@
     ],
     "unique": false,
     "traits": []
+  },
+  "ASH_232": {
+    "id": "ASH_232",
+    "face": {
+      "front": {
+        "name": "Full of Surprises",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/232.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full of Surprises",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "ASH_100": {
+    "id": "ASH_100",
+    "face": {
+      "front": {
+        "name": "Gallius Rax, Counselor to the Empire",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gallius Rax, Counselor to the Empire",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Legendary",
+    "power": 4,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "ASH_254": {
+    "id": "ASH_254",
+    "face": {
+      "front": {
+        "name": "Gallofree Transport",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/254.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gallofree Transport",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_188": {
+    "id": "ASH_188",
+    "face": {
+      "front": {
+        "name": "Galvanized Leap",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/188.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galvanized Leap",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "ASH_047": {
+    "id": "ASH_047",
+    "face": {
+      "front": {
+        "name": "Gar Saxon, Coveting Power",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gar Saxon, Coveting Power",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 3,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
   },
   "ASH_067": {
     "id": "ASH_067",
@@ -105875,6 +107339,34 @@
       "OFFICIAL"
     ]
   },
+  "ASH_085": {
+    "id": "ASH_085",
+    "face": {
+      "front": {
+        "name": "Grav Charge",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grav Charge",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CONDITION",
+      "ITEM",
+      "WEAPON"
+    ]
+  },
   "ASH_017": {
     "id": "ASH_017",
     "face": {
@@ -105902,6 +107394,32 @@
     "aspects": [
       "Cunning",
       "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "OFFICIAL"
+    ]
+  },
+  "ASH_119": {
+    "id": "ASH_119",
+    "face": {
+      "front": {
+        "name": "Greef Karga, Introductions are in Order",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Greef Karga, Introductions are in Order",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command"
     ],
     "unique": true,
     "traits": [
@@ -105998,6 +107516,34 @@
       "DROID"
     ]
   },
+  "ASH_223": {
+    "id": "ASH_223",
+    "face": {
+      "front": {
+        "name": "Halo, Not According to Plan",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/223.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Halo, Not According to Plan",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
   "ASH_158": {
     "id": "ASH_158",
     "face": {
@@ -106024,6 +107570,32 @@
     "traits": [
       "REBEL",
       "OFFICIAL"
+    ]
+  },
+  "ASH_227": {
+    "id": "ASH_227",
+    "face": {
+      "front": {
+        "name": "Heightened Awareness",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/227.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heightened Awareness",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
     ]
   },
   "ASH_195": {
@@ -106138,6 +107710,117 @@
       "CREATURE"
     ]
   },
+  "ASH_139": {
+    "id": "ASH_139",
+    "face": {
+      "front": {
+        "name": "Hold Them Off",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/139.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hold Them Off",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "ASH_065": {
+    "id": "ASH_065",
+    "face": {
+      "front": {
+        "name": "Home One, Heart of the Fleet",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Home One, Heart of the Fleet",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Uncommon",
+    "power": 7,
+    "HP": 10,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "ASH_154": {
+    "id": "ASH_154",
+    "face": {
+      "front": {
+        "name": "Honorable Nite Owl",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/154.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Honorable Nite Owl",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "ASH_056": {
+    "id": "ASH_056",
+    "face": {
+      "front": {
+        "name": "Huyang, Your Aptitude Falls Short",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Huyang, Your Aptitude Falls Short",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "JEDI",
+      "DROID"
+    ]
+  },
   "ASH_048": {
     "id": "ASH_048",
     "face": {
@@ -106163,6 +107846,195 @@
     "traits": [
       "IMPERIAL ",
       "TROOPER"
+    ]
+  },
+  "ASH_250": {
+    "id": "ASH_250",
+    "face": {
+      "front": {
+        "name": "Imperial Defector",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/250.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imperial Defector",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "REBEL"
+    ]
+  },
+  "ASH_239": {
+    "id": "ASH_239",
+    "face": {
+      "front": {
+        "name": "Imperial Loyalist",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/239.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imperial Loyalist",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
+    ]
+  },
+  "ASH_176": {
+    "id": "ASH_176",
+    "face": {
+      "front": {
+        "name": "Imposing Scout Walker",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/176.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imposing Scout Walker",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "ASH_230": {
+    "id": "ASH_230",
+    "face": {
+      "front": {
+        "name": "Improvised Identity",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/230.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Improvised Identity",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "ASH_152": {
+    "id": "ASH_152",
+    "face": {
+      "front": {
+        "name": "Inspired Recruit",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/152.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inspired Recruit",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
+  "ASH_205": {
+    "id": "ASH_205",
+    "face": {
+      "front": {
+        "name": "Inspiring Veteran",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/205.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inspiring Veteran",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "TROOPER"
+    ]
+  },
+  "ASH_185": {
+    "id": "ASH_185",
+    "face": {
+      "front": {
+        "name": "Intimidation",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/185.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Intimidation",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
     ]
   },
   "ASH_042": {
@@ -106194,6 +108066,33 @@
       "HUTT"
     ]
   },
+  "ASH_219": {
+    "id": "ASH_219",
+    "face": {
+      "front": {
+        "name": "Jod Na Nawood, We Don't Want War",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/219.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jod Na Nawood, We Don't Want War",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 4,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "UNDERWORLD"
+    ]
+  },
   "ASH_146": {
     "id": "ASH_146",
     "face": {
@@ -106223,6 +108122,60 @@
       "TRANSPORT"
     ]
   },
+  "ASH_160": {
+    "id": "ASH_160",
+    "face": {
+      "front": {
+        "name": "Kachirho Militia",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/160.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kachirho Militia",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "WOOKIEE",
+      "TROOPER"
+    ]
+  },
+  "ASH_233": {
+    "id": "ASH_233",
+    "face": {
+      "front": {
+        "name": "Keep Them Talking",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/233.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Keep Them Talking",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
   "ASH_206": {
     "id": "ASH_206",
     "face": {
@@ -106249,6 +108202,32 @@
     "traits": [
       "FORCE",
       "JEDI"
+    ]
+  },
+  "ASH_178": {
+    "id": "ASH_178",
+    "face": {
+      "front": {
+        "name": "Knobby White Ice Spider",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/178.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knobby White Ice Spider",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
     ]
   },
   "ASH_079": {
@@ -106325,6 +108304,32 @@
       "DROID"
     ]
   },
+  "ASH_123": {
+    "id": "ASH_123",
+    "face": {
+      "front": {
+        "name": "Lang, Arrogant Mercenary",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lang, Arrogant Mercenary",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
   "ASH_059": {
     "id": "ASH_059",
     "face": {
@@ -106378,6 +108383,35 @@
     "unique": false,
     "traits": [
       "IMPERIAL"
+    ]
+  },
+  "ASH_057": {
+    "id": "ASH_057",
+    "face": {
+      "front": {
+        "name": "Lothal E-Wing",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lothal E-Wing",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "ASH_005": {
@@ -106472,6 +108506,143 @@
       "LIGHTSABER"
     ]
   },
+  "ASH_113": {
+    "id": "ASH_113",
+    "face": {
+      "front": {
+        "name": "Mandalorian Flagship, Captured from the Empire",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandalorian Flagship, Captured from the Empire",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 8,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "ASH_216": {
+    "id": "ASH_216",
+    "face": {
+      "front": {
+        "name": "Mandalorian Scout",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/216.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandalorian Scout",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_240": {
+    "id": "ASH_240",
+    "face": {
+      "front": {
+        "name": "Mandalorian Super Commandos",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/240.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandalorian Super Commandos",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "ASH_203": {
+    "id": "ASH_203",
+    "face": {
+      "front": {
+        "name": "Mando's N-1 Starfighter, Faster than a Fathier",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/203.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mando's N-1 Starfighter, Faster than a Fathier",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_181": {
+    "id": "ASH_181",
+    "face": {
+      "front": {
+        "name": "Mark My Words",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/181.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mark My Words",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
   "ASH_030": {
     "id": "ASH_030",
     "face": {
@@ -106554,6 +108725,58 @@
       "TACTIC"
     ]
   },
+  "ASH_217": {
+    "id": "ASH_217",
+    "face": {
+      "front": {
+        "name": "Mayor's Majordomo, No Problem Groveling",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/217.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mayor's Majordomo, No Problem Groveling",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "OFFICIAL"
+    ]
+  },
+  "ASH_168": {
+    "id": "ASH_168",
+    "face": {
+      "front": {
+        "name": "Migs Mayfeld, How About a Toast?",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/168.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Migs Mayfeld, How About a Toast?",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
   "ASH_008": {
     "id": "ASH_008",
     "face": {
@@ -106577,6 +108800,34 @@
     "rarity": "Common",
     "power": 5,
     "HP": 8,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "ASH_097": {
+    "id": "ASH_097",
+    "face": {
+      "front": {
+        "name": "Moff Gideon, Remnant Commander",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moff Gideon, Remnant Commander",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 5,
     "set": "ASH",
     "aspects": [
       "Command",
@@ -106644,6 +108895,84 @@
       "NIGHT"
     ]
   },
+  "ASH_142": {
+    "id": "ASH_142",
+    "face": {
+      "front": {
+        "name": "Mortar Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/142.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mortar Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "ASH_074": {
+    "id": "ASH_074",
+    "face": {
+      "front": {
+        "name": "Mos Eisley Modifier",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mos Eisley Modifier",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "ASH_260": {
+    "id": "ASH_260",
+    "face": {
+      "front": {
+        "name": "Mos Espa Watermonger",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/260.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mos Espa Watermonger",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
   "ASH_237": {
     "id": "ASH_237",
     "face": {
@@ -106671,6 +109000,87 @@
       "DROID"
     ]
   },
+  "ASH_252": {
+    "id": "ASH_252",
+    "face": {
+      "front": {
+        "name": "N5 Sentry Droid",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/252.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "N5 Sentry Droid",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "DROID"
+    ]
+  },
+  "ASH_081": {
+    "id": "ASH_081",
+    "face": {
+      "front": {
+        "name": "Nebulon-C Frigate",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nebulon-C Frigate",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "ASH_248": {
+    "id": "ASH_248",
+    "face": {
+      "front": {
+        "name": "Neel, The Cutest Boy",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/248.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neel, The Cutest Boy",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
   "ASH_020": {
     "id": "ASH_020",
     "face": {
@@ -106695,6 +109105,113 @@
     "unique": false,
     "traits": []
   },
+  "ASH_148": {
+    "id": "ASH_148",
+    "face": {
+      "front": {
+        "name": "Ninth Sister, Hulking Inquisitor",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/148.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninth Sister, Hulking Inquisitor",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Legendary",
+    "power": 8,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
+  "ASH_261": {
+    "id": "ASH_261",
+    "face": {
+      "front": {
+        "name": "Noti Mobile Pod",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/261.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noti Mobile Pod",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_069": {
+    "id": "ASH_069",
+    "face": {
+      "front": {
+        "name": "Noti Nomad",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noti Nomad",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "ASH_198": {
+    "id": "ASH_198",
+    "face": {
+      "front": {
+        "name": "Nowhere to Hide",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/198.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nowhere to Hide",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "CONDITION"
+    ]
+  },
   "ASH_247": {
     "id": "ASH_247",
     "face": {
@@ -106718,6 +109235,90 @@
     ],
     "unique": false,
     "traits": [
+      "PLAN"
+    ]
+  },
+  "ASH_177": {
+    "id": "ASH_177",
+    "face": {
+      "front": {
+        "name": "Onyx Cinder",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/177.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onyx Cinder",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_201": {
+    "id": "ASH_201",
+    "face": {
+      "front": {
+        "name": "Open Circle Ace",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/201.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Open Circle Ace",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_151": {
+    "id": "ASH_151",
+    "face": {
+      "front": {
+        "name": "Operation Cinder",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Operation Cinder",
+    "type": "Event",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "DISASTER",
       "PLAN"
     ]
   },
@@ -106750,6 +109351,89 @@
       "TRANSPORT"
     ]
   },
+  "ASH_117": {
+    "id": "ASH_117",
+    "face": {
+      "front": {
+        "name": "Outland Protector",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Outland Protector",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_073": {
+    "id": "ASH_073",
+    "face": {
+      "front": {
+        "name": "Palace Chef Droid",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Palace Chef Droid",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "DROID"
+    ]
+  },
+  "ASH_106": {
+    "id": "ASH_106",
+    "face": {
+      "front": {
+        "name": "Pathfinder Sergeant",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pathfinder Sergeant",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
   "ASH_028": {
     "id": "ASH_028",
     "face": {
@@ -106776,6 +109460,138 @@
     "unique": true,
     "traits": [
       "MANDALORIAN"
+    ]
+  },
+  "ASH_171": {
+    "id": "ASH_171",
+    "face": {
+      "front": {
+        "name": "Pegasus Tri-Wing",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/171.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pegasus Tri-Wing",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_212": {
+    "id": "ASH_212",
+    "face": {
+      "front": {
+        "name": "Peli Motto, You Bring the Cash?",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/212.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peli Motto, You Bring the Cash?",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "ASH_190": {
+    "id": "ASH_190",
+    "face": {
+      "front": {
+        "name": "Peridea Bandit",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/190.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peridea Bandit",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FRINGE"
+    ]
+  },
+  "ASH_089": {
+    "id": "ASH_089",
+    "face": {
+      "front": {
+        "name": "Perserverance",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perserverance",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "ASH_075": {
+    "id": "ASH_075",
+    "face": {
+      "front": {
+        "name": "Pit Droid Team",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pit Droid Team",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "DROID"
     ]
   },
   "ASH_040": {
@@ -106806,6 +109622,60 @@
       "RESISTANCE"
     ]
   },
+  "ASH_054": {
+    "id": "ASH_054",
+    "face": {
+      "front": {
+        "name": "Pointless to Resist",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pointless to Resist",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "CONDITION"
+    ]
+  },
+  "ASH_145": {
+    "id": "ASH_145",
+    "face": {
+      "front": {
+        "name": "Praetorian Elite",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/145.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Praetorian Elite",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
+    ]
+  },
   "ASH_053": {
     "id": "ASH_053",
     "face": {
@@ -106834,6 +109704,60 @@
       "OFFICIAL"
     ]
   },
+  "ASH_228": {
+    "id": "ASH_228",
+    "face": {
+      "front": {
+        "name": "Preparation",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/228.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Preparation",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "ASH_124": {
+    "id": "ASH_124",
+    "face": {
+      "front": {
+        "name": "Protectorate Fighter",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protectorate Fighter",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
   "ASH_038": {
     "id": "ASH_038",
     "face": {
@@ -106859,6 +109783,59 @@
     "unique": false,
     "traits": [
       "CREATURE"
+    ]
+  },
+  "ASH_226": {
+    "id": "ASH_226",
+    "face": {
+      "front": {
+        "name": "Qi'ra, Master of Teräs Käsi",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/226.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qi'ra, Master of Teräs Käsi",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 9,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD"
+    ]
+  },
+  "ASH_132": {
+    "id": "ASH_132",
+    "face": {
+      "front": {
+        "name": "Queen Soruna, Willing to Fight",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen Soruna, Willing to Fight",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "NABOO",
+      "OFFICIAL"
     ]
   },
   "ASH_156": {
@@ -106942,6 +109919,120 @@
       "TACTIC"
     ]
   },
+  "ASH_102": {
+    "id": "ASH_102",
+    "face": {
+      "front": {
+        "name": "Ravager, Final Imperial Command",
+        "type": "Unit - Space",
+        "cost": 9,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ravager, Final Imperial Command",
+    "type": "Unit - Space",
+    "cost": 9,
+    "rarity": "Legendary",
+    "power": 8,
+    "HP": 10,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "ASH_172": {
+    "id": "ASH_172",
+    "face": {
+      "front": {
+        "name": "Razor Crest, Outfitted Armament",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/172.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Razor Crest, Outfitted Armament",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_045": {
+    "id": "ASH_045",
+    "face": {
+      "front": {
+        "name": "Reanimated Night Trooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reanimated Night Trooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "NIGHT",
+      "UNDEAD",
+      "TROOPER"
+    ]
+  },
+  "ASH_256": {
+    "id": "ASH_256",
+    "face": {
+      "front": {
+        "name": "Rebel Infiltrators",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/256.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rebel Infiltrators",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
+    ]
+  },
   "ASH_163": {
     "id": "ASH_163",
     "face": {
@@ -106967,6 +110058,32 @@
     "unique": false,
     "traits": [
       "GAMBIT"
+    ]
+  },
+  "ASH_187": {
+    "id": "ASH_187",
+    "face": {
+      "front": {
+        "name": "Reckoning",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/187.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reckoning",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
     ]
   },
   "ASH_037": {
@@ -106999,6 +110116,32 @@
       "FIGHTER"
     ]
   },
+  "ASH_090": {
+    "id": "ASH_090",
+    "face": {
+      "front": {
+        "name": "Reforge",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reforge",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "SUPPLY"
+    ]
+  },
   "ASH_200": {
     "id": "ASH_200",
     "face": {
@@ -107024,6 +110167,145 @@
     "unique": false,
     "traits": [
       "LEARNED"
+    ]
+  },
+  "ASH_051": {
+    "id": "ASH_051",
+    "face": {
+      "front": {
+        "name": "Reinforcing Light Cruiser",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reinforcing Light Cruiser",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "ASH_095": {
+    "id": "ASH_095",
+    "face": {
+      "front": {
+        "name": "Remnant Interceptor",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remnant Interceptor",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_220": {
+    "id": "ASH_220",
+    "face": {
+      "front": {
+        "name": "Remnant Lookouts",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/220.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remnant Lookouts",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "ASH_076": {
+    "id": "ASH_076",
+    "face": {
+      "front": {
+        "name": "Remnant Official",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remnant Official",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "ASH_244": {
+    "id": "ASH_244",
+    "face": {
+      "front": {
+        "name": "Remnant Trooper Corps",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/244.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remnant Trooper Corps",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 6,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
     ]
   },
   "ASH_036": {
@@ -107052,6 +110334,33 @@
     "unique": true,
     "traits": [
       "IMPERIAL"
+    ]
+  },
+  "ASH_077": {
+    "id": "ASH_077",
+    "face": {
+      "front": {
+        "name": "Ryder Azadi, Restored Governor",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ryder Azadi, Restored Governor",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": true,
+    "traits": [
+      "NEW REPUBLIC",
+      "OFFICIAL"
     ]
   },
   "ASH_006": {
@@ -107147,6 +110456,35 @@
       "LIGHTSABER"
     ]
   },
+  "ASH_046": {
+    "id": "ASH_046",
+    "face": {
+      "front": {
+        "name": "Scion Shuttle, At Morgan's Bidding",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scion Shuttle, At Morgan's Bidding",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
   "ASH_029": {
     "id": "ASH_029",
     "face": {
@@ -107173,6 +110511,32 @@
     "traits": [
       "UNDERWORLD",
       "DROID"
+    ]
+  },
+  "ASH_235": {
+    "id": "ASH_235",
+    "face": {
+      "front": {
+        "name": "Sense Through the Force",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/235.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sense Through the Force",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
     ]
   },
   "ASH_016": {
@@ -107208,6 +110572,173 @@
       "FORCE"
     ]
   },
+  "ASH_049": {
+    "id": "ASH_049",
+    "face": {
+      "front": {
+        "name": "Shin Hati, Going Somewhere?",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shin Hati, Going Somewhere?",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 6,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "ASH_191": {
+    "id": "ASH_191",
+    "face": {
+      "front": {
+        "name": "Shin Hati's Fiend Fighter, Compact and Agile",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/191.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shin Hati's Fiend Fighter, Compact and Agile",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_173": {
+    "id": "ASH_173",
+    "face": {
+      "front": {
+        "name": "Shydopp Pirate Skiff",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shydopp Pirate Skiff",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_194": {
+    "id": "ASH_194",
+    "face": {
+      "front": {
+        "name": "Snub Fighter Squadron",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/194.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snub Fighter Squadron",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 4,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_174": {
+    "id": "ASH_174",
+    "face": {
+      "front": {
+        "name": "StarFortress Heavy Bomber",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/174.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "StarFortress Heavy Bomber",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_125": {
+    "id": "ASH_125",
+    "face": {
+      "front": {
+        "name": "Stolen Eta Shuttle",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stolen Eta Shuttle",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
   "ASH_061": {
     "id": "ASH_061",
     "face": {
@@ -107234,6 +110765,144 @@
     "traits": [
       "REBEL",
       "TROOPER"
+    ]
+  },
+  "ASH_140": {
+    "id": "ASH_140",
+    "face": {
+      "front": {
+        "name": "Stronger Together",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/140.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stronger Together",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "ASH_083": {
+    "id": "ASH_083",
+    "face": {
+      "front": {
+        "name": "Summa-verminoth",
+        "type": "Unit - Space",
+        "cost": 12,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Summa-verminoth",
+    "type": "Unit - Space",
+    "cost": 12,
+    "rarity": "Legendary",
+    "power": 15,
+    "HP": 15,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "ASH_126": {
+    "id": "ASH_126",
+    "face": {
+      "front": {
+        "name": "Survivors' Langskib",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Survivors' Langskib",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "ASH_109": {
+    "id": "ASH_109",
+    "face": {
+      "front": {
+        "name": "T-6 Shuttle 1974, With a Mentor's Dedication",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "T-6 Shuttle 1974, With a Mentor's Dedication",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "JEDI",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "ASH_141": {
+    "id": "ASH_141",
+    "face": {
+      "front": {
+        "name": "TIE Striker",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/141.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE Striker",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "ASH_035": {
@@ -107265,6 +110934,60 @@
       "SPEEDER"
     ]
   },
+  "ASH_225": {
+    "id": "ASH_225",
+    "face": {
+      "front": {
+        "name": "Tatooine Sand Beast",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/225.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tatooine Sand Beast",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 8,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "CREATURE"
+    ]
+  },
+  "ASH_143": {
+    "id": "ASH_143",
+    "face": {
+      "front": {
+        "name": "Tempest Lieutenant",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempest Lieutenant",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
   "ASH_001": {
     "id": "ASH_001",
     "face": {
@@ -107292,6 +111015,33 @@
     "aspects": [
       "Vigilance",
       "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
+  "ASH_064": {
+    "id": "ASH_064",
+    "face": {
+      "front": {
+        "name": "The Armorer, Secrecy is Our Survival",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Armorer, Secrecy is Our Survival",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 5,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
     ],
     "unique": true,
     "traits": [
@@ -107351,6 +111101,62 @@
       "FRINGE"
     ]
   },
+  "ASH_135": {
+    "id": "ASH_135",
+    "face": {
+      "front": {
+        "name": "The Darksaber, Icon of Leadership",
+        "type": "Upgrade",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Darksaber, Icon of Leadership",
+    "type": "Upgrade",
+    "cost": 4,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN",
+      "ITEM",
+      "WEAPON"
+    ]
+  },
+  "ASH_101": {
+    "id": "ASH_101",
+    "face": {
+      "front": {
+        "name": "The Great Mothers, With Strange Magicks",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Great Mothers, With Strange Magicks",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 6,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Command",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT"
+    ]
+  },
   "ASH_014": {
     "id": "ASH_014",
     "face": {
@@ -107384,6 +111190,33 @@
       "MANDALORIAN"
     ]
   },
+  "ASH_062": {
+    "id": "ASH_062",
+    "face": {
+      "front": {
+        "name": "The Mandalorian, Devoted Rescuer",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Mandalorian, Devoted Rescuer",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Legendary",
+    "power": 5,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "MANDALORIAN"
+    ]
+  },
   "ASH_115": {
     "id": "ASH_115",
     "face": {
@@ -107409,6 +111242,221 @@
     "unique": false,
     "traits": [
       "LEARNED"
+    ]
+  },
+  "ASH_127": {
+    "id": "ASH_127",
+    "face": {
+      "front": {
+        "name": "The Twins, We Don't Want War",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Twins, We Don't Want War",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 7,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "HUTT"
+    ]
+  },
+  "ASH_199": {
+    "id": "ASH_199",
+    "face": {
+      "front": {
+        "name": "There Is No Conflict",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/199.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "There Is No Conflict",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Cunning",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "ASH_133": {
+    "id": "ASH_133",
+    "face": {
+      "front": {
+        "name": "Trask Walker",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trask Walker",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Uncommon",
+    "power": 5,
+    "HP": 9,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "ASH_186": {
+    "id": "ASH_186",
+    "face": {
+      "front": {
+        "name": "Treacherous Minefield",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/186.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treacherous Minefield",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
+  "ASH_082": {
+    "id": "ASH_082",
+    "face": {
+      "front": {
+        "name": "Trexler Armored Marauder",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trexler Armored Marauder",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Common",
+    "power": 5,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "TANK"
+    ]
+  },
+  "ASH_138": {
+    "id": "ASH_138",
+    "face": {
+      "front": {
+        "name": "Turning the Tide",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/138.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turning the Tide",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
+  "ASH_182": {
+    "id": "ASH_182",
+    "face": {
+      "front": {
+        "name": "Unfettered Ambition",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/182.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unfettered Ambition",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "ASH_222": {
+    "id": "ASH_222",
+    "face": {
+      "front": {
+        "name": "Unsanctioned Patrol",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/222.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unsanctioned Patrol",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "ASH_012": {
@@ -107444,6 +111492,115 @@
       "UNDERWORLD"
     ]
   },
+  "ASH_144": {
+    "id": "ASH_144",
+    "face": {
+      "front": {
+        "name": "Vane's Snub Fighter, Brash and Proud",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/144.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vane's Snub Fighter, Brash and Proud",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Rare",
+    "power": 2,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "UNDERWORLD",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_120": {
+    "id": "ASH_120",
+    "face": {
+      "front": {
+        "name": "Warrior of Clan Kryze",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warrior of Clan Kryze",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN",
+      "TROOPER"
+    ]
+  },
+  "ASH_134": {
+    "id": "ASH_134",
+    "face": {
+      "front": {
+        "name": "Warrior's Legacy",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warrior's Legacy",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "ASH_183": {
+    "id": "ASH_183",
+    "face": {
+      "front": {
+        "name": "Whistling Birds",
+        "type": "Upgrade",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/183.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whistling Birds",
+    "type": "Upgrade",
+    "cost": 3,
+    "rarity": "Legendary",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "ITEM",
+      "WEAPON"
+    ]
+  },
   "ASH_034": {
     "id": "ASH_034",
     "face": {
@@ -107472,6 +111629,32 @@
       "EWOK"
     ]
   },
+  "ASH_137": {
+    "id": "ASH_137",
+    "face": {
+      "front": {
+        "name": "Wipe Them Out",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/137.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wipe Them Out",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
   "ASH_213": {
     "id": "ASH_213",
     "face": {
@@ -107496,6 +111679,87 @@
     "unique": false,
     "traits": [
       "CREATURE"
+    ]
+  },
+  "ASH_175": {
+    "id": "ASH_175",
+    "face": {
+      "front": {
+        "name": "Wookiee Chieftain",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wookiee Chieftain",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 6,
+    "set": "ASH",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "WOOKIEE"
+    ]
+  },
+  "ASH_253": {
+    "id": "ASH_253",
+    "face": {
+      "front": {
+        "name": "Yellow Aces Bomber",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/253.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yellow Aces Bomber",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 4,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "NEW REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "ASH_251": {
+    "id": "ASH_251",
+    "face": {
+      "front": {
+        "name": "Zealous Soldier",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/251.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zealous Soldier",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "TROOPER"
     ]
   },
   "ASH_161": {
