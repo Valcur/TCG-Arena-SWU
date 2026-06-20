@@ -1,5 +1,5 @@
 {
-  "total_cards": 260,
+  "total_cards": 264,
   "data": [
     {
       "Set": "ASH",
@@ -29,9 +29,33 @@
       ],
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/118.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/118.png",
+      "tcgplayerId": "697748",
+      "LowPrice": "15.00"
+    },
+    {
+      "Set": "ASH",
+      "Number": "264",
+      "Name": "A New Order",
+      "Type": "Event",
+      "Aspects": [],
+      "Traits": [
+        "PLAN"
+      ],
+      "Cost": "1",
+      "FrontText": "Give an Advantage token to each of up to 2 units.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Kaihound Studios",
+      "VariantType": "Normal",
+      "MarketPrice": "0.50",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/264.png",
+      "tcgplayerId": "697888",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -61,9 +85,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/098.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/098.png",
+      "tcgplayerId": "697728",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -91,9 +117,11 @@
       "Unique": true,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/110.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/110.png",
+      "tcgplayerId": "697740",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -127,9 +155,11 @@
       ],
       "Artist": "Robynn Frauhn",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/009.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/009.png",
+      "tcgplayerId": "698066",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -157,9 +187,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/164.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/164.png",
+      "tcgplayerId": "697792",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -191,9 +223,11 @@
       ],
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/159.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/159.png",
+      "tcgplayerId": "697787",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -219,9 +253,11 @@
       "Unique": false,
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/214.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/214.png",
+      "tcgplayerId": "697841",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -252,10 +288,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/255.png",
-      "tcgplayerId": "688994"
+      "tcgplayerId": "688994",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -300,9 +337,11 @@
       "Unique": false,
       "Artist": "Joshua Cairos",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/116.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/116.png",
+      "tcgplayerId": "697746",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -323,9 +362,11 @@
       "Unique": true,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/084.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/084.png",
+      "tcgplayerId": "697716",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -351,9 +392,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/070.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/070.png",
+      "tcgplayerId": "697702",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -378,9 +421,11 @@
       "Unique": false,
       "Artist": "Guilluame Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/238.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/238.png",
+      "tcgplayerId": "697864",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -406,9 +451,11 @@
       "Unique": true,
       "Artist": "Wu Shenyou",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/169.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/169.png",
+      "tcgplayerId": "697797",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -438,9 +485,11 @@
       ],
       "Artist": "Renato Roldan",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/078.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/078.png",
+      "tcgplayerId": "697710",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -468,9 +517,11 @@
       "Unique": true,
       "Artist": "Sandra Chlewi\u0144ska",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/044.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/044.png",
+      "tcgplayerId": "697678",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -496,9 +547,11 @@
       "Unique": false,
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/071.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/071.png",
+      "tcgplayerId": "697703",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -507,7 +560,7 @@
       "Subtitle": "Power Beyond Dream",
       "Type": "Leader",
       "Aspects": [
-        "Cunning",
+        "Vigilance",
         "Villainy"
       ],
       "Traits": [
@@ -528,9 +581,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/003.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/003.png",
+      "tcgplayerId": "697960",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -561,9 +616,11 @@
       ],
       "Artist": "Borja Pindado",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/039.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/039.png",
+      "tcgplayerId": "697673",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -592,9 +649,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/204.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/204.png",
+      "tcgplayerId": "697831",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -618,9 +677,11 @@
       "Unique": true,
       "Artist": "Terry Wei",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/055.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/055.png",
+      "tcgplayerId": "697689",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -649,9 +710,11 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/121.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/121.png",
+      "tcgplayerId": "697751",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -681,9 +744,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/010.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/010.png",
+      "tcgplayerId": "698072",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -713,9 +778,11 @@
       ],
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/105.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/105.png",
+      "tcgplayerId": "697735",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -747,9 +814,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/063.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/063.png",
+      "tcgplayerId": "697696",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -776,9 +845,11 @@
       "Unique": true,
       "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/179.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/179.png",
+      "tcgplayerId": "697807",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -799,9 +870,11 @@
       "Unique": false,
       "Artist": "Lucia Massucco-Aguilar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/180.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/180.png",
+      "tcgplayerId": "697808",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -829,9 +902,11 @@
       "Unique": true,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/128.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/128.png",
+      "tcgplayerId": "697758",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -854,9 +929,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/091.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/091.png",
+      "tcgplayerId": "697723",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -890,9 +967,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/011.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/011.png",
+      "tcgplayerId": "698073",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -912,9 +991,11 @@
       "Unique": false,
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/229.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/229.png",
+      "tcgplayerId": "697855",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -945,9 +1026,11 @@
       ],
       "Artist": "Vincent Dutrait",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/093.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/093.png",
+      "tcgplayerId": "697725",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -977,9 +1060,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/202.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/202.png",
+      "tcgplayerId": "697829",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1005,9 +1090,11 @@
       "Unique": false,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/111.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/111.png",
+      "tcgplayerId": "697741",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1036,9 +1123,11 @@
       "Unique": true,
       "Artist": "Stephen Zavala",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/052.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/052.png",
+      "tcgplayerId": "697686",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -1059,9 +1148,11 @@
       "Unique": false,
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/257.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/257.png",
+      "tcgplayerId": "697881",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1087,9 +1178,11 @@
       "Unique": false,
       "Artist": "Lucia Massucco-Aguilar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/165.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/165.png",
+      "tcgplayerId": "697793",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1116,9 +1209,11 @@
       "Unique": false,
       "Artist": "Eslam AboShady",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/107.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/107.png",
+      "tcgplayerId": "697737",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1148,9 +1243,11 @@
       ],
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/060.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/060.png",
+      "tcgplayerId": "697693",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1180,9 +1277,11 @@
       ],
       "Artist": "Christian Papazoglakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/122.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/122.png",
+      "tcgplayerId": "697752",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1212,9 +1311,11 @@
       "Unique": true,
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/043.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/043.png",
+      "tcgplayerId": "697677",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1239,9 +1340,11 @@
       "Unique": false,
       "Artist": "Andrea Milana",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/080.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/080.png",
+      "tcgplayerId": "697712",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1269,9 +1372,11 @@
       ],
       "Artist": "Jim Moore",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/249.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/249.png",
+      "tcgplayerId": "697874",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1299,9 +1404,11 @@
       "Unique": true,
       "Artist": "Konstantin Porubov",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/108.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/108.png",
+      "tcgplayerId": "697738",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1321,9 +1428,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/087.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/087.png",
+      "tcgplayerId": "697719",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1345,9 +1454,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/210.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/210.png",
+      "tcgplayerId": "697837",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1375,9 +1486,11 @@
       "Unique": false,
       "Artist": "Francois Cannels",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/157.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/157.png",
+      "tcgplayerId": "697786",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1409,10 +1522,11 @@
       ],
       "Artist": "Joshua Cairos",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/243.png",
-      "tcgplayerId": "688993"
+      "tcgplayerId": "688993",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -1433,9 +1547,11 @@
       "Unique": false,
       "Artist": "Robynn Frauhn",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/104.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/104.png",
+      "tcgplayerId": "697734",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1456,9 +1572,11 @@
       "Unique": false,
       "Artist": "Bruno Frenda",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/150.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/150.png",
+      "tcgplayerId": "697780",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1484,9 +1602,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/242.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/242.png",
+      "tcgplayerId": "697868",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1515,9 +1635,11 @@
       ],
       "Artist": "Luke Harrington",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/129.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/129.png",
+      "tcgplayerId": "697759",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1543,9 +1665,11 @@
       "Unique": false,
       "Artist": "Joey Vazquez",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/170.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/170.png",
+      "tcgplayerId": "697798",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1570,9 +1694,11 @@
       "Unique": false,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/131.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/131.png",
+      "tcgplayerId": "697761",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1592,9 +1718,11 @@
       "Unique": false,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/231.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/231.png",
+      "tcgplayerId": "697857",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1614,9 +1742,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/136.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/136.png",
+      "tcgplayerId": "697766",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1645,9 +1775,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/072.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/072.png",
+      "tcgplayerId": "697704",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1672,9 +1804,11 @@
       "Unique": false,
       "Artist": "Aleksa Stajsic",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/068.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/068.png",
+      "tcgplayerId": "697700",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1720,9 +1854,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/058.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/058.png",
+      "tcgplayerId": "697692",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1742,9 +1878,11 @@
       "Unique": false,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/086.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/086.png",
+      "tcgplayerId": "697718",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1771,9 +1909,11 @@
       "Unique": true,
       "Artist": "Grzegorz Przyby\u0161",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/224.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/224.png",
+      "tcgplayerId": "697850",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -1806,10 +1946,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "5.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/015.png",
-      "tcgplayerId": "688997"
+      "tcgplayerId": "688997",
+      "LowPrice": "5.00"
     },
     {
       "Set": "ASH",
@@ -1839,9 +1980,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/193.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/193.png",
+      "tcgplayerId": "697821",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1871,9 +2014,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/189.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/189.png",
+      "tcgplayerId": "697817",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -1942,9 +2087,11 @@
       "Unique": true,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/027.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/027.png",
+      "tcgplayerId": "697661",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -1973,9 +2120,11 @@
       "Unique": true,
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/149.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/149.png",
+      "tcgplayerId": "697779",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2003,9 +2152,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/166.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/166.png",
+      "tcgplayerId": "697794",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2034,10 +2185,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/197.png",
-      "tcgplayerId": "688987"
+      "tcgplayerId": "688987",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -2057,9 +2209,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/246.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/246.png",
+      "tcgplayerId": "697871",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2087,9 +2241,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/245.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/245.png",
+      "tcgplayerId": "697870",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -2125,9 +2281,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/013.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/013.png",
+      "tcgplayerId": "698082",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2159,9 +2317,33 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/209.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/209.png",
+      "tcgplayerId": "697836",
+      "LowPrice": "0.50"
+    },
+    {
+      "Set": "ASH",
+      "Number": "262",
+      "Name": "Faith in the Empire",
+      "Type": "Upgrade",
+      "Aspects": [],
+      "Traits": [
+        "IMPERIAL"
+      ],
+      "Cost": "2",
+      "FrontText": "This upgrade costs 1 less to play on an Imperial unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Ivan Fiorelli",
+      "VariantType": "Normal",
+      "MarketPrice": "0.50",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/262.png",
+      "tcgplayerId": "697886",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2191,9 +2373,11 @@
       ],
       "Artist": "Wu Shenyou",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/130.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/130.png",
+      "tcgplayerId": "697760",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2213,9 +2397,11 @@
       "Unique": false,
       "Artist": "Hoan Nguyen",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/236.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/236.png",
+      "tcgplayerId": "697862",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2236,9 +2422,11 @@
       "Unique": false,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/211.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/211.png",
+      "tcgplayerId": "697838",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2271,9 +2459,11 @@
       ],
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/002.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/002.png",
+      "tcgplayerId": "697959",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2305,9 +2495,11 @@
       ],
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/192.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/192.png",
+      "tcgplayerId": "697820",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2332,9 +2524,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/218.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/218.png",
+      "tcgplayerId": "697845",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2364,9 +2558,11 @@
       ],
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/215.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/215.png",
+      "tcgplayerId": "697842",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2393,9 +2589,11 @@
       "Unique": false,
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/167.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/167.png",
+      "tcgplayerId": "697795",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2415,9 +2613,11 @@
       "Unique": false,
       "Artist": "Ivan Shavrin",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/184.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/184.png",
+      "tcgplayerId": "697812",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2491,9 +2691,11 @@
       "Unique": false,
       "Artist": "Bruno Frenda",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/092.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/092.png",
+      "tcgplayerId": "697724",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2533,9 +2735,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/232.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/232.png",
+      "tcgplayerId": "697858",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2563,9 +2767,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/100.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/100.png",
+      "tcgplayerId": "697730",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -2592,9 +2798,11 @@
       "Unique": false,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/254.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/254.png",
+      "tcgplayerId": "697879",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2614,9 +2822,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/188.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/188.png",
+      "tcgplayerId": "697816",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2644,9 +2854,11 @@
       "Unique": true,
       "Artist": "Mooncolony",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/047.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/047.png",
+      "tcgplayerId": "697681",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2667,9 +2879,11 @@
       "Unique": false,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/067.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/067.png",
+      "tcgplayerId": "697699",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2698,9 +2912,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/196.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/196.png",
+      "tcgplayerId": "697824",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -2732,9 +2948,11 @@
       ],
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/099.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/099.png",
+      "tcgplayerId": "697729",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2769,9 +2987,11 @@
       ],
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/007.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/007.png",
+      "tcgplayerId": "698063",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2805,9 +3025,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/004.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/004.png",
+      "tcgplayerId": "698054",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2839,9 +3061,35 @@
       ],
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/033.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/033.png",
+      "tcgplayerId": "697667",
+      "LowPrice": "15.00"
+    },
+    {
+      "Set": "ASH",
+      "Number": "258",
+      "Name": "Grassroots Resistance",
+      "Type": "Event",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "Cost": "4",
+      "FrontText": "Deal 3 damage to a unit.\nHeal 3 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.50",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/258.png",
+      "tcgplayerId": "697882",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2863,9 +3111,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/085.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/085.png",
+      "tcgplayerId": "697717",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2895,9 +3145,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/017.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/017.png",
+      "tcgplayerId": "698098",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2923,9 +3175,11 @@
       "Unique": true,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/119.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/119.png",
+      "tcgplayerId": "697749",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -2954,9 +3208,11 @@
       "Unique": true,
       "Artist": "Renato Roldan",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/153.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/153.png",
+      "tcgplayerId": "697783",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -2986,9 +3242,11 @@
       "Unique": true,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/018.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/018.png",
+      "tcgplayerId": "698100",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3016,9 +3274,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/155.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/155.png",
+      "tcgplayerId": "697785",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -3049,9 +3309,11 @@
       ],
       "Artist": "Marco Castiello",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/223.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/223.png",
+      "tcgplayerId": "697849",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3082,10 +3344,11 @@
       ],
       "Artist": "Axel Hutt",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/158.png",
-      "tcgplayerId": "688992"
+      "tcgplayerId": "688992",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -3105,9 +3368,11 @@
       "Unique": false,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/227.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/227.png",
+      "tcgplayerId": "697853",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3134,9 +3399,11 @@
       "Unique": true,
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/195.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/195.png",
+      "tcgplayerId": "697823",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3196,9 +3463,11 @@
       "Unique": true,
       "Artist": "Robynn Frauhn",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/031.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/031.png",
+      "tcgplayerId": "697665",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3227,9 +3496,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/207.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/207.png",
+      "tcgplayerId": "697834",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3249,9 +3520,11 @@
       "Unique": false,
       "Artist": "Ivan Shavrin",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/139.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/139.png",
+      "tcgplayerId": "697769",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3283,9 +3556,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/065.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/065.png",
+      "tcgplayerId": "697698",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3316,9 +3591,11 @@
       ],
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/154.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/154.png",
+      "tcgplayerId": "697784",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3346,9 +3623,11 @@
       "Unique": true,
       "Artist": "Guilluame Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/056.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/056.png",
+      "tcgplayerId": "697690",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3356,7 +3635,8 @@
       "Name": "Imperial Armored Commando",
       "Type": "Unit",
       "Aspects": [
-        "Vigilance"
+        "Vigilance",
+        "Villainy"
       ],
       "Traits": [
         "IMPERIAL ",
@@ -3378,9 +3658,11 @@
       ],
       "Artist": "Benjamin Paulus",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/048.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/048.png",
+      "tcgplayerId": "697682",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3406,9 +3688,11 @@
       "Unique": false,
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/250.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/250.png",
+      "tcgplayerId": "697875",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3436,9 +3720,11 @@
       ],
       "Artist": "Sebasti\u00e1n Guidobono",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/239.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/239.png",
+      "tcgplayerId": "697865",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3465,9 +3751,11 @@
       "Unique": false,
       "Artist": "JB Casacop",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/176.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/176.png",
+      "tcgplayerId": "697804",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3487,9 +3775,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/230.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/230.png",
+      "tcgplayerId": "697856",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -3516,9 +3806,11 @@
       "Unique": false,
       "Artist": "Jim Moore",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/152.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/152.png",
+      "tcgplayerId": "697782",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3545,9 +3837,11 @@
       "Unique": false,
       "Artist": "Gustavo Pelissari",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/205.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/205.png",
+      "tcgplayerId": "697832",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3567,9 +3861,11 @@
       "Unique": false,
       "Artist": "Ivan Shavrin",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/185.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/185.png",
+      "tcgplayerId": "697813",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3601,9 +3897,11 @@
       ],
       "Artist": "Ivan Shavrin",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/042.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/042.png",
+      "tcgplayerId": "697676",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3633,9 +3931,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/219.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/219.png",
+      "tcgplayerId": "697846",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3664,9 +3964,11 @@
       "Unique": true,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/146.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/146.png",
+      "tcgplayerId": "697776",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3696,9 +3998,11 @@
       ],
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/160.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/160.png",
+      "tcgplayerId": "697788",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3718,9 +4022,11 @@
       "Unique": false,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/233.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/233.png",
+      "tcgplayerId": "697859",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3751,9 +4057,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/206.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/206.png",
+      "tcgplayerId": "697833",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -3781,9 +4089,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/178.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/178.png",
+      "tcgplayerId": "697806",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3812,9 +4122,11 @@
       ],
       "Artist": "Luke Harrington",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/079.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/079.png",
+      "tcgplayerId": "697711",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3857,9 +4169,11 @@
       "Unique": false,
       "Artist": "Benjamin Paulus",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/259.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/259.png",
+      "tcgplayerId": "697883",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3885,9 +4199,11 @@
       "Unique": true,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/123.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/123.png",
+      "tcgplayerId": "697753",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -3918,10 +4234,11 @@
       ],
       "Artist": "Axel Hutt",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/059.png",
-      "tcgplayerId": "688989"
+      "tcgplayerId": "688989",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -3942,9 +4259,11 @@
       "Unique": false,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/103.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/103.png",
+      "tcgplayerId": "697733",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -3975,9 +4294,11 @@
       ],
       "Artist": "Natcha Ngamtweerat",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/057.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/057.png",
+      "tcgplayerId": "697691",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4009,10 +4330,11 @@
       "Unique": true,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "5.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/005.png",
-      "tcgplayerId": "688996"
+      "tcgplayerId": "688996",
+      "LowPrice": "5.00"
     },
     {
       "Set": "ASH",
@@ -4043,9 +4365,11 @@
       ],
       "Artist": "Joshua Cairos",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/112.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/112.png",
+      "tcgplayerId": "697742",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -4069,10 +4393,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/066.png",
-      "tcgplayerId": "688995"
+      "tcgplayerId": "688995",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -4104,9 +4429,11 @@
       ],
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/113.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/113.png",
+      "tcgplayerId": "697743",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4131,9 +4458,11 @@
       "Unique": false,
       "Artist": "Tatsiana Maksimuk",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/216.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/216.png",
+      "tcgplayerId": "697843",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4159,9 +4488,11 @@
       "Unique": false,
       "Artist": "Manos Sparakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/240.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/240.png",
+      "tcgplayerId": "697866",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4193,9 +4524,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/203.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/203.png",
+      "tcgplayerId": "697830",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4218,9 +4551,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/181.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/181.png",
+      "tcgplayerId": "697809",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4253,9 +4588,11 @@
       ],
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/030.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/030.png",
+      "tcgplayerId": "697664",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4286,9 +4623,11 @@
       ],
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/241.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/241.png",
+      "tcgplayerId": "697867",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4308,9 +4647,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/234.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/234.png",
+      "tcgplayerId": "697860",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4336,9 +4677,11 @@
       "Unique": true,
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/217.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/217.png",
+      "tcgplayerId": "697844",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4367,9 +4710,11 @@
       ],
       "Artist": "Borja Pindado",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/168.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/168.png",
+      "tcgplayerId": "697796",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4400,9 +4745,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/008.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/008.png",
+      "tcgplayerId": "698069",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4433,9 +4780,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/097.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/097.png",
+      "tcgplayerId": "697727",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4463,10 +4812,11 @@
       "Unique": true,
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "10.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/094.png",
-      "tcgplayerId": "688986"
+      "tcgplayerId": "688986",
+      "LowPrice": "10.00"
     },
     {
       "Set": "ASH",
@@ -4476,7 +4826,7 @@
       "Type": "Unit",
       "Aspects": [
         "Vigilance",
-        "Heroism"
+        "Villainy"
       ],
       "Traits": [
         "FORCE",
@@ -4497,9 +4847,11 @@
       ],
       "Artist": "Jessi Ochse",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/050.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/050.png",
+      "tcgplayerId": "697684",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4526,9 +4878,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/142.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/142.png",
+      "tcgplayerId": "697772",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4557,9 +4911,11 @@
       ],
       "Artist": "Mooncolony",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/074.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/074.png",
+      "tcgplayerId": "697706",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4582,9 +4938,11 @@
       "Unique": false,
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/260.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/260.png",
+      "tcgplayerId": "697884",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4613,9 +4971,11 @@
       ],
       "Artist": "Sebasti\u00e1n Guidobono",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/237.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/237.png",
+      "tcgplayerId": "697863",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4644,9 +5004,11 @@
       ],
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/252.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/252.png",
+      "tcgplayerId": "697877",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4673,9 +5035,11 @@
       "Unique": false,
       "Artist": "Henning Ludvigsen",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/081.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/081.png",
+      "tcgplayerId": "697713",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4701,9 +5065,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/248.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/248.png",
+      "tcgplayerId": "697873",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4755,9 +5121,11 @@
       ],
       "Artist": "Bruno Frenda",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/148.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/148.png",
+      "tcgplayerId": "697778",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -4781,9 +5149,11 @@
       "Unique": false,
       "Artist": "Victor Stoll Toaldo",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/261.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/261.png",
+      "tcgplayerId": "697885",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4811,9 +5181,11 @@
       ],
       "Artist": "Borja Pindado",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/069.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/069.png",
+      "tcgplayerId": "697701",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4837,9 +5209,11 @@
       ],
       "Artist": "Eric Hibbeler",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/198.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/198.png",
+      "tcgplayerId": "697825",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4859,9 +5233,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/247.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/247.png",
+      "tcgplayerId": "697872",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4890,9 +5266,11 @@
       ],
       "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/177.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/177.png",
+      "tcgplayerId": "697805",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4920,9 +5298,11 @@
       "Unique": false,
       "Artist": "Renato Roldan",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/201.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/201.png",
+      "tcgplayerId": "697828",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -4944,9 +5324,11 @@
       "Unique": false,
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/151.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/151.png",
+      "tcgplayerId": "697781",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -4975,9 +5357,11 @@
       "Unique": true,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/041.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/041.png",
+      "tcgplayerId": "697675",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5007,9 +5391,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/117.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/117.png",
+      "tcgplayerId": "697747",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5038,9 +5424,11 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/073.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/073.png",
+      "tcgplayerId": "697705",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5071,9 +5459,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/106.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/106.png",
+      "tcgplayerId": "697736",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5104,9 +5494,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/028.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/028.png",
+      "tcgplayerId": "697662",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5132,9 +5524,11 @@
       "Unique": false,
       "Artist": "Christian Papazoglakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/171.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/171.png",
+      "tcgplayerId": "697799",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5163,9 +5557,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/212.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/212.png",
+      "tcgplayerId": "697839",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5191,9 +5587,11 @@
       "Unique": false,
       "Artist": "Benjamin Paulus",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/190.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/190.png",
+      "tcgplayerId": "697818",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5213,9 +5611,11 @@
       "Unique": false,
       "Artist": "Eslam AboShady",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/089.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/089.png",
+      "tcgplayerId": "697721",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5240,9 +5640,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/075.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/075.png",
+      "tcgplayerId": "697707",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5270,9 +5672,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/040.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/040.png",
+      "tcgplayerId": "697674",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5293,9 +5697,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/054.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/054.png",
+      "tcgplayerId": "697688",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5324,9 +5730,11 @@
       ],
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/145.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/145.png",
+      "tcgplayerId": "697775",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5354,9 +5762,11 @@
       "Unique": true,
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/053.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/053.png",
+      "tcgplayerId": "697687",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -5376,9 +5786,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/228.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/228.png",
+      "tcgplayerId": "697854",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5405,9 +5817,11 @@
       "Unique": false,
       "Artist": "Gabriel G\u00f3mez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/124.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/124.png",
+      "tcgplayerId": "697754",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5433,9 +5847,11 @@
       "Unique": false,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/038.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/038.png",
+      "tcgplayerId": "697672",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5461,9 +5877,11 @@
       "Unique": true,
       "Artist": "Derek Laufman",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/226.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/226.png",
+      "tcgplayerId": "697852",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5490,9 +5908,11 @@
       "Unique": true,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/132.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/132.png",
+      "tcgplayerId": "697762",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5522,10 +5942,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/156.png",
-      "tcgplayerId": "688991"
+      "tcgplayerId": "688991",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5551,9 +5972,11 @@
       "Unique": false,
       "Artist": "Konstantin Porubov",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/032.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/032.png",
+      "tcgplayerId": "697666",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5574,9 +5997,11 @@
       "Unique": false,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/162.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/162.png",
+      "tcgplayerId": "697790",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5608,9 +6033,11 @@
       ],
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/102.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/102.png",
+      "tcgplayerId": "697732",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -5641,9 +6068,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/172.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/172.png",
+      "tcgplayerId": "697800",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5672,9 +6101,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/045.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/045.png",
+      "tcgplayerId": "697679",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5704,9 +6135,11 @@
       ],
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/256.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/256.png",
+      "tcgplayerId": "697880",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5727,9 +6160,11 @@
       "Unique": false,
       "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/163.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/163.png",
+      "tcgplayerId": "697791",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5749,9 +6184,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/187.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/187.png",
+      "tcgplayerId": "697815",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5784,9 +6221,11 @@
       ],
       "Artist": "Robert Bonchune",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/037.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/037.png",
+      "tcgplayerId": "697671",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5806,9 +6245,11 @@
       "Unique": false,
       "Artist": "Ben Vazquez",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/090.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/090.png",
+      "tcgplayerId": "697722",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5829,9 +6270,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/200.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/200.png",
+      "tcgplayerId": "697827",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -5862,9 +6305,11 @@
       ],
       "Artist": "Henning Ludvigsen",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/051.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/051.png",
+      "tcgplayerId": "697685",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5896,9 +6341,11 @@
       ],
       "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/095.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/095.png",
+      "tcgplayerId": "697726",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5924,9 +6371,11 @@
       "Unique": false,
       "Artist": "Miki Montll\u00f3",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/220.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/220.png",
+      "tcgplayerId": "697847",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5955,9 +6404,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/076.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/076.png",
+      "tcgplayerId": "697708",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -5986,9 +6437,11 @@
       ],
       "Artist": "Alejandro Mirabal",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/244.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/244.png",
+      "tcgplayerId": "697869",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6019,9 +6472,11 @@
       ],
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/036.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/036.png",
+      "tcgplayerId": "697670",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6051,9 +6506,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/077.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/077.png",
+      "tcgplayerId": "697709",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6085,9 +6542,11 @@
       "Unique": true,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/006.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/006.png",
+      "tcgplayerId": "698060",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6119,9 +6578,11 @@
       ],
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/208.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/208.png",
+      "tcgplayerId": "697835",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6145,9 +6606,11 @@
       "Unique": true,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/114.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/114.png",
+      "tcgplayerId": "697744",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6179,9 +6642,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/046.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/046.png",
+      "tcgplayerId": "697680",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6213,9 +6678,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/029.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/029.png",
+      "tcgplayerId": "697663",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6235,9 +6702,11 @@
       "Unique": false,
       "Artist": "Sandra Chlewi\u0144ska",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/235.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/235.png",
+      "tcgplayerId": "697861",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6267,9 +6736,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/016.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/016.png",
+      "tcgplayerId": "698094",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6299,9 +6770,11 @@
       ],
       "Artist": "Jessi Ochse",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/049.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/049.png",
+      "tcgplayerId": "697683",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6329,9 +6802,11 @@
       "Unique": true,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/191.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/191.png",
+      "tcgplayerId": "697819",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6361,9 +6836,11 @@
       ],
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/173.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/173.png",
+      "tcgplayerId": "697801",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6394,9 +6871,11 @@
       ],
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/194.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/194.png",
+      "tcgplayerId": "697822",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6423,9 +6902,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/174.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/174.png",
+      "tcgplayerId": "697802",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6454,9 +6935,11 @@
       ],
       "Artist": "Christian Piccolo",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/125.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/125.png",
+      "tcgplayerId": "697755",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6483,9 +6966,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/061.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/061.png",
+      "tcgplayerId": "697694",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6505,9 +6990,11 @@
       "Unique": false,
       "Artist": "David Buis\u00e1n",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/140.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/140.png",
+      "tcgplayerId": "697770",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6535,9 +7022,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/083.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/083.png",
+      "tcgplayerId": "697715",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -6567,9 +7056,11 @@
       ],
       "Artist": "Bruno Frenda",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/126.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/126.png",
+      "tcgplayerId": "697756",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6601,9 +7092,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/109.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/109.png",
+      "tcgplayerId": "697739",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6634,9 +7127,11 @@
       ],
       "Artist": "Christian Papazoglakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/141.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/141.png",
+      "tcgplayerId": "697771",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6664,9 +7159,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/035.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/035.png",
+      "tcgplayerId": "697669",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6694,9 +7191,11 @@
       ],
       "Artist": "Alejandro Mirabal",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/225.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/225.png",
+      "tcgplayerId": "697851",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6726,9 +7225,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/143.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/143.png",
+      "tcgplayerId": "697773",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6758,9 +7259,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/001.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/001.png",
+      "tcgplayerId": "697958",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6790,9 +7293,11 @@
       ],
       "Artist": "Axel Hutt",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/064.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/064.png",
+      "tcgplayerId": "697697",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6812,9 +7317,11 @@
       "Unique": false,
       "Artist": "JB Casacop",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/088.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/088.png",
+      "tcgplayerId": "697720",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6844,9 +7351,11 @@
       ],
       "Artist": "Alejandro Mirabal",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/147.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/147.png",
+      "tcgplayerId": "697777",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -6869,9 +7378,11 @@
       "Unique": true,
       "Artist": "Benjamin Paulus",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/135.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/135.png",
+      "tcgplayerId": "697765",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -6902,9 +7413,11 @@
       ],
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/101.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/101.png",
+      "tcgplayerId": "697731",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6937,9 +7450,11 @@
       ],
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/014.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/014.png",
+      "tcgplayerId": "698085",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -6969,9 +7484,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/062.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/062.png",
+      "tcgplayerId": "697695",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -6992,9 +7509,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/115.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/115.png",
+      "tcgplayerId": "697745",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7024,9 +7543,33 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/127.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/127.png",
+      "tcgplayerId": "697757",
+      "LowPrice": "15.00"
+    },
+    {
+      "Set": "ASH",
+      "Number": "263",
+      "Name": "The Way of the Mand'alor",
+      "Type": "Upgrade",
+      "Aspects": [],
+      "Traits": [
+        "MANDALORIAN"
+      ],
+      "Cost": "2",
+      "FrontText": "This upgrade costs 1 less to play on a Mandalorian unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.50",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/263.png",
+      "tcgplayerId": "697887",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7049,7 +7592,8 @@
       "VariantType": "Normal",
       "MarketPrice": "0.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/199.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/199.png",
+      "tcgplayerId": "697826"
     },
     {
       "Set": "ASH",
@@ -7075,9 +7619,11 @@
       "Unique": false,
       "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/133.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/133.png",
+      "tcgplayerId": "697763",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7097,9 +7643,11 @@
       "Unique": false,
       "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/186.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/186.png",
+      "tcgplayerId": "697814",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -7129,9 +7677,11 @@
       ],
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/082.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/082.png",
+      "tcgplayerId": "697714",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7151,9 +7701,11 @@
       "Unique": false,
       "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/138.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/138.png",
+      "tcgplayerId": "697768",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7173,9 +7725,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/182.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/182.png",
+      "tcgplayerId": "697810",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -7206,9 +7760,11 @@
       ],
       "Artist": "Marco Castiello",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/222.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/222.png",
+      "tcgplayerId": "697848",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7238,9 +7794,11 @@
       "Unique": true,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/012.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/012.png",
+      "tcgplayerId": "698077",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -7269,9 +7827,11 @@
       "Unique": true,
       "Artist": "Marco Castiello",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/144.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/144.png",
+      "tcgplayerId": "697774",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -7300,9 +7860,11 @@
       ],
       "Artist": "Eduardo Mello",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/120.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/120.png",
+      "tcgplayerId": "697750",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7322,9 +7884,11 @@
       "Unique": false,
       "Artist": "Aleksa Stajsic",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/134.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/134.png",
+      "tcgplayerId": "697764",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7345,9 +7909,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/183.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/183.png",
+      "tcgplayerId": "697811",
+      "LowPrice": "40.00"
     },
     {
       "Set": "ASH",
@@ -7378,9 +7944,11 @@
       ],
       "Artist": "Sandra Chlewi\u0144ska",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "15.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/034.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/034.png",
+      "tcgplayerId": "697668",
+      "LowPrice": "15.00"
     },
     {
       "Set": "ASH",
@@ -7400,9 +7968,11 @@
       "Unique": false,
       "Artist": "Baldemar Rivas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/137.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/137.png",
+      "tcgplayerId": "697767",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7430,9 +8000,11 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/213.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/213.png",
+      "tcgplayerId": "697840",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7460,9 +8032,11 @@
       ],
       "Artist": "Manos Sparakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/175.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/175.png",
+      "tcgplayerId": "697803",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7492,9 +8066,11 @@
       ],
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/253.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/253.png",
+      "tcgplayerId": "697878",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7520,9 +8096,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.50",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/251.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/251.png",
+      "tcgplayerId": "697876",
+      "LowPrice": "0.50"
     },
     {
       "Set": "ASH",
@@ -7550,9 +8128,11 @@
       "Unique": true,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "40.00",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/161.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/ASH/161.png",
+      "tcgplayerId": "697789",
+      "LowPrice": "40.00"
     }
   ]
 }

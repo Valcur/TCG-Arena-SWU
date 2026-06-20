@@ -104622,6 +104622,30 @@
       "DROID"
     ]
   },
+  "ASH_264": {
+    "id": "ASH_264",
+    "face": {
+      "front": {
+        "name": "A New Order",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/264.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A New Order",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "PLAN"
+    ]
+  },
   "ASH_098": {
     "id": "ASH_098",
     "face": {
@@ -105084,7 +105108,7 @@
     "HP": 6,
     "set": "ASH",
     "aspects": [
-      "Cunning",
+      "Vigilance",
       "Villainy"
     ],
     "unique": true,
@@ -106669,6 +106693,30 @@
       "SPECTRE"
     ]
   },
+  "ASH_262": {
+    "id": "ASH_262",
+    "face": {
+      "front": {
+        "name": "Faith in the Empire",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/262.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faith in the Empire",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "IMPERIAL"
+    ]
+  },
   "ASH_130": {
     "id": "ASH_130",
     "face": {
@@ -107339,6 +107387,32 @@
       "OFFICIAL"
     ]
   },
+  "ASH_258": {
+    "id": "ASH_258",
+    "face": {
+      "front": {
+        "name": "Grassroots Resistance",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/258.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grassroots Resistance",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
+    ]
+  },
   "ASH_085": {
     "id": "ASH_085",
     "face": {
@@ -107840,7 +107914,8 @@
     "HP": 3,
     "set": "ASH",
     "aspects": [
-      "Vigilance"
+      "Vigilance",
+      "Villainy"
     ],
     "unique": false,
     "traits": [
@@ -108887,7 +108962,7 @@
     "set": "ASH",
     "aspects": [
       "Vigilance",
-      "Heroism"
+      "Villainy"
     ],
     "unique": true,
     "traits": [
@@ -111269,6 +111344,30 @@
     "traits": [
       "UNDERWORLD",
       "HUTT"
+    ]
+  },
+  "ASH_263": {
+    "id": "ASH_263",
+    "face": {
+      "front": {
+        "name": "The Way of the Mand'alor",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/ASH/263.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Way of the Mand'alor",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "ASH",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "MANDALORIAN"
     ]
   },
   "ASH_199": {
