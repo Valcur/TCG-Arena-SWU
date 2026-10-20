@@ -1,5 +1,5 @@
 {
-  "total_cards": 84,
+  "total_cards": 88,
   "data": [
     {
       "Set": "TS26",
@@ -18,6 +18,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9624598578",
       "Cost": "2",
       "Power": "0",
       "HP": "4",
@@ -32,10 +33,11 @@
       ],
       "Artist": "Andrea Milana",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.39",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/20.png",
-      "tcgplayerId": "686460"
+      "tcgplayerId": "686460",
+      "LowPrice": "0.38"
     },
     {
       "Set": "TS26",
@@ -49,7 +51,10 @@
       "Traits": [
         "LEARNED"
       ],
+      "cid": "8767791219",
       "Cost": "4",
+      "Power": "1",
+      "HP": "1",
       "FrontText": "Attached unit loses the Jedi trait and gains Restore 1.\nWhen Played: You may return a non-leader unit to its owner's hand.",
       "DoubleSided": false,
       "Rarity": "Uncommon",
@@ -59,10 +64,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.34",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/37.png",
-      "tcgplayerId": "686463"
+      "tcgplayerId": "686463",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -72,7 +78,7 @@
       "Type": "Leader",
       "Aspects": [
         "Cunning",
-        "Villainy"
+        "Heroism"
       ],
       "Traits": [
         "FORCE"
@@ -80,6 +86,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8865072142",
       "Cost": "5",
       "Power": "3",
       "HP": "6",
@@ -95,10 +102,11 @@
       ],
       "Artist": "Axel Hutt",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.60",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/8.png",
-      "tcgplayerId": "679163"
+      "tcgplayerId": "679163",
+      "LowPrice": "0.49"
     },
     {
       "Set": "TS26",
@@ -115,17 +123,21 @@
         "WEAPON",
         "LIGHTSABER"
       ],
+      "cid": "6723800914",
       "Cost": "4",
-      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \u201cOn Attack/When Defeated: You may give a Shield token to an enemy unit. If you do, the next event you play this phase costs 2 less.\u201d",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: “On Attack/When Defeated: You may give a Shield token to an enemy unit. If you do, the next event you play this phase costs 2 less.”",
       "DoubleSided": false,
       "Rarity": "Rare",
       "Unique": true,
-      "Artist": "Lucia Massucco Aguilar",
+      "Artist": "Lucia Massucco-Aguilar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.77",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/35.png",
-      "tcgplayerId": "679504"
+      "tcgplayerId": "679504",
+      "LowPrice": "1.38"
     },
     {
       "Set": "TS26",
@@ -145,6 +157,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4956378430",
       "Cost": "5",
       "Power": "4",
       "HP": "5",
@@ -160,10 +173,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.52",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/2.png",
-      "tcgplayerId": "679143"
+      "tcgplayerId": "679143",
+      "LowPrice": "0.33"
     },
     {
       "Set": "TS26",
@@ -179,6 +193,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8168014484",
       "Cost": "4",
       "Power": "4",
       "HP": "5",
@@ -191,10 +206,11 @@
       ],
       "Artist": "Luke Harrington",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.44",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/44.png",
-      "tcgplayerId": "679512"
+      "tcgplayerId": "679512",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -207,17 +223,19 @@
       "Traits": [
         "SUPPLY"
       ],
+      "cid": "7870233603",
       "Cost": "2",
       "FrontText": "You and an opponent each draw 2 cards.",
       "DoubleSided": false,
       "Rarity": "Common",
       "Unique": false,
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/68.png",
-      "tcgplayerId": "688711"
+      "tcgplayerId": "688711",
+      "LowPrice": "0.09"
     },
     {
       "Set": "TS26",
@@ -237,6 +255,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0284286472",
       "Cost": "5",
       "Power": "3",
       "HP": "5",
@@ -252,10 +271,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.52",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/7.png",
-      "tcgplayerId": "679159"
+      "tcgplayerId": "679159",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -274,6 +294,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4687650543",
       "Cost": "4",
       "Power": "3",
       "HP": "5",
@@ -283,10 +304,11 @@
       "Unique": false,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.01",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/23.png",
-      "tcgplayerId": "679172"
+      "tcgplayerId": "679172",
+      "LowPrice": "0.98"
     },
     {
       "Set": "TS26",
@@ -299,6 +321,7 @@
       "Traits": [
         "SUPPLY"
       ],
+      "cid": "5951272870",
       "Cost": "3",
       "FrontText": "Deal 1 damage to an enemy unit.\nYou may deal damage to a unit equal to the number of damaged enemy units.",
       "DoubleSided": false,
@@ -306,10 +329,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.41",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/70.png",
-      "tcgplayerId": "688713"
+      "tcgplayerId": "688713",
+      "LowPrice": "0.95"
     },
     {
       "Set": "TS26",
@@ -322,6 +346,7 @@
       "Traits": [
         "SUPPLY"
       ],
+      "cid": "6707130129",
       "Cost": "3",
       "FrontText": "Give an Experience token to a friendly unit.\nYou may deal damage to a unit equal to the number of Experience tokens on friendly units.",
       "DoubleSided": false,
@@ -329,10 +354,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.66",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/58.png",
-      "tcgplayerId": "688706"
+      "tcgplayerId": "688706",
+      "LowPrice": "0.63"
     },
     {
       "Set": "TS26",
@@ -351,6 +377,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4835794061",
       "Cost": "5",
       "Power": "5",
       "HP": "6",
@@ -361,12 +388,44 @@
       "Keywords": [
         "Hidden"
       ],
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.37",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/78.png",
-      "tcgplayerId": "679528"
+      "tcgplayerId": "679528",
+      "LowPrice": "0.25"
+    },
+    {
+      "Set": "TS26",
+      "Number": "T01",
+      "Name": "Battle Droid",
+      "Type": "Token Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "SEPARATIST",
+        "DROID",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "9829774394",
+      "Cost": "0",
+      "Power": "1",
+      "HP": "1",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Eslam AboShady",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/T01.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "TS26",
@@ -384,6 +443,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6239356125",
       "Cost": "2",
       "Power": "1",
       "HP": "4",
@@ -397,10 +457,11 @@
       ],
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.61",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/65.png",
-      "tcgplayerId": "679524"
+      "tcgplayerId": "679524",
+      "LowPrice": "0.76"
     },
     {
       "Set": "TS26",
@@ -413,6 +474,7 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "7421920224",
       "Cost": "3",
       "FrontText": "Attack with up to 2 unique units (one at a time). Prevent all combat damage that would be dealt to each of them for these attacks.",
       "DoubleSided": false,
@@ -420,10 +482,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "3.18",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/59.png",
-      "tcgplayerId": "679522"
+      "tcgplayerId": "679522",
+      "LowPrice": "2.95"
     },
     {
       "Set": "TS26",
@@ -441,6 +504,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9349017358",
       "Cost": "2",
       "Power": "2",
       "HP": "5",
@@ -448,12 +512,13 @@
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": true,
-      "Artist": "Miki Montll\u00f3",
+      "Artist": "Miki Montlló",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.28",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/15.png",
-      "tcgplayerId": "679168"
+      "tcgplayerId": "679168",
+      "LowPrice": "0.22"
     },
     {
       "Set": "TS26",
@@ -473,6 +538,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6443803946",
       "Cost": "3",
       "Power": "2",
       "HP": "5",
@@ -485,10 +551,11 @@
       ],
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.66",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/39.png",
-      "tcgplayerId": "686464"
+      "tcgplayerId": "686464",
+      "LowPrice": "3.22"
     },
     {
       "Set": "TS26",
@@ -501,17 +568,21 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "7640352104",
       "Cost": "5",
+      "Power": "4",
+      "HP": "4",
       "FrontText": "",
       "DoubleSided": false,
       "Rarity": "Common",
       "Unique": false,
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/45.png",
-      "tcgplayerId": "688698"
+      "tcgplayerId": "688698",
+      "LowPrice": "0.14"
     },
     {
       "Set": "TS26",
@@ -526,6 +597,7 @@
         "TACTIC",
         "TRICK"
       ],
+      "cid": "9572287182",
       "Cost": "1",
       "FrontText": "Ready an enemy unit. If you do, it can't attack your base or units you control for this phase. Give a Shield token to a friendly unit.",
       "DoubleSided": false,
@@ -533,10 +605,42 @@
       "Unique": false,
       "Artist": "Konstantin Porubov",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.30",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/31.png",
-      "tcgplayerId": "685547"
+      "tcgplayerId": "685547",
+      "LowPrice": "1.18"
+    },
+    {
+      "Set": "TS26",
+      "Number": "T02",
+      "Name": "Clone Trooper",
+      "Type": "Token Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "CLONE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "7569188482",
+      "Cost": "0",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Eslam AboShady",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/T02.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "TS26",
@@ -557,6 +661,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0571552412",
       "Cost": "1",
       "Power": "2",
       "HP": "2",
@@ -569,10 +674,11 @@
       ],
       "Artist": "Gustavo Pelissari",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "3.91",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/19.png",
-      "tcgplayerId": "685549"
+      "tcgplayerId": "685549",
+      "LowPrice": "1.86"
     },
     {
       "Set": "TS26",
@@ -588,6 +694,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0012426111",
       "Cost": "1",
       "Power": "0",
       "HP": "2",
@@ -600,10 +707,11 @@
       ],
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.22",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/53.png",
-      "tcgplayerId": "688703"
+      "tcgplayerId": "688703",
+      "LowPrice": "0.15"
     },
     {
       "Set": "TS26",
@@ -624,6 +732,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "7416439679",
       "Cost": "7",
       "Power": "6",
       "HP": "7",
@@ -639,10 +748,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.71",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/1.png",
-      "tcgplayerId": "679142"
+      "tcgplayerId": "679142",
+      "LowPrice": "0.71"
     },
     {
       "Set": "TS26",
@@ -663,6 +773,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9473986821",
       "Cost": "6",
       "Power": "4",
       "HP": "6",
@@ -673,12 +784,13 @@
       "Keywords": [
         "Hidden"
       ],
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.18",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/13.png",
-      "tcgplayerId": "679165"
+      "tcgplayerId": "679165",
+      "LowPrice": "2.18"
     },
     {
       "Set": "TS26",
@@ -695,6 +807,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0797474670",
       "Cost": "4",
       "Power": "4",
       "HP": "3",
@@ -707,10 +820,11 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.28",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/77.png",
-      "tcgplayerId": "688720"
+      "tcgplayerId": "688720",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -721,6 +835,7 @@
       "Aspects": [
         "Command"
       ],
+      "cid": "4631699773",
       "HP": "27",
       "FrontText": "Epic Action: Play a unit from your hand. It costs 1 less for each friendly leader unit.",
       "DoubleSided": false,
@@ -728,10 +843,11 @@
       "Unique": false,
       "Artist": "Henning Ludvigsen",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.55",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/10.png",
-      "tcgplayerId": "688676"
+      "tcgplayerId": "688676",
+      "LowPrice": "0.33"
     },
     {
       "Set": "TS26",
@@ -751,6 +867,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "5179344355",
       "Cost": "3",
       "Power": "2",
       "HP": "4",
@@ -760,10 +877,11 @@
       "Unique": true,
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.08",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/38.png",
-      "tcgplayerId": "688695"
+      "tcgplayerId": "688695",
+      "LowPrice": "0.29"
     },
     {
       "Set": "TS26",
@@ -776,6 +894,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "9368766211",
       "Cost": "5",
       "FrontText": "This event costs 1 less to play for each friendly unit.\nA friendly unit captures an enemy non-leader unit in the same arena. (Put the captured card facedown under that unit until that unit leaves play.)",
       "DoubleSided": false,
@@ -783,10 +902,11 @@
       "Unique": false,
       "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.34",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/61.png",
-      "tcgplayerId": "688708"
+      "tcgplayerId": "688708",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -799,6 +919,7 @@
       "Traits": [
         "TRICK"
       ],
+      "cid": "3505666313",
       "Cost": "3",
       "FrontText": "Exhaust any number of non-unique units.",
       "DoubleSided": false,
@@ -806,10 +927,11 @@
       "Unique": false,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.34",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/82.png",
-      "tcgplayerId": "688723"
+      "tcgplayerId": "688723",
+      "LowPrice": "0.18"
     },
     {
       "Set": "TS26",
@@ -820,6 +942,7 @@
       "Aspects": [
         "Aggression"
       ],
+      "cid": "1546304694",
       "HP": "27",
       "FrontText": "Epic Action: For each friendly leader unit, you may deal 2 damage to a unit.",
       "DoubleSided": false,
@@ -827,10 +950,33 @@
       "Unique": false,
       "Artist": "Adrien Girod",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.46",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/11.png",
-      "tcgplayerId": "688677"
+      "tcgplayerId": "688677",
+      "LowPrice": "0.30"
+    },
+    {
+      "Set": "TS26",
+      "Number": "T03",
+      "Name": "Experience",
+      "Type": "Token Upgrade",
+      "Traits": [
+        "LEARNED"
+      ],
+      "cid": "5904064998",
+      "Cost": "0",
+      "Power": "1",
+      "HP": "1",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/T03.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "TS26",
@@ -843,6 +989,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "5550216396",
       "Cost": "4",
       "FrontText": "Attack with a unit. It gets +1/+0 for this attack for each unit controlled by the defending player.",
       "DoubleSided": false,
@@ -850,10 +997,11 @@
       "Unique": false,
       "Artist": "Joshua Cairos",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/84.png",
-      "tcgplayerId": "688724"
+      "tcgplayerId": "688724",
+      "LowPrice": "0.15"
     },
     {
       "Set": "TS26",
@@ -866,17 +1014,19 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "3800728779",
       "Cost": "5",
       "FrontText": "Ready a unit.\nDeal 3 damage to a unit.",
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": false,
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.42",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/72.png",
-      "tcgplayerId": "688715"
+      "tcgplayerId": "688715",
+      "LowPrice": "0.34"
     },
     {
       "Set": "TS26",
@@ -890,17 +1040,21 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "0798937437",
       "Cost": "2",
+      "Power": "2",
+      "HP": "2",
       "FrontText": "When Played: You may deal 1 damage to another friendly unit and attack with it.",
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": false,
-      "Artist": "Lenka \u0160ime\u010dkov\u00e1",
+      "Artist": "Lenka Šimečková",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.28",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/25.png",
-      "tcgplayerId": "688690"
+      "tcgplayerId": "688690",
+      "LowPrice": "0.20"
     },
     {
       "Set": "TS26",
@@ -911,6 +1065,7 @@
       "Aspects": [
         "Vigilance"
       ],
+      "cid": "1352374398",
       "HP": "27",
       "FrontText": "Epic Action: For each friendly leader unit, give an Experience token to a unit.",
       "DoubleSided": false,
@@ -918,10 +1073,11 @@
       "Unique": false,
       "Artist": "Adrien Girod",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.66",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/9.png",
-      "tcgplayerId": "688675"
+      "tcgplayerId": "688675",
+      "LowPrice": "0.49"
     },
     {
       "Set": "TS26",
@@ -942,22 +1098,24 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9883276208",
       "Cost": "6",
       "Power": "6",
       "HP": "6",
-      "FrontText": "Sentinel\nYou may have this unit enter play with the \u201dWhen Played\u201d abilities of another unit in play.",
+      "FrontText": "Sentinel\nYou may have this unit enter play with the ”When Played” abilities of another unit in play.",
       "DoubleSided": false,
       "Rarity": "Rare",
       "Unique": true,
       "Keywords": [
         "Sentinel"
       ],
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "3.72",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/34.png",
-      "tcgplayerId": "679501"
+      "tcgplayerId": "679501",
+      "LowPrice": "3.46"
     },
     {
       "Set": "TS26",
@@ -977,10 +1135,11 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "3634566382",
       "Cost": "4",
       "Power": "3",
       "HP": "5",
-      "FrontText": "When Played: This unit captures a non-leader unit.\nBounty \u2014 A friendly unit captures a non-leader unit. (When this unit is defeated or captured, your opponent collects its bounty.)",
+      "FrontText": "When Played: This unit captures a non-leader unit.\nBounty — A friendly unit captures a non-leader unit. (When this unit is defeated or captured, your opponent collects its bounty.)",
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": true,
@@ -989,10 +1148,11 @@
       ],
       "Artist": "Victor Stoll Toaldo",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.49",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/27.png",
-      "tcgplayerId": "686461"
+      "tcgplayerId": "686461",
+      "LowPrice": "0.20"
     },
     {
       "Set": "TS26",
@@ -1005,6 +1165,7 @@
       "Traits": [
         "SUPPLY"
       ],
+      "cid": "1590343202",
       "Cost": "2",
       "FrontText": "Each player resources the top card of their deck.",
       "DoubleSided": false,
@@ -1012,10 +1173,11 @@
       "Unique": false,
       "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.82",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/56.png",
-      "tcgplayerId": "679521"
+      "tcgplayerId": "679521",
+      "LowPrice": "0.74"
     },
     {
       "Set": "TS26",
@@ -1035,6 +1197,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1102418753",
       "Cost": "3",
       "Power": "1",
       "HP": "5",
@@ -1050,10 +1213,11 @@
       ],
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "3.54",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/21.png",
-      "tcgplayerId": "679170"
+      "tcgplayerId": "679170",
+      "LowPrice": "3.23"
     },
     {
       "Set": "TS26",
@@ -1072,6 +1236,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2292638343",
       "Cost": "5",
       "Power": "0",
       "HP": "0",
@@ -1084,10 +1249,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "9.29",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/50.png",
-      "tcgplayerId": "682311"
+      "tcgplayerId": "682311",
+      "LowPrice": "11.00"
     },
     {
       "Set": "TS26",
@@ -1106,6 +1272,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9146061927",
       "Cost": "5",
       "Power": "5",
       "HP": "5",
@@ -1118,10 +1285,11 @@
       ],
       "Artist": "Manos Sparakis",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "5.51",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/75.png",
-      "tcgplayerId": "688718"
+      "tcgplayerId": "688718",
+      "LowPrice": "4.96"
     },
     {
       "Set": "TS26",
@@ -1139,6 +1307,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5760795689",
       "Cost": "5",
       "Power": "2",
       "HP": "3",
@@ -1151,10 +1320,11 @@
       ],
       "Artist": "Guillaume Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.47",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/55.png",
-      "tcgplayerId": "688704"
+      "tcgplayerId": "688704",
+      "LowPrice": "0.47"
     },
     {
       "Set": "TS26",
@@ -1174,6 +1344,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "1994755867",
       "Cost": "4",
       "Power": "1",
       "HP": "5",
@@ -1186,10 +1357,11 @@
       ],
       "Artist": "Natcha Ngamtweerat",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "30.84",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/18.png",
-      "tcgplayerId": "688684"
+      "tcgplayerId": "688684",
+      "LowPrice": "28.25"
     },
     {
       "Set": "TS26",
@@ -1207,6 +1379,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3325398707",
       "Cost": "2",
       "Power": "2",
       "HP": "4",
@@ -1219,10 +1392,11 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.44",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/16.png",
-      "tcgplayerId": "686459"
+      "tcgplayerId": "686459",
+      "LowPrice": "1.37"
     },
     {
       "Set": "TS26",
@@ -1237,6 +1411,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "6353405903",
       "Cost": "3",
       "FrontText": "An opponent (of your choice) may discard a card from their hand. If they do, give a non-Vehicle unit -8/-8 for this phase.",
       "DoubleSided": false,
@@ -1244,10 +1419,11 @@
       "Unique": false,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.31",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/33.png",
-      "tcgplayerId": "679178"
+      "tcgplayerId": "679178",
+      "LowPrice": "0.57"
     },
     {
       "Set": "TS26",
@@ -1265,6 +1441,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4392072397",
       "Cost": "5",
       "Power": "5",
       "HP": "5",
@@ -1274,10 +1451,11 @@
       "Unique": true,
       "Artist": "Wu Shenyou",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/51.png",
-      "tcgplayerId": "679519"
+      "tcgplayerId": "679519",
+      "LowPrice": "0.19"
     },
     {
       "Set": "TS26",
@@ -1296,6 +1474,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0319685377",
       "Cost": "7",
       "Power": "5",
       "HP": "9",
@@ -1309,12 +1488,13 @@
       "Keywords": [
         "Keywords"
       ],
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.45",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/3.png",
-      "tcgplayerId": "679145"
+      "tcgplayerId": "679145",
+      "LowPrice": "0.95"
     },
     {
       "Set": "TS26",
@@ -1333,6 +1513,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0211565206",
       "Cost": "4",
       "Power": "5",
       "HP": "4",
@@ -1345,10 +1526,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "8.38",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/30.png",
-      "tcgplayerId": "688693"
+      "tcgplayerId": "688693",
+      "LowPrice": "8.00"
     },
     {
       "Set": "TS26",
@@ -1361,6 +1543,7 @@
       "Traits": [
         "SUPPLY"
       ],
+      "cid": "9392548494",
       "Cost": "2",
       "FrontText": "Play a non-Vehicle from your discard pile (paying its cost) and give an Experience token to it.",
       "DoubleSided": false,
@@ -1368,10 +1551,11 @@
       "Unique": false,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.41",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/57.png",
-      "tcgplayerId": "688705"
+      "tcgplayerId": "688705",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -1384,6 +1568,7 @@
       "Traits": [
         "TRICK"
       ],
+      "cid": "7387838286",
       "Cost": "2",
       "FrontText": "Give a Shield token to a unit.\nGive a unit -3/-0 for this phase.",
       "DoubleSided": false,
@@ -1391,10 +1576,11 @@
       "Unique": false,
       "Artist": "Joshua Carson",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/81.png",
-      "tcgplayerId": "679529"
+      "tcgplayerId": "679529",
+      "LowPrice": "0.13"
     },
     {
       "Set": "TS26",
@@ -1412,6 +1598,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9215361599",
       "Cost": "3",
       "Power": "3",
       "HP": "2",
@@ -1424,10 +1611,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "8.10",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/73.png",
-      "tcgplayerId": "686492"
+      "tcgplayerId": "686492",
+      "LowPrice": "7.90"
     },
     {
       "Set": "TS26",
@@ -1447,6 +1635,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6272807676",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -1457,12 +1646,13 @@
       "Keywords": [
         "Sentinel"
       ],
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.65",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/26.png",
-      "tcgplayerId": "685546"
+      "tcgplayerId": "685546",
+      "LowPrice": "2.38"
     },
     {
       "Set": "TS26",
@@ -1482,6 +1672,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8997739660",
       "Cost": "3",
       "Power": "4",
       "HP": "4",
@@ -1494,19 +1685,20 @@
       ],
       "Artist": "Borja Pindado",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "5.68",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/40.png",
-      "tcgplayerId": "679505"
+      "tcgplayerId": "679505",
+      "LowPrice": "3.51"
     },
     {
       "Set": "TS26",
       "Number": "4",
-      "Name": "Padm\u00e9 Amidala",
+      "Name": "Padmé Amidala",
       "Subtitle": "Follow My Lead",
       "Type": "Leader",
       "Aspects": [
-        "Vigilance",
+        "Command",
         "Heroism"
       ],
       "Traits": [
@@ -1517,6 +1709,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1739137124",
       "Cost": "6",
       "Power": "5",
       "HP": "6",
@@ -1529,10 +1722,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.65",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/4.png",
-      "tcgplayerId": "679147"
+      "tcgplayerId": "679147",
+      "LowPrice": "0.40"
     },
     {
       "Set": "TS26",
@@ -1551,6 +1745,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9265225215",
       "Cost": "3",
       "Power": "4",
       "HP": "3",
@@ -1564,10 +1759,11 @@
       ],
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.37",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/74.png",
-      "tcgplayerId": "688717"
+      "tcgplayerId": "688717",
+      "LowPrice": "0.35"
     },
     {
       "Set": "TS26",
@@ -1586,6 +1782,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8042667309",
       "Cost": "4",
       "Power": "2",
       "HP": "4",
@@ -1596,12 +1793,13 @@
       "Keywords": [
         "Saboteur"
       ],
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "5.18",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/28.png",
-      "tcgplayerId": "685548"
+      "tcgplayerId": "685548",
+      "LowPrice": "5.00"
     },
     {
       "Set": "TS26",
@@ -1620,6 +1818,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5584623623",
       "Cost": "2",
       "Power": "1",
       "HP": "3",
@@ -1632,10 +1831,11 @@
       ],
       "Artist": "Guillaume Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.45",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/62.png",
-      "tcgplayerId": "686466"
+      "tcgplayerId": "686466",
+      "LowPrice": "0.26"
     },
     {
       "Set": "TS26",
@@ -1649,6 +1849,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "4432234342",
       "Cost": "2",
       "FrontText": "Play a unit from your hand. It costs 4 less. Deal 4 damage to it.",
       "DoubleSided": false,
@@ -1656,10 +1857,11 @@
       "Unique": false,
       "Artist": "Borja Pindado",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.01",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/32.png",
-      "tcgplayerId": "686462"
+      "tcgplayerId": "686462",
+      "LowPrice": "0.96"
     },
     {
       "Set": "TS26",
@@ -1677,6 +1879,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9458579327",
       "Cost": "5",
       "Power": "3",
       "HP": "7",
@@ -1686,10 +1889,11 @@
       "Unique": false,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/42.png",
-      "tcgplayerId": "688696"
+      "tcgplayerId": "688696",
+      "LowPrice": "0.09"
     },
     {
       "Set": "TS26",
@@ -1702,6 +1906,7 @@
       "Traits": [
         "MODIFICATION"
       ],
+      "cid": "3750822861",
       "Cost": "2",
       "FrontText": "Deal 2 damage to a unit. If it's a Clone, ready it.",
       "DoubleSided": false,
@@ -1709,10 +1914,11 @@
       "Unique": false,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.73",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/69.png",
-      "tcgplayerId": "686468"
+      "tcgplayerId": "686468",
+      "LowPrice": "0.48"
     },
     {
       "Set": "TS26",
@@ -1725,6 +1931,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "0706465142",
       "Cost": "1",
       "FrontText": "Each player reveals their hand.\nIn player order, each player discards a card from the hand of the player to their right. Then, each player draws a card.",
       "DoubleSided": false,
@@ -1732,10 +1939,11 @@
       "Unique": false,
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.32",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/80.png",
-      "tcgplayerId": "688722"
+      "tcgplayerId": "688722",
+      "LowPrice": "0.23"
     },
     {
       "Set": "TS26",
@@ -1754,6 +1962,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2792883006",
       "Cost": "6",
       "Power": "5",
       "HP": "6",
@@ -1766,10 +1975,11 @@
       "Unique": true,
       "Artist": "Axel Hutt",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.57",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/6.png",
-      "tcgplayerId": "679155"
+      "tcgplayerId": "679155",
+      "LowPrice": "0.45"
     },
     {
       "Set": "TS26",
@@ -1784,17 +1994,21 @@
         "ITEM",
         "WEAPON"
       ],
+      "cid": "4781765221",
       "Cost": "3",
-      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \u201cWhen an enemy unit readies during the action phase: Ready this unit. Use this ability only once each round.\u201d",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: “When an enemy unit readies during the action phase: Ready this unit. Use this ability only once each round.”",
       "DoubleSided": false,
       "Rarity": "Rare",
       "Unique": true,
-      "Artist": "Alejandro Mirabel",
+      "Artist": "Alejandro Mirabal",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.98",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/63.png",
-      "tcgplayerId": "679523"
+      "tcgplayerId": "679523",
+      "LowPrice": "0.94"
     },
     {
       "Set": "TS26",
@@ -1811,6 +2025,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8348671116",
       "Cost": "4",
       "Power": "3",
       "HP": "4",
@@ -1823,10 +2038,11 @@
       ],
       "Artist": "Benjamin Paulus",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/67.png",
-      "tcgplayerId": "688710"
+      "tcgplayerId": "688710",
+      "LowPrice": "0.09"
     },
     {
       "Set": "TS26",
@@ -1845,6 +2061,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2023138764",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -1856,12 +2073,13 @@
         "Ambush",
         "Restore"
       ],
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.75",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/17.png",
-      "tcgplayerId": "688680"
+      "tcgplayerId": "688680",
+      "LowPrice": "2.75"
     },
     {
       "Set": "TS26",
@@ -1880,6 +2098,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4061486636",
       "Cost": "6",
       "Power": "3",
       "HP": "7",
@@ -1894,12 +2113,13 @@
         "Overwhelm",
         "Raid"
       ],
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.60",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/5.png",
-      "tcgplayerId": "679151"
+      "tcgplayerId": "679151",
+      "LowPrice": "0.49"
     },
     {
       "Set": "TS26",
@@ -1912,6 +2132,7 @@
       "Traits": [
         "PLAN"
       ],
+      "cid": "8178276439",
       "Cost": "2",
       "FrontText": "Give a Shield token to each of up to 2 non-Vehicle units. If you give a Shield to an enemy unit this way, draw a card.\nPlot (When you deploy a leader, you may play this card from your resources, paying its cost. Replace it with the top card of your deck.)",
       "DoubleSided": false,
@@ -1922,10 +2143,11 @@
       ],
       "Artist": "Robynn Frauhn",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.71",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/46.png",
-      "tcgplayerId": "688699"
+      "tcgplayerId": "688699",
+      "LowPrice": "2.67"
     },
     {
       "Set": "TS26",
@@ -1944,6 +2166,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "7677772050",
       "Cost": "4",
       "Power": "2",
       "HP": "6",
@@ -1953,10 +2176,34 @@
       "Unique": true,
       "Artist": "Kaihound Studios",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.37",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/49.png",
-      "tcgplayerId": "679517"
+      "tcgplayerId": "679517",
+      "LowPrice": "2.30"
+    },
+    {
+      "Set": "TS26",
+      "Number": "T04",
+      "Name": "Shield",
+      "Type": "Token Upgrade",
+      "Traits": [
+        "ARMOR"
+      ],
+      "cid": "1142403519",
+      "Cost": "0",
+      "Power": "0",
+      "HP": "0",
+      "FrontText": "If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Marc Escachx",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/T04.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "TS26",
@@ -1971,17 +2218,21 @@
         "SITH",
         "LEARNED"
       ],
+      "cid": "1377604550",
       "Cost": "2",
+      "Power": "1",
+      "HP": "1",
       "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains: \"On Attack: Give an Experience token to this unit.\" and \"When Defeated: Give an Experience token to a friendly unit.\"",
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": false,
       "Artist": "Kevin Sidharta",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.42",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/52.png",
-      "tcgplayerId": "688702"
+      "tcgplayerId": "688702",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -2000,6 +2251,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "1109370851",
       "Cost": "5",
       "Power": "6",
       "HP": "5",
@@ -2012,10 +2264,11 @@
       ],
       "Artist": "Victor Stoll Toaldo",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.29",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/24.png",
-      "tcgplayerId": "685545"
+      "tcgplayerId": "685545",
+      "LowPrice": "0.19"
     },
     {
       "Set": "TS26",
@@ -2026,6 +2279,7 @@
       "Aspects": [
         "Cunning"
       ],
+      "cid": "0344986336",
       "HP": "27",
       "FrontText": "Epic Action: For each friendly leader unit, you may resource a card from your hand and ready it. If you do, defeat that many friendly resources at the start of the regroup phase.",
       "DoubleSided": false,
@@ -2033,10 +2287,11 @@
       "Unique": false,
       "Artist": "Christian Piccolo",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.60",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/12.png",
-      "tcgplayerId": "688678"
+      "tcgplayerId": "688678",
+      "LowPrice": "0.58"
     },
     {
       "Set": "TS26",
@@ -2049,6 +2304,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "4650054790",
       "Cost": "3",
       "FrontText": "This event costs 1 less to play for each friendly leader unit.\nDeal 3 damage to a unit.",
       "DoubleSided": false,
@@ -2056,10 +2312,11 @@
       "Unique": false,
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/71.png",
-      "tcgplayerId": "688714"
+      "tcgplayerId": "688714",
+      "LowPrice": "0.13"
     },
     {
       "Set": "TS26",
@@ -2072,6 +2329,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "6349103776",
       "Cost": "3",
       "FrontText": "This event costs 1 less to play for each friendly leader unit.\nAttack with a unit. it gets +2/+0 and gains Saboteur for this attack. (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
       "DoubleSided": false,
@@ -2082,10 +2340,11 @@
       ],
       "Artist": "Hoan Nguyen",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/83.png",
-      "tcgplayerId": "688674"
+      "tcgplayerId": "688674",
+      "LowPrice": "0.23"
     },
     {
       "Set": "TS26",
@@ -2098,17 +2357,19 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "4540524041",
       "Cost": "3",
       "FrontText": "This event costs 1 less to play for each friendly leader unit.\nGive an Experience token to each of up to 3 units.",
       "DoubleSided": false,
       "Rarity": "Common",
       "Unique": false,
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/60.png",
-      "tcgplayerId": "688707"
+      "tcgplayerId": "688707",
+      "LowPrice": "0.14"
     },
     {
       "Set": "TS26",
@@ -2121,6 +2382,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "3088628219",
       "Cost": "3",
       "FrontText": "This event costs 1 less to play for each friendly leader unit.\nHeal up to 3 damage from a unit and give a Shield token to it.",
       "DoubleSided": false,
@@ -2128,10 +2390,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/47.png",
-      "tcgplayerId": "688700"
+      "tcgplayerId": "688700",
+      "LowPrice": "0.13"
     },
     {
       "Set": "TS26",
@@ -2149,7 +2412,10 @@
         "ITEM",
         "WEAPON"
       ],
+      "cid": "8268973927",
       "Cost": "4",
+      "Power": "2",
+      "HP": "2",
       "FrontText": "Attach to a non-Vehicle unit.\nAttached unit gains Sentinel.\nWhen Played: If there are 4 or more different Keywords among friendly units, ready attached unit.",
       "DoubleSided": false,
       "Rarity": "Rare",
@@ -2159,10 +2425,11 @@
       ],
       "Artist": "Konstantin Porubov",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "2.11",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/22.png",
-      "tcgplayerId": "688686"
+      "tcgplayerId": "688686",
+      "LowPrice": "2.09"
     },
     {
       "Set": "TS26",
@@ -2182,6 +2449,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "5729664588",
       "Cost": "10",
       "Power": "6",
       "HP": "8",
@@ -2191,10 +2459,11 @@
       "Unique": true,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "1.12",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/36.png",
-      "tcgplayerId": "688694"
+      "tcgplayerId": "688694",
+      "LowPrice": "0.76"
     },
     {
       "Set": "TS26",
@@ -2214,6 +2483,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "2922751567",
       "Cost": "3",
       "Power": "3",
       "HP": "4",
@@ -2223,10 +2493,11 @@
       "Unique": true,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.36",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/41.png",
-      "tcgplayerId": "686465"
+      "tcgplayerId": "686465",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -2239,17 +2510,21 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "0122156036",
       "Cost": "1",
+      "Power": "2",
+      "HP": "1",
       "FrontText": "Attach to a unit that costs 4 or less.",
       "DoubleSided": false,
       "Rarity": "Uncommon",
       "Unique": false,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.35",
       "FoilPrice": "0.00",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/79.png",
-      "tcgplayerId": "688721"
+      "tcgplayerId": "688721",
+      "LowPrice": "0.26"
     },
     {
       "Set": "TS26",
@@ -2263,17 +2538,19 @@
       "Traits": [
         "PLAN"
       ],
+      "cid": "9066758387",
       "Cost": "2",
       "FrontText": "Deal 2 damage to your base.\nDraw 2 cards.",
       "DoubleSided": false,
       "Rarity": "Rare",
       "Unique": false,
-      "Artist": "David Buis\u00e1n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.70",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/64.png",
-      "tcgplayerId": "686467"
+      "tcgplayerId": "686467",
+      "LowPrice": "0.69"
     },
     {
       "Set": "TS26",
@@ -2286,6 +2563,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "5236803699",
       "Cost": "4",
       "FrontText": "Give each enemy ground unit -2/-2 for this phase.",
       "DoubleSided": false,
@@ -2293,10 +2571,11 @@
       "Unique": false,
       "Artist": "Ivan Fiorelli",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.31",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/48.png",
-      "tcgplayerId": "688701"
+      "tcgplayerId": "688701",
+      "LowPrice": "0.29"
     },
     {
       "Set": "TS26",
@@ -2312,6 +2591,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6507361368",
       "Cost": "4",
       "Power": "5",
       "HP": "5",
@@ -2321,10 +2601,11 @@
       "Unique": false,
       "Artist": "Andrea Milana",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/54.png",
-      "tcgplayerId": "679520"
+      "tcgplayerId": "679520",
+      "LowPrice": "0.09"
     },
     {
       "Set": "TS26",
@@ -2342,6 +2623,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "3034449380",
       "Cost": "3",
       "Power": "4",
       "HP": "4",
@@ -2349,12 +2631,13 @@
       "DoubleSided": false,
       "Rarity": "Common",
       "Unique": false,
-      "Artist": "Rocio Espin",
+      "Artist": "Rocío Espin",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.27",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/66.png",
-      "tcgplayerId": "688709"
+      "tcgplayerId": "688709",
+      "LowPrice": "0.25"
     },
     {
       "Set": "TS26",
@@ -2370,6 +2653,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2014524470",
       "Cost": "2",
       "Power": "3",
       "HP": "3",
@@ -2379,10 +2663,11 @@
       "Unique": false,
       "Artist": "Vincent Dutrait",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/76.png",
-      "tcgplayerId": "688719"
+      "tcgplayerId": "688719",
+      "LowPrice": "0.09"
     },
     {
       "Set": "TS26",
@@ -2398,6 +2683,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1577019857",
       "Cost": "1",
       "Power": "2",
       "HP": "3",
@@ -2407,10 +2693,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/43.png",
-      "tcgplayerId": "688697"
+      "tcgplayerId": "688697",
+      "LowPrice": "0.10"
     },
     {
       "Set": "TS26",
@@ -2431,6 +2718,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1104377502",
       "Cost": "5",
       "Power": "4",
       "HP": "4",
@@ -2443,10 +2731,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "13.40",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/14.png",
-      "tcgplayerId": "682310"
+      "tcgplayerId": "682310",
+      "LowPrice": "7.43"
     },
     {
       "Set": "TS26",
@@ -2465,6 +2754,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4124659733",
       "Cost": "4",
       "Power": "4",
       "HP": "4",
@@ -2477,10 +2767,662 @@
       ],
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "0.00",
+      "MarketPrice": "7.65",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/TS26/29.png",
-      "tcgplayerId": "679175"
+      "tcgplayerId": "679175",
+      "LowPrice": "7.13"
     }
-  ]
+  ],
+  "tcgArena": {
+    "set": {
+      "setId": "TS26",
+      "fullName": "Twin Suns 2026",
+      "releaseDate": "5/8/26",
+      "excludedVariants": {}
+    },
+    "updatedAt": "2026-10-20T17:24:26.185Z",
+    "images": {
+      "TS26_1": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/1-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/1.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/1-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/1-b.png"
+      },
+      "TS26_10": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/10-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/10.png"
+      },
+      "TS26_11": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/11-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/11.png"
+      },
+      "TS26_12": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/12-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/12.png"
+      },
+      "TS26_13": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/13.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/13.png"
+      },
+      "TS26_14": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/14.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/14.png"
+      },
+      "TS26_15": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/15.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/15.png"
+      },
+      "TS26_16": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/16.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/16.png"
+      },
+      "TS26_17": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/17.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/17.png"
+      },
+      "TS26_18": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/18.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/18.png"
+      },
+      "TS26_19": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/19.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/19.png"
+      },
+      "TS26_2": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/2-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/2.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/2-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/2-b.png"
+      },
+      "TS26_20": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/20.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/20.png"
+      },
+      "TS26_21": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/21.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/21.png"
+      },
+      "TS26_22": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/22.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/22.png"
+      },
+      "TS26_23": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/23.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/23.png"
+      },
+      "TS26_24": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/24.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/24.png"
+      },
+      "TS26_25": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/25.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/25.png"
+      },
+      "TS26_26": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/26.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/26.png"
+      },
+      "TS26_27": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/27.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/27.png"
+      },
+      "TS26_28": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/28.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/28.png"
+      },
+      "TS26_29": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/29.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/29.png"
+      },
+      "TS26_3": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/3-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/3.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/3-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/3-b.png"
+      },
+      "TS26_30": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/30.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/30.png"
+      },
+      "TS26_31": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/31.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/31.png"
+      },
+      "TS26_32": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/32.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/32.png"
+      },
+      "TS26_33": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/33.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/33.png"
+      },
+      "TS26_34": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/34.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/34.png"
+      },
+      "TS26_35": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/35.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/35.png"
+      },
+      "TS26_36": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/36.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/36.png"
+      },
+      "TS26_37": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/37.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/37.png"
+      },
+      "TS26_38": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/38.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/38.png"
+      },
+      "TS26_39": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/39.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/39.png"
+      },
+      "TS26_4": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/4-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/4.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/4-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/4-b.png"
+      },
+      "TS26_40": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/40.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/40.png"
+      },
+      "TS26_41": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/41.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/41.png"
+      },
+      "TS26_42": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/42.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/42.png"
+      },
+      "TS26_43": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/43.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/43.png"
+      },
+      "TS26_44": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/44.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/44.png"
+      },
+      "TS26_45": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/45.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/45.png"
+      },
+      "TS26_46": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/46.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/46.png"
+      },
+      "TS26_47": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/47.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/47.png"
+      },
+      "TS26_48": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/48.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/48.png"
+      },
+      "TS26_49": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/49.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/49.png"
+      },
+      "TS26_5": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/5-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/5.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/5-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/5-b.png"
+      },
+      "TS26_50": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/50.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/50.png"
+      },
+      "TS26_51": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/51.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/51.png"
+      },
+      "TS26_52": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/52.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/52.png"
+      },
+      "TS26_53": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/53.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/53.png"
+      },
+      "TS26_54": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/54.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/54.png"
+      },
+      "TS26_55": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/55.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/55.png"
+      },
+      "TS26_56": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/56.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/56.png"
+      },
+      "TS26_57": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/57.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/57.png"
+      },
+      "TS26_58": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/58.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/58.png"
+      },
+      "TS26_59": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/59.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/59.png"
+      },
+      "TS26_6": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/6-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/6.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/6-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/6-b.png"
+      },
+      "TS26_60": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/60.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/60.png"
+      },
+      "TS26_61": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/61.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/61.png"
+      },
+      "TS26_62": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/62.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/62.png"
+      },
+      "TS26_63": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/63.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/63.png"
+      },
+      "TS26_64": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/64.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/64.png"
+      },
+      "TS26_65": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/65.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/65.png"
+      },
+      "TS26_66": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/66.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/66.png"
+      },
+      "TS26_67": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/67.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/67.png"
+      },
+      "TS26_68": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/68.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/68.png"
+      },
+      "TS26_69": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/69.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/69.png"
+      },
+      "TS26_7": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/7-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/7.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/7-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/7-b.png"
+      },
+      "TS26_70": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/70.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/70.png"
+      },
+      "TS26_71": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/71.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/71.png"
+      },
+      "TS26_72": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/72.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/72.png"
+      },
+      "TS26_73": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/73.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/73.png"
+      },
+      "TS26_74": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/74.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/74.png"
+      },
+      "TS26_75": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/75.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/75.png"
+      },
+      "TS26_76": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/76.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/76.png"
+      },
+      "TS26_77": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/77.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/77.png"
+      },
+      "TS26_78": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/78.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/78.png"
+      },
+      "TS26_79": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/79.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/79.png"
+      },
+      "TS26_8": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/8-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/8.png",
+        "back": "https://cdn.swu-db.com/images/cards/TS26/8-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/TS26/8-b.png"
+      },
+      "TS26_80": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/80.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/80.png"
+      },
+      "TS26_81": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/81.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/81.png"
+      },
+      "TS26_82": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/82.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/82.png"
+      },
+      "TS26_83": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/83.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/83.png"
+      },
+      "TS26_84": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/84.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/84.png"
+      },
+      "TS26_9": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/9-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/9.png"
+      },
+      "TS26_T01": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/T01.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/T01.png"
+      },
+      "TS26_T02": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/T02.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/T02.png"
+      },
+      "TS26_T03": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/T03.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/T03.png"
+      },
+      "TS26_T04": {
+        "front": "https://cdn.swu-db.com/images/cards/TS26/T04.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/TS26/T04.png"
+      }
+    }
+  }
 }

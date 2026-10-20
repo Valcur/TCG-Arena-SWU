@@ -18,6 +18,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2022483509",
       "Cost": "3",
       "Power": "3",
       "HP": "1",
@@ -25,11 +26,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "1.41",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/82.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/82.png",
+      "tcgplayerId": "646352",
+      "LowPrice": "0.24"
     },
     {
       "Set": "IBH",
@@ -48,6 +51,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1858275309",
       "Cost": "3",
       "Power": "3",
       "HP": "1",
@@ -55,11 +59,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "1.32",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/85.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/85.png",
+      "tcgplayerId": "646353",
+      "LowPrice": "0.24"
     },
     {
       "Set": "IBH",
@@ -78,6 +84,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0274964861",
       "Cost": "4",
       "Power": "2",
       "HP": "5",
@@ -87,9 +94,11 @@
       "Unique": true,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.27",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/60.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/60.png",
+      "tcgplayerId": "646354",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -108,6 +117,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1751668579",
       "Cost": "4",
       "Power": "2",
       "HP": "5",
@@ -117,9 +127,11 @@
       "Unique": true,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/65.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/65.png",
+      "tcgplayerId": "646355",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -139,6 +151,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "4184803715",
       "Cost": "8",
       "Power": "8",
       "HP": "6",
@@ -148,9 +161,11 @@
       "Unique": true,
       "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.36",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/72.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/72.png",
+      "tcgplayerId": "646356",
+      "LowPrice": "0.14"
     },
     {
       "Set": "IBH",
@@ -169,6 +184,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6742175030",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -181,9 +197,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/103.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/103.png",
+      "tcgplayerId": "646359",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -202,6 +220,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6199578966",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -214,9 +233,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.16",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/70.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/70.png",
+      "tcgplayerId": "646357",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -235,6 +256,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1021393786",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -247,9 +269,11 @@
       ],
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.24",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/89.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/89.png",
+      "tcgplayerId": "646358",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -269,6 +293,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5480486728",
       "Cost": "7",
       "Power": "5",
       "HP": "7",
@@ -278,9 +303,11 @@
       "Unique": true,
       "Artist": "Reno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.31",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/99.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/99.png",
+      "tcgplayerId": "646360",
+      "LowPrice": "0.18"
     },
     {
       "Set": "IBH",
@@ -300,6 +327,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "5509338180",
       "Cost": "6",
       "Power": "4",
       "HP": "6",
@@ -310,11 +338,13 @@
       "Keywords": [
         "Sentinel"
       ],
-      "Artist": "Ignacio Bazan Lazcano",
+      "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/14.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/14.png",
+      "tcgplayerId": "646361",
+      "LowPrice": "0.07"
     },
     {
       "Set": "IBH",
@@ -334,6 +364,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9215616457",
       "Cost": "6",
       "Power": "4",
       "HP": "6",
@@ -344,11 +375,13 @@
       "Keywords": [
         "Sentinel"
       ],
-      "Artist": "Ignacio Bazan Lazcano",
+      "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.16",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/26.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/26.png",
+      "tcgplayerId": "646362",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -367,6 +400,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2404973143",
       "Cost": "3",
       "Power": "1",
       "HP": "4",
@@ -374,11 +408,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/19.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/19.png",
+      "tcgplayerId": "646363",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -397,6 +433,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5105187536",
       "Cost": "3",
       "Power": "1",
       "HP": "4",
@@ -404,11 +441,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/41.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/41.png",
+      "tcgplayerId": "646364",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -427,6 +466,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1112130807",
       "Cost": "5",
       "Power": "3",
       "HP": "6",
@@ -439,9 +479,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/3.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/3.png",
+      "tcgplayerId": "646365",
+      "LowPrice": "0.10"
     },
     {
       "Set": "IBH",
@@ -460,6 +502,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0691831929",
       "Cost": "5",
       "Power": "3",
       "HP": "6",
@@ -472,9 +515,11 @@
       ],
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/46.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/46.png",
+      "tcgplayerId": "646366",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -494,6 +539,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9389694773",
       "Cost": "6",
       "Power": "3",
       "HP": "8",
@@ -506,9 +552,11 @@
       "Unique": true,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.35",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/53.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/53.png",
+      "tcgplayerId": "646459",
+      "LowPrice": "0.18"
     },
     {
       "Set": "IBH",
@@ -527,6 +575,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "0162722840",
       "Cost": "7",
       "Power": "5",
       "HP": "6",
@@ -539,9 +588,11 @@
       ],
       "Artist": "Francois Cannels",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/79.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/79.png",
+      "tcgplayerId": "646367",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -560,6 +611,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "8913839157",
       "Cost": "7",
       "Power": "5",
       "HP": "6",
@@ -572,9 +624,11 @@
       ],
       "Artist": "Francois Cannels",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/98.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/98.png",
+      "tcgplayerId": "646368",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -592,6 +646,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6815960456",
       "Cost": "3",
       "Power": "0",
       "HP": "4",
@@ -604,9 +659,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/69.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/69.png",
+      "tcgplayerId": "646369",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -624,6 +681,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9420878223",
       "Cost": "3",
       "Power": "0",
       "HP": "4",
@@ -636,9 +694,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.30",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/83.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/83.png",
+      "tcgplayerId": "646370",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -649,16 +709,19 @@
       "Aspects": [
         "Cunning"
       ],
+      "cid": "1049149674",
       "HP": "20",
       "FrontText": "",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "EJ dela Cruz",
+      "Artist": "EJ Dela Cruz",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://valcur.github.io/TCG-Arena-SWU/Images/IBH/2.jpeg"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/2.png",
+      "tcgplayerId": "646371",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -675,6 +738,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2982161149",
       "Cost": "2",
       "Power": "1",
       "HP": "5",
@@ -684,9 +748,11 @@
       "Unique": false,
       "Artist": "Benjamin Paulus van Onzen",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.08",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/43.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/43.png",
+      "tcgplayerId": "646373",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -703,6 +769,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5617444812",
       "Cost": "2",
       "Power": "1",
       "HP": "5",
@@ -712,9 +779,11 @@
       "Unique": false,
       "Artist": "Benjamin Paulus van Onzen",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.29",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/47.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/47.png",
+      "tcgplayerId": "646374",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -731,6 +800,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8073149642",
       "Cost": "2",
       "Power": "1",
       "HP": "5",
@@ -740,9 +810,11 @@
       "Unique": false,
       "Artist": "Benjamin Paulus van Onzen",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.09",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/7.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/7.png",
+      "tcgplayerId": "646372",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -760,6 +832,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9489761564",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -769,9 +842,11 @@
       "Unique": false,
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/12.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/12.png",
+      "tcgplayerId": "646375",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -789,6 +864,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "7219860264",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -798,9 +874,11 @@
       "Unique": false,
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.24",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/35.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/35.png",
+      "tcgplayerId": "646376",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -818,6 +896,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "8262801332",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -827,9 +906,11 @@
       "Unique": false,
       "Artist": "Pandu Mahardika",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.08",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/44.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/44.png",
+      "tcgplayerId": "646377",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -847,6 +928,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8753464080",
       "Cost": "2",
       "Power": "3",
       "HP": "4",
@@ -854,11 +936,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "Monika Pa\u0142osz",
+      "Artist": "Monika Pałosz",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.08",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/101.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/101.png",
+      "tcgplayerId": "646380",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -876,6 +960,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0875657287",
       "Cost": "2",
       "Power": "3",
       "HP": "4",
@@ -883,11 +968,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "Monika Pa\u0142osz",
+      "Artist": "Monika Pałosz",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/55.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/55.png",
+      "tcgplayerId": "646378",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -905,6 +992,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9395521170",
       "Cost": "2",
       "Power": "3",
       "HP": "4",
@@ -912,11 +1000,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "Monika Pa\u0142osz",
+      "Artist": "Monika Pałosz",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/73.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/73.png",
+      "tcgplayerId": "646379",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -927,6 +1017,7 @@
       "Aspects": [
         "Vigilance"
       ],
+      "cid": "0479107180",
       "HP": "20",
       "FrontText": "",
       "DoubleSided": false,
@@ -934,9 +1025,11 @@
       "Unique": false,
       "Artist": "Stephen Zavala",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "0.00",
-      "FrontArt": "https://valcur.github.io/TCG-Arena-SWU/Images/IBH/54.jpeg"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/54.png",
+      "tcgplayerId": "646381",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -955,6 +1048,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "0446985285",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -964,9 +1058,11 @@
       "Unique": false,
       "Artist": "French Carlomagno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.10",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/22.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/22.png",
+      "tcgplayerId": "646388",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -985,6 +1081,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "7743822377",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -994,9 +1091,11 @@
       "Unique": false,
       "Artist": "French Carlomagno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/33.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/33.png",
+      "tcgplayerId": "646389",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1015,6 +1114,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9866010614",
       "Cost": "5",
       "Power": "5",
       "HP": "4",
@@ -1024,9 +1124,11 @@
       "Unique": false,
       "Artist": "French Carlomagno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/40.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/40.png",
+      "tcgplayerId": "646390",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1045,6 +1147,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8709200009",
       "Cost": "4",
       "Power": "2",
       "HP": "6",
@@ -1052,11 +1155,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/23.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/23.png",
+      "tcgplayerId": "646382",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1075,6 +1180,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6563724409",
       "Cost": "4",
       "Power": "2",
       "HP": "6",
@@ -1082,11 +1188,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/36.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/36.png",
+      "tcgplayerId": "646383",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1105,6 +1213,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6776733024",
       "Cost": "5",
       "Power": "3",
       "HP": "6",
@@ -1112,11 +1221,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/68.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/68.png",
+      "tcgplayerId": "646384",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1135,6 +1246,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2867307776",
       "Cost": "5",
       "Power": "3",
       "HP": "6",
@@ -1142,11 +1254,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/88.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/88.png",
+      "tcgplayerId": "646385",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1159,6 +1273,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "2859074789",
       "Cost": "1",
       "FrontText": "Exhaust an enemy ground unit.",
       "DoubleSided": false,
@@ -1166,9 +1281,11 @@
       "Unique": false,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/18.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/18.png",
+      "tcgplayerId": "646386",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1181,6 +1298,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "4564775801",
       "Cost": "1",
       "FrontText": "Exhaust an enemy ground unit.",
       "DoubleSided": false,
@@ -1188,9 +1306,11 @@
       "Unique": false,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/45.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/45.png",
+      "tcgplayerId": "646387",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1209,6 +1329,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9655836052",
       "Cost": "6",
       "Power": "5",
       "HP": "7",
@@ -1218,9 +1339,11 @@
       "Unique": false,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/56.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/56.png",
+      "tcgplayerId": "646391",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1239,6 +1362,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2466652200",
       "Cost": "6",
       "Power": "5",
       "HP": "7",
@@ -1248,9 +1372,11 @@
       "Unique": false,
       "Artist": "Kyle Petchock",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/67.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/67.png",
+      "tcgplayerId": "646392",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1268,10 +1394,11 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4136801536",
       "Cost": "6",
       "Power": "4",
       "HP": "6",
-      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets \u20132/\u20130 for this attack.",
+      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets –2/–0 for this attack.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
@@ -1280,9 +1407,11 @@
       ],
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.26",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/10.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/10.png",
+      "tcgplayerId": "646393",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1300,10 +1429,11 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3504602511",
       "Cost": "6",
       "Power": "4",
       "HP": "6",
-      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets \u20132/\u20130 for this attack.",
+      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets –2/–0 for this attack.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
@@ -1312,9 +1442,11 @@
       ],
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.37",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/42.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/42.png",
+      "tcgplayerId": "646394",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1332,6 +1464,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4512477799",
       "Cost": "4",
       "Power": "3",
       "HP": "4",
@@ -1341,9 +1474,11 @@
       "Unique": false,
       "Artist": "French Carlomagno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "1.41",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/64.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/64.png",
+      "tcgplayerId": "646395",
+      "LowPrice": "0.81"
     },
     {
       "Set": "IBH",
@@ -1361,6 +1496,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0722293431",
       "Cost": "4",
       "Power": "3",
       "HP": "4",
@@ -1370,9 +1506,11 @@
       "Unique": false,
       "Artist": "French Carlomagno",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.74",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/92.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/92.png",
+      "tcgplayerId": "646396",
+      "LowPrice": "0.39"
     },
     {
       "Set": "IBH",
@@ -1390,6 +1528,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "4808981574",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -1399,9 +1538,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/37.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/37.png",
+      "tcgplayerId": "646397",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1419,6 +1560,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3842468148",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -1428,9 +1570,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.10",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/38.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/38.png",
+      "tcgplayerId": "646398",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1448,6 +1592,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0919508424",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -1457,9 +1602,11 @@
       "Unique": false,
       "Artist": "Omercan Cirit",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/48.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/48.png",
+      "tcgplayerId": "646399",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1473,16 +1620,19 @@
       "Traits": [
         "PLAN"
       ],
+      "cid": "2651147042",
       "Cost": "2",
       "FrontText": "Draw 2 cards, then discard a card from your hand.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.37",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/102.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/102.png",
+      "tcgplayerId": "646401",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1496,16 +1646,19 @@
       "Traits": [
         "PLAN"
       ],
+      "cid": "2796502553",
       "Cost": "2",
       "FrontText": "Draw 2 cards, then discard a card from your hand.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "David Buisa\u0301n",
+      "Artist": "David Buisán",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.38",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/74.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/74.png",
+      "tcgplayerId": "646400",
+      "LowPrice": "0.05"
     },
     {
       "Set": "IBH",
@@ -1518,6 +1671,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "9755220648",
       "Cost": "3",
       "FrontText": "Deal 1 damage to an enemy unit and 1 damage to another enemy unit.",
       "DoubleSided": false,
@@ -1525,9 +1679,11 @@
       "Unique": false,
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/39.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/39.png",
+      "tcgplayerId": "646403",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1540,6 +1696,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "1941072965",
       "Cost": "3",
       "FrontText": "Deal 1 damage to an enemy unit and 1 damage to another enemy unit.",
       "DoubleSided": false,
@@ -1547,9 +1704,11 @@
       "Unique": false,
       "Artist": "Kursad Karatas",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/5.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/5.png",
+      "tcgplayerId": "646402",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1562,6 +1721,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "0434810928",
       "Cost": "2",
       "FrontText": "Reveal the top 3 cards of your deck. Draw a unit revealed this way, then discard the other revealed cards.",
       "DoubleSided": false,
@@ -1569,9 +1729,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.25",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/25.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/25.png",
+      "tcgplayerId": "646405",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1584,6 +1746,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "6605408513",
       "Cost": "2",
       "FrontText": "Reveal the top 3 cards of your deck. Draw a unit revealed this way, then discard the other revealed cards.",
       "DoubleSided": false,
@@ -1591,9 +1754,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/9.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/9.png",
+      "tcgplayerId": "646404",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1609,6 +1774,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5258186349",
       "Cost": "2",
       "Power": "1",
       "HP": "4",
@@ -1618,9 +1784,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/100.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/100.png",
+      "tcgplayerId": "646407",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1636,6 +1804,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9508246309",
       "Cost": "2",
       "Power": "1",
       "HP": "4",
@@ -1645,9 +1814,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/62.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/62.png",
+      "tcgplayerId": "646406",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1660,6 +1831,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "1758639231",
       "Cost": "2",
       "FrontText": "Attack with a unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
       "DoubleSided": false,
@@ -1667,9 +1839,11 @@
       "Unique": false,
       "Artist": "Derek Laufman",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.26",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/21.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/21.png",
+      "tcgplayerId": "646408",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1682,6 +1856,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "7693310752",
       "Cost": "2",
       "FrontText": "Attack with a unit. It gets +2/+0 for this attack. (You can only attack with a ready friendly unit.)",
       "DoubleSided": false,
@@ -1689,9 +1864,11 @@
       "Unique": false,
       "Artist": "Derek Laufman",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/30.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/30.png",
+      "tcgplayerId": "646409",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -1707,6 +1884,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9782761594",
       "Cost": "4",
       "Power": "0",
       "HP": "5",
@@ -1716,9 +1894,11 @@
       "Unique": false,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/16.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/16.png",
+      "tcgplayerId": "646410",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1734,6 +1914,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8964238451",
       "Cost": "4",
       "Power": "0",
       "HP": "5",
@@ -1743,9 +1924,11 @@
       "Unique": false,
       "Artist": "Marko Fiedler",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/27.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/27.png",
+      "tcgplayerId": "646411",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1763,6 +1946,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "0008529481",
       "Cost": "4",
       "Power": "2",
       "HP": "5",
@@ -1775,9 +1959,11 @@
       ],
       "Artist": "Guillaume Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.13",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/58.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/58.png",
+      "tcgplayerId": "646412",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1795,6 +1981,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "3796077047",
       "Cost": "4",
       "Power": "2",
       "HP": "5",
@@ -1807,9 +1994,11 @@
       ],
       "Artist": "Guillaume Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/84.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/84.png",
+      "tcgplayerId": "646413",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1827,6 +2016,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "7780705512",
       "Cost": "4",
       "Power": "2",
       "HP": "5",
@@ -1839,9 +2029,11 @@
       ],
       "Artist": "Guillaume Ospital",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/90.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/90.png",
+      "tcgplayerId": "646414",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -1860,6 +2052,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "9970912404",
       "Cost": "5",
       "Power": "3",
       "HP": "7",
@@ -1872,9 +2065,11 @@
       "Unique": true,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.21",
       "FoilPrice": "",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/1.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/1.png",
+      "tcgplayerId": "646457",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -1893,6 +2088,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1174196426",
       "Cost": "7",
       "Power": "6",
       "HP": "6",
@@ -1905,9 +2101,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "1.26",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/20.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/20.png",
+      "tcgplayerId": "646415",
+      "LowPrice": "0.99"
     },
     {
       "Set": "IBH",
@@ -1927,6 +2125,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "6270777752",
       "Cost": "7",
       "Power": "5",
       "HP": "6",
@@ -1936,9 +2135,11 @@
       "Unique": true,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.46",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/31.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/31.png",
+      "tcgplayerId": "646416",
+      "LowPrice": "0.29"
     },
     {
       "Set": "IBH",
@@ -1957,6 +2158,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3366353612",
       "Cost": "2",
       "Power": "1",
       "HP": "4",
@@ -1964,11 +2166,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.26",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/11.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/11.png",
+      "tcgplayerId": "646417",
+      "LowPrice": "0.18"
     },
     {
       "Set": "IBH",
@@ -1987,6 +2191,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0735555167",
       "Cost": "2",
       "Power": "1",
       "HP": "4",
@@ -1994,11 +2199,13 @@
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": true,
-      "Artist": "Gabriel G\u00f3mez Almenzar",
+      "Artist": "Gabriel Gómez Almenzar",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.22",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/49.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/49.png",
+      "tcgplayerId": "646418",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -2014,6 +2221,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5599665266",
       "Cost": "5",
       "Power": "6",
       "HP": "3",
@@ -2023,9 +2231,11 @@
       "Unique": false,
       "Artist": "Marc Escachx",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/76.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/76.png",
+      "tcgplayerId": "646419",
+      "LowPrice": "0.02"
     },
     {
       "Set": "IBH",
@@ -2044,6 +2254,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "8401089833",
       "Cost": "3",
       "Power": "2",
       "HP": "3",
@@ -2053,9 +2264,11 @@
       "Unique": false,
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.24",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/24.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/24.png",
+      "tcgplayerId": "646421",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2074,6 +2287,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "1242820303",
       "Cost": "3",
       "Power": "2",
       "HP": "3",
@@ -2083,9 +2297,11 @@
       "Unique": false,
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.16",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/32.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/32.png",
+      "tcgplayerId": "646422",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2104,6 +2320,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9863058946",
       "Cost": "3",
       "Power": "2",
       "HP": "3",
@@ -2113,9 +2330,11 @@
       "Unique": false,
       "Artist": "Shane Molina",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/6.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/6.png",
+      "tcgplayerId": "646420",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2128,6 +2347,7 @@
       "Traits": [
         "PLAN"
       ],
+      "cid": "0375794695",
       "Cost": "3",
       "FrontText": "Heal 5 damage from a unit.",
       "DoubleSided": false,
@@ -2135,9 +2355,11 @@
       "Unique": false,
       "Artist": "Derek Laufman",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/13.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/13.png",
+      "tcgplayerId": "646423",
+      "LowPrice": "0.02"
     },
     {
       "Set": "IBH",
@@ -2156,6 +2378,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0056236541",
       "Cost": "4",
       "Power": "3",
       "HP": "5",
@@ -2168,9 +2391,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.10",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/17.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/17.png",
+      "tcgplayerId": "646425",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2189,6 +2414,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "7295383567",
       "Cost": "4",
       "Power": "3",
       "HP": "5",
@@ -2201,9 +2427,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.13",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/34.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/34.png",
+      "tcgplayerId": "646426",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2222,6 +2450,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "8332320550",
       "Cost": "4",
       "Power": "3",
       "HP": "5",
@@ -2234,9 +2463,11 @@
       ],
       "Artist": "Johnny Morrow",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/4.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/4.png",
+      "tcgplayerId": "646424",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2254,6 +2485,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "6867378216",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2263,9 +2495,11 @@
       "Unique": false,
       "Artist": "Aaron Dhanda",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.19",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/75.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/75.png",
+      "tcgplayerId": "646427",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2283,6 +2517,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "1525827462",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2292,9 +2527,11 @@
       "Unique": false,
       "Artist": "Aaron Dhanda",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.16",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/81.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/81.png",
+      "tcgplayerId": "646428",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2312,6 +2549,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "4679553947",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2321,9 +2559,11 @@
       "Unique": false,
       "Artist": "Aaron Dhanda",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/97.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/97.png",
+      "tcgplayerId": "646429",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2341,6 +2581,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0581968676",
       "Cost": "1",
       "Power": "1",
       "HP": "3",
@@ -2350,9 +2591,11 @@
       "Unique": false,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/63.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/63.png",
+      "tcgplayerId": "646430",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2370,6 +2613,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3851011404",
       "Cost": "1",
       "Power": "1",
       "HP": "3",
@@ -2379,9 +2623,11 @@
       "Unique": false,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/77.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/77.png",
+      "tcgplayerId": "646431",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2399,6 +2645,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6427105703",
       "Cost": "1",
       "Power": "1",
       "HP": "3",
@@ -2408,9 +2655,11 @@
       "Unique": false,
       "Artist": "David Nash",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.20",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/87.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/87.png",
+      "tcgplayerId": "646432",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2428,6 +2677,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3768891856",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -2437,9 +2687,11 @@
       "Unique": false,
       "Artist": "Ivan Fiorelli",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.12",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/57.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/57.png",
+      "tcgplayerId": "646433",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2457,6 +2709,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2668644505",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -2466,9 +2719,11 @@
       "Unique": false,
       "Artist": "Ivan Fiorelli",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/80.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/80.png",
+      "tcgplayerId": "646434",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2486,6 +2741,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "0478971928",
       "Cost": "2",
       "Power": "2",
       "HP": "3",
@@ -2495,9 +2751,11 @@
       "Unique": false,
       "Artist": "Ivan Fiorelli",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.10",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/96.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/96.png",
+      "tcgplayerId": "646435",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2516,6 +2774,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "9127322562",
       "Cost": "2",
       "Power": "1",
       "HP": "3",
@@ -2528,9 +2787,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/78.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/78.png",
+      "tcgplayerId": "646436",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2549,6 +2810,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "4100796757",
       "Cost": "2",
       "Power": "1",
       "HP": "3",
@@ -2561,9 +2823,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.13",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/93.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/93.png",
+      "tcgplayerId": "646437",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2582,6 +2846,7 @@
       "Arenas": [
         "Space"
       ],
+      "cid": "7465295789",
       "Cost": "2",
       "Power": "1",
       "HP": "3",
@@ -2594,9 +2859,11 @@
       ],
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.12",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/94.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/94.png",
+      "tcgplayerId": "646438",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2609,6 +2876,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "8290455967",
       "Cost": "2",
       "FrontText": "Deal 2 damage to a base.",
       "DoubleSided": false,
@@ -2616,9 +2884,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/59.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/59.png",
+      "tcgplayerId": "646439",
+      "LowPrice": "0.08"
     },
     {
       "Set": "IBH",
@@ -2631,6 +2901,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "8728429619",
       "Cost": "2",
       "FrontText": "Deal 2 damage to a base.",
       "DoubleSided": false,
@@ -2638,9 +2909,11 @@
       "Unique": false,
       "Artist": "Ario Murti",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/71.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/71.png",
+      "tcgplayerId": "646440",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2656,6 +2929,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2798571364",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2665,9 +2939,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/15.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/15.png",
+      "tcgplayerId": "646441",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2683,6 +2959,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "1456615169",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2692,9 +2969,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.18",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/28.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/28.png",
+      "tcgplayerId": "646442",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2710,6 +2989,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "5577296048",
       "Cost": "2",
       "Power": "2",
       "HP": "2",
@@ -2719,9 +2999,11 @@
       "Unique": false,
       "Artist": "Aitor Prieto",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.15",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/51.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/51.png",
+      "tcgplayerId": "646443",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2734,6 +3016,7 @@
       "Traits": [
         "DISASTER"
       ],
+      "cid": "4087028261",
       "Cost": "6",
       "FrontText": "Defeat up to 2 enemy units that each cost 3 or less.",
       "DoubleSided": false,
@@ -2741,9 +3024,11 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.98",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/104.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/104.png",
+      "tcgplayerId": "646444",
+      "LowPrice": "0.20"
     },
     {
       "Set": "IBH",
@@ -2756,6 +3041,7 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "7014669428",
       "Cost": "1",
       "FrontText": "Heal 2 damage from a unit.",
       "DoubleSided": false,
@@ -2763,9 +3049,11 @@
       "Unique": false,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.17",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/66.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/66.png",
+      "tcgplayerId": "646445",
+      "LowPrice": "0.09"
     },
     {
       "Set": "IBH",
@@ -2778,6 +3066,7 @@
       "Traits": [
         "INNATE"
       ],
+      "cid": "2639603441",
       "Cost": "1",
       "FrontText": "Heal 2 damage from a unit.",
       "DoubleSided": false,
@@ -2785,9 +3074,11 @@
       "Unique": false,
       "Artist": "Amad Mir",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.13",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/91.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/91.png",
+      "tcgplayerId": "646446",
+      "LowPrice": "0.07"
     },
     {
       "Set": "IBH",
@@ -2805,6 +3096,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "3048297425",
       "Cost": "3",
       "Power": "3",
       "HP": "4",
@@ -2814,9 +3106,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.10",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/29.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/29.png",
+      "tcgplayerId": "646448",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2834,6 +3128,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "2679012540",
       "Cost": "3",
       "Power": "3",
       "HP": "4",
@@ -2843,9 +3138,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/50.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/50.png",
+      "tcgplayerId": "646449",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2863,6 +3160,7 @@
       "Arenas": [
         "Ground"
       ],
+      "cid": "6699126595",
       "Cost": "3",
       "Power": "3",
       "HP": "4",
@@ -2872,9 +3170,11 @@
       "Unique": false,
       "Artist": "Afif Khaled",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.11",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/8.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/8.png",
+      "tcgplayerId": "646447",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2887,6 +3187,7 @@
       "Traits": [
         "GAMBIT"
       ],
+      "cid": "8765982385",
       "Cost": "6",
       "FrontText": "Return a non-leader unit that costs 6 or less to its owner's hand. Exhaust each other enemy unit in the same arena.",
       "DoubleSided": false,
@@ -2894,9 +3195,11 @@
       "Unique": false,
       "Artist": "Francois Cannels",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "15.74",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/52.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/52.png",
+      "tcgplayerId": "646450",
+      "LowPrice": "12.32"
     },
     {
       "Set": "IBH",
@@ -2909,16 +3212,19 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "7524197668",
       "Cost": "3",
       "FrontText": "Deal 3 damage to a unit.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "Ignacio Bazan Lazcano",
+      "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.13",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/61.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/61.png",
+      "tcgplayerId": "646451",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2931,16 +3237,19 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "0646385311",
       "Cost": "3",
       "FrontText": "Deal 3 damage to a unit.",
       "DoubleSided": false,
       "Rarity": "Special",
       "Unique": false,
-      "Artist": "Ignacio Bazan Lazcano",
+      "Artist": "Ignacio Bazan-Lazcano",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.14",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/86.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/86.png",
+      "tcgplayerId": "646452",
+      "LowPrice": "0.04"
     },
     {
       "Set": "IBH",
@@ -2954,6 +3263,7 @@
       "Traits": [
         "TACTIC"
       ],
+      "cid": "4187779775",
       "Cost": "4",
       "FrontText": "Defeat a friendly unit. If you do, ready a friendly unit with 5 or less power.",
       "DoubleSided": false,
@@ -2961,9 +3271,756 @@
       "Unique": false,
       "Artist": "Envar Entertainment",
       "VariantType": "Normal",
-      "MarketPrice": "1.00",
+      "MarketPrice": "0.23",
       "FoilPrice": "0.00",
-      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/95.png"
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IBH/95.png",
+      "tcgplayerId": "646453",
+      "LowPrice": "0.19"
     }
-  ]
+  ],
+  "tcgArena": {
+    "set": {
+      "setId": "IBH",
+      "fullName": "Intro Battle: Hoth",
+      "releaseDate": "10/3/25",
+      "excludedVariants": {}
+    },
+    "updatedAt": "2026-10-20T17:24:22.350Z",
+    "images": {
+      "IBH_1": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/1-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/1.png",
+        "back": "https://cdn.swu-db.com/images/cards/IBH/1-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/IBH/1-b.png"
+      },
+      "IBH_10": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/10.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/10.png"
+      },
+      "IBH_100": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/100.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/100.png"
+      },
+      "IBH_101": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/101.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/101.png"
+      },
+      "IBH_102": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/102.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/102.png"
+      },
+      "IBH_103": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/103.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/103.png"
+      },
+      "IBH_104": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/104.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/104.png"
+      },
+      "IBH_11": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/11.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/11.png"
+      },
+      "IBH_12": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/12.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/12.png"
+      },
+      "IBH_13": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/13.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/13.png"
+      },
+      "IBH_14": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/14.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/14.png"
+      },
+      "IBH_15": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/15.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/15.png"
+      },
+      "IBH_16": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/16.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/16.png"
+      },
+      "IBH_17": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/17.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/17.png"
+      },
+      "IBH_18": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/18.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/18.png"
+      },
+      "IBH_19": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/19.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/19.png"
+      },
+      "IBH_2": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/2-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/2.png"
+      },
+      "IBH_20": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/20.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/20.png"
+      },
+      "IBH_21": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/21.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/21.png"
+      },
+      "IBH_22": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/22.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/22.png"
+      },
+      "IBH_23": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/23.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/23.png"
+      },
+      "IBH_24": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/24.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/24.png"
+      },
+      "IBH_25": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/25.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/25.png"
+      },
+      "IBH_26": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/26.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/26.png"
+      },
+      "IBH_27": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/27.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/27.png"
+      },
+      "IBH_28": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/28.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/28.png"
+      },
+      "IBH_29": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/29.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/29.png"
+      },
+      "IBH_3": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/3.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/3.png"
+      },
+      "IBH_30": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/30.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/30.png"
+      },
+      "IBH_31": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/31.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/31.png"
+      },
+      "IBH_32": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/32.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/32.png"
+      },
+      "IBH_33": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/33.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/33.png"
+      },
+      "IBH_34": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/34.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/34.png"
+      },
+      "IBH_35": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/35.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/35.png"
+      },
+      "IBH_36": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/36.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/36.png"
+      },
+      "IBH_37": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/37.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/37.png"
+      },
+      "IBH_38": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/38.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/38.png"
+      },
+      "IBH_39": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/39.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/39.png"
+      },
+      "IBH_4": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/4.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/4.png"
+      },
+      "IBH_40": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/40.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/40.png"
+      },
+      "IBH_41": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/41.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/41.png"
+      },
+      "IBH_42": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/42.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/42.png"
+      },
+      "IBH_43": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/43.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/43.png"
+      },
+      "IBH_44": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/44.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/44.png"
+      },
+      "IBH_45": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/45.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/45.png"
+      },
+      "IBH_46": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/46.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/46.png"
+      },
+      "IBH_47": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/47.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/47.png"
+      },
+      "IBH_48": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/48.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/48.png"
+      },
+      "IBH_49": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/49.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/49.png"
+      },
+      "IBH_5": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/5.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/5.png"
+      },
+      "IBH_50": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/50.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/50.png"
+      },
+      "IBH_51": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/51.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/51.png"
+      },
+      "IBH_52": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/52.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/52.png"
+      },
+      "IBH_53": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/53-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/53.png",
+        "back": "https://cdn.swu-db.com/images/cards/IBH/53-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/IBH/53-b.png"
+      },
+      "IBH_54": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/54-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/54.png"
+      },
+      "IBH_55": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/55.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/55.png"
+      },
+      "IBH_56": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/56.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/56.png"
+      },
+      "IBH_57": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/57.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/57.png"
+      },
+      "IBH_58": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/58.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/58.png"
+      },
+      "IBH_59": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/59.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/59.png"
+      },
+      "IBH_6": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/6.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/6.png"
+      },
+      "IBH_60": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/60.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/60.png"
+      },
+      "IBH_61": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/61.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/61.png"
+      },
+      "IBH_62": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/62.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/62.png"
+      },
+      "IBH_63": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/63.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/63.png"
+      },
+      "IBH_64": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/64.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/64.png"
+      },
+      "IBH_65": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/65.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/65.png"
+      },
+      "IBH_66": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/66.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/66.png"
+      },
+      "IBH_67": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/67.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/67.png"
+      },
+      "IBH_68": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/68.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/68.png"
+      },
+      "IBH_69": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/69.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/69.png"
+      },
+      "IBH_7": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/7.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/7.png"
+      },
+      "IBH_70": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/70.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/70.png"
+      },
+      "IBH_71": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/71.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/71.png"
+      },
+      "IBH_72": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/72.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/72.png"
+      },
+      "IBH_73": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/73.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/73.png"
+      },
+      "IBH_74": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/74.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/74.png"
+      },
+      "IBH_75": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/75.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/75.png"
+      },
+      "IBH_76": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/76.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/76.png"
+      },
+      "IBH_77": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/77.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/77.png"
+      },
+      "IBH_78": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/78.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/78.png"
+      },
+      "IBH_79": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/79.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/79.png"
+      },
+      "IBH_8": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/8.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/8.png"
+      },
+      "IBH_80": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/80.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/80.png"
+      },
+      "IBH_81": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/81.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/81.png"
+      },
+      "IBH_82": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/82.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/82.png"
+      },
+      "IBH_83": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/83.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/83.png"
+      },
+      "IBH_84": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/84.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/84.png"
+      },
+      "IBH_85": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/85.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/85.png"
+      },
+      "IBH_86": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/86.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/86.png"
+      },
+      "IBH_87": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/87.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/87.png"
+      },
+      "IBH_88": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/88.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/88.png"
+      },
+      "IBH_89": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/89.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/89.png"
+      },
+      "IBH_9": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/9.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/9.png"
+      },
+      "IBH_90": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/90.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/90.png"
+      },
+      "IBH_91": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/91.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/91.png"
+      },
+      "IBH_92": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/92.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/92.png"
+      },
+      "IBH_93": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/93.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/93.png"
+      },
+      "IBH_94": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/94.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/94.png"
+      },
+      "IBH_95": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/95.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/95.png"
+      },
+      "IBH_96": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/96.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/96.png"
+      },
+      "IBH_97": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/97.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/97.png"
+      },
+      "IBH_98": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/98.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/98.png"
+      },
+      "IBH_99": {
+        "front": "https://cdn.swu-db.com/images/cards/IBH/99.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IBH/99.png"
+      }
+    }
+  }
 }

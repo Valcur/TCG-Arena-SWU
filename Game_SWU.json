@@ -276,5 +276,6 @@
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-SWU/SWUCards.json",
         "cardBack": "https://i.imgur.com/alTEVLx.jpeg"
-    }
+    },
+    "translationsUrl": "https://valcur.github.io/TCG-Arena-SWU/Translations.json"
 }

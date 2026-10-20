@@ -1,0 +1,366 @@
+{
+  "total_cards": 9,
+  "data": [
+    {
+      "Set": "IC27",
+      "Number": "038",
+      "Name": "Admiral Holdo",
+      "Subtitle": "We Are the Spark",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "RESISTANCE",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "5",
+      "Power": "3",
+      "HP": "7",
+      "FrontText": "Draw 1 more card during the regroup phase.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "JB Casacop",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/038.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "071",
+      "Name": "Avar Kriss",
+      "Subtitle": "For Light and Life",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE",
+        "JEDI",
+        "REPUBLIC"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "2",
+      "Power": "0",
+      "HP": "5",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.) \nThis unit gains Raid 1 for each other friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Toni Infante",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/071.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "146",
+      "Name": "Boba Fett",
+      "Subtitle": "Compensated if He Dies",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Villainy"
+      ],
+      "Traits": [
+        "UNDERWORLD",
+        "BOUNTY HUNTER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "5",
+      "Power": "4",
+      "HP": "7",
+      "FrontText": "When Attack Ends: If the defending unit was defeated, you may ready 2 resources.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/146.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "041",
+      "Name": "Captain Rex",
+      "Subtitle": "Unwavering Belief",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "CLONE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "7",
+      "Power": "7",
+      "HP": "5",
+      "FrontText": "Sentinel \nShielded \nRestore 3",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Restore",
+        "Sentinel",
+        "Shielded"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/041.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "168",
+      "Name": "Cunning Ploy",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning",
+        "Cunning"
+      ],
+      "Traits": [
+        "TRICK"
+      ],
+      "cid": "",
+      "Cost": "4",
+      "FrontText": "Look at an opponent's hand. You may discard a card from it. If you do, that player draws a card.\n Exhaust an enemy unit.\nYou may attack with a unit. it gets +3/+0 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/168.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "024",
+      "Name": "Grand Admiral Thrawn",
+      "Subtitle": "Listen to Me Carefully",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "6",
+      "Power": "4",
+      "HP": "4",
+      "FrontText": "When Played/On Attack/When Defeated: You may give an Experience token to another friendly unit. It gains Sentinel for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/024.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "103",
+      "Name": "Grand Inquisitor",
+      "Subtitle": "How the Mighty Will Fall",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "IMPERIAL",
+        "INQUISITOR"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "4",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "While this unit is damaged, he gains Raid 3 and Saboteur.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Raid",
+        "Saboteur"
+      ],
+      "Artist": "Kevin Sidharta",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/103.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "166",
+      "Name": "I've Got A Bad Feeling",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "cid": "",
+      "Cost": "4",
+      "FrontText": "Return a non-leader unit to its owner's hand. \nGive a Shield token to a friendly unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/166.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "079",
+      "Name": "Qui-Gon Jinn",
+      "Subtitle": "Unwavering Belief",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE",
+        "JEDI",
+        "REPUBLIC"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "",
+      "Cost": "5",
+      "Power": "5",
+      "HP": "5",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.) \nWhen Played: Give another friendly unit +2/+2 for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "JB Casacop",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/079.png"
+    }
+  ],
+  "tcgArena": {
+    "set": {
+      "setId": "IC27",
+      "fullName": "Icons 2027",
+      "releaseDate": "11/20/26",
+      "excludedVariants": {}
+    },
+    "updatedAt": "2026-10-20T17:24:29.890Z",
+    "images": {
+      "IC27_024": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/024.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/024.png"
+      },
+      "IC27_038": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/038.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/038.png"
+      },
+      "IC27_041": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/041.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/041.png"
+      },
+      "IC27_071": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/071.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/071.png"
+      },
+      "IC27_079": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/079.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/079.png"
+      },
+      "IC27_103": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/103.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/103.png"
+      },
+      "IC27_146": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/146.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/146.png"
+      },
+      "IC27_166": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/166.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/166.png"
+      },
+      "IC27_168": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/168.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/168.png"
+      }
+    }
+  }
+}
