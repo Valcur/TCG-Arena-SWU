@@ -149243,6 +149243,314 @@
     ],
     "isToken": true
   },
+  "IC27_001": {
+    "id": "IC27_001",
+    "face": {
+      "front": {
+        "name": "Darth Vader, No One to Stop Us",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/001-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Darth Vader, No One to Stop Us",
+        "type": "Leader",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/001-b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Vader, No One to Stop Us",
+    "type": "Leader",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 7,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "SITH"
+    ]
+  },
+  "IC27_008": {
+    "id": "IC27_008",
+    "face": {
+      "front": {
+        "name": "Princess Leia, On a Diplomatic Mission",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/008-r.png",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Princess Leia, On a Diplomatic Mission",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/008-b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Princess Leia, On a Diplomatic Mission",
+    "type": "Leader",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 7,
+    "set": "IC27",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "OFFICIAL"
+    ]
+  },
+  "IC27_009": {
+    "id": "IC27_009",
+    "face": {
+      "front": {
+        "name": "City in the Clouds, Cloud City",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/009-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "City in the Clouds, Cloud City",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 30,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IC27_010": {
+    "id": "IC27_010",
+    "face": {
+      "front": {
+        "name": "Echo Base, Hoth",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/010-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Echo Base, Hoth",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 30,
+    "set": "IC27",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IC27_011": {
+    "id": "IC27_011",
+    "face": {
+      "front": {
+        "name": "KCM Mining Facility, Mustafar",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/011-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "KCM Mining Facility, Mustafar",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 30,
+    "set": "IC27",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IC27_012": {
+    "id": "IC27_012",
+    "face": {
+      "front": {
+        "name": "Mos Eisley, Tatooine",
+        "type": "Base",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/012-r.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Mos Eisley, Tatooine",
+    "type": "Base",
+    "cost": 0,
+    "rarity": "Special",
+    "power": 0,
+    "HP": 30,
+    "set": "IC27",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": []
+  },
+  "IC27_015": {
+    "id": "IC27_015",
+    "face": {
+      "front": {
+        "name": "Onyx Squadron Brute",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onyx Squadron Brute",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_016": {
+    "id": "IC27_016",
+    "face": {
+      "front": {
+        "name": "Rune Haako, Scheming Second",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rune Haako, Scheming Second",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 2,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "SEPARATIST",
+      "OFFICIAL"
+    ]
+  },
+  "IC27_017": {
+    "id": "IC27_017",
+    "face": {
+      "front": {
+        "name": "Death Trooper",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Trooper",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IC27_020": {
+    "id": "IC27_020",
+    "face": {
+      "front": {
+        "name": "Admiral Piett, In Command Now",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admiral Piett, In Command Now",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Special",
+    "power": 2,
+    "HP": 5,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IC27_022": {
+    "id": "IC27_022",
+    "face": {
+      "front": {
+        "name": "Moff Gideon, Cold Calling",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moff Gideon, Cold Calling",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
   "IC27_024": {
     "id": "IC27_024",
     "face": {
@@ -149269,6 +149577,149 @@
     "traits": [
       "IMPERIAL",
       "OFFICIAL"
+    ]
+  },
+  "IC27_025": {
+    "id": "IC27_025",
+    "face": {
+      "front": {
+        "name": "Blizzard One, Veers at the Helm",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blizzard One, Veers at the Helm",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 7,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IC27_026": {
+    "id": "IC27_026",
+    "face": {
+      "front": {
+        "name": "Darth Sidious, Move Against the Jedi",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darth Sidious, Move Against the Jedi",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Rare",
+    "power": 5,
+    "HP": 8,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "SEPARATIST",
+      "SITH"
+    ]
+  },
+  "IC27_027": {
+    "id": "IC27_027",
+    "face": {
+      "front": {
+        "name": "AT-AT Suppressor",
+        "type": "Unit - Ground",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "AT-AT Suppressor",
+    "type": "Unit - Ground",
+    "cost": 8,
+    "rarity": "Uncommon",
+    "power": 8,
+    "HP": 8,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "WALKER"
+    ]
+  },
+  "IC27_028": {
+    "id": "IC27_028",
+    "face": {
+      "front": {
+        "name": "Avenger, Hunting the Rebels",
+        "type": "Unit - Space",
+        "cost": 8,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avenger, Hunting the Rebels",
+    "type": "Unit - Space",
+    "cost": 8,
+    "rarity": "Special",
+    "power": 8,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "IC27_030": {
+    "id": "IC27_030",
+    "face": {
+      "front": {
+        "name": "Lethal Crackdown",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lethal Crackdown",
+    "type": "Event",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "TACTIC"
     ]
   },
   "IC27_038": {
@@ -149328,6 +149779,32 @@
       "TROOPER"
     ]
   },
+  "IC27_052": {
+    "id": "IC27_052",
+    "face": {
+      "front": {
+        "name": "Resilient",
+        "type": "Upgrade",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resilient",
+    "type": "Upgrade",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Vigilance"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
   "IC27_071": {
     "id": "IC27_071",
     "face": {
@@ -149355,6 +149832,64 @@
       "FORCE",
       "JEDI",
       "REPUBLIC"
+    ]
+  },
+  "IC27_073": {
+    "id": "IC27_073",
+    "face": {
+      "front": {
+        "name": "Phoenix Squadron A-Wing",
+        "type": "Unit - Space",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phoenix Squadron A-Wing",
+    "type": "Unit - Space",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "IC27",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_075": {
+    "id": "IC27_075",
+    "face": {
+      "front": {
+        "name": "Red Leader, Wait For My Signal",
+        "type": "Unit - Space",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Leader, Wait For My Signal",
+    "type": "Unit - Space",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 2,
+    "HP": 4,
+    "set": "IC27",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "FIGHTER"
     ]
   },
   "IC27_079": {
@@ -149386,6 +149921,201 @@
       "REPUBLIC"
     ]
   },
+  "IC27_080": {
+    "id": "IC27_080",
+    "face": {
+      "front": {
+        "name": "Bright Hope, Narrow Escape",
+        "type": "Unit - Space",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bright Hope, Narrow Escape",
+    "type": "Unit - Space",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
+    ]
+  },
+  "IC27_082": {
+    "id": "IC27_082",
+    "face": {
+      "front": {
+        "name": "Luke Skywalker, Do You Read Me?",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luke Skywalker, Do You Read Me?",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 6,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "REBEL"
+    ]
+  },
+  "IC27_085": {
+    "id": "IC27_085",
+    "face": {
+      "front": {
+        "name": "Inspiring Mentor",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inspiring Mentor",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 1,
+    "HP": 1,
+    "set": "IC27",
+    "aspects": [
+      "Command",
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "INNATE"
+    ]
+  },
+  "IC27_093": {
+    "id": "IC27_093",
+    "face": {
+      "front": {
+        "name": "Academy Training",
+        "type": "Upgrade",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Academy Training",
+    "type": "Upgrade",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 2,
+    "set": "IC27",
+    "aspects": [
+      "Command"
+    ],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ]
+  },
+  "IC27_097": {
+    "id": "IC27_097",
+    "face": {
+      "front": {
+        "name": "Death Star Stormtrooper",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Star Stormtrooper",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 1,
+    "set": "IC27",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "TROOPER"
+    ]
+  },
+  "IC27_098": {
+    "id": "IC27_098",
+    "face": {
+      "front": {
+        "name": "Commander Pyre, Golden Menace",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commander Pyre, Golden Menace",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FIRST ORDER",
+      "TROOPER"
+    ]
+  },
+  "IC27_099": {
+    "id": "IC27_099",
+    "face": {
+      "front": {
+        "name": "Eighth Brother, Ill-Fated Escape",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eighth Brother, Ill-Fated Escape",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 3,
+    "HP": 1,
+    "set": "IC27",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "IMPERIAL",
+      "INQUISITOR"
+    ]
+  },
   "IC27_103": {
     "id": "IC27_103",
     "face": {
@@ -149415,6 +150145,89 @@
       "INQUISITOR"
     ]
   },
+  "IC27_105": {
+    "id": "IC27_105",
+    "face": {
+      "front": {
+        "name": "General Veers, Leading the Assault",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "General Veers, Leading the Assault",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 3,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "IMPERIAL",
+      "OFFICIAL"
+    ]
+  },
+  "IC27_108": {
+    "id": "IC27_108",
+    "face": {
+      "front": {
+        "name": "Savage Opress, Monster",
+        "type": "Unit - Ground",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savage Opress, Monster",
+    "type": "Unit - Ground",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "power": 7,
+    "HP": 7,
+    "set": "IC27",
+    "aspects": [
+      "Aggression",
+      "Villainy"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE",
+      "NIGHT",
+      "UNDERWORLD"
+    ]
+  },
+  "IC27_129": {
+    "id": "IC27_129",
+    "face": {
+      "front": {
+        "name": "DRK-1 Probe Droid",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DRK-1 Probe Droid",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Aggression"
+    ],
+    "unique": false,
+    "traits": [
+      "DROID"
+    ]
+  },
   "IC27_146": {
     "id": "IC27_146",
     "face": {
@@ -149441,6 +150254,89 @@
     "traits": [
       "UNDERWORLD",
       "BOUNTY HUNTER"
+    ]
+  },
+  "IC27_154": {
+    "id": "IC27_154",
+    "face": {
+      "front": {
+        "name": "Grogu, Irresistible",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/154.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grogu, Irresistible",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 5,
+    "set": "IC27",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "IC27_161": {
+    "id": "IC27_161",
+    "face": {
+      "front": {
+        "name": "Han Solo, Scruffy-Looking Nerf Herder",
+        "type": "Unit - Ground",
+        "cost": 6,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/161.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Han Solo, Scruffy-Looking Nerf Herder",
+    "type": "Unit - Ground",
+    "cost": 6,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL"
+    ]
+  },
+  "IC27_164": {
+    "id": "IC27_164",
+    "face": {
+      "front": {
+        "name": "Millennium Falcon, Bucket of Bolts",
+        "type": "Unit - Space",
+        "cost": 7,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Millennium Falcon, Bucket of Bolts",
+    "type": "Unit - Space",
+    "cost": 7,
+    "rarity": "Special",
+    "power": 5,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Cunning",
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "VEHICLE",
+      "TRANSPORT"
     ]
   },
   "IC27_166": {
@@ -149496,5 +150392,493 @@
     "traits": [
       "TRICK"
     ]
+  },
+  "IC27_169": {
+    "id": "IC27_169",
+    "face": {
+      "front": {
+        "name": "A-Wing",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/169.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A-Wing",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 1,
+    "HP": 2,
+    "set": "IC27",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_173": {
+    "id": "IC27_173",
+    "face": {
+      "front": {
+        "name": "Hidden Sharpshooter",
+        "type": "Unit - Ground",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hidden Sharpshooter",
+    "type": "Unit - Ground",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "IC27_175": {
+    "id": "IC27_175",
+    "face": {
+      "front": {
+        "name": "Shoot First",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shoot First",
+    "type": "Event",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "IC27",
+    "aspects": [
+      "Cunning"
+    ],
+    "unique": false,
+    "traits": [
+      "TRICK"
+    ]
+  },
+  "IC27_178": {
+    "id": "IC27_178",
+    "face": {
+      "front": {
+        "name": "TIE/ln Fighter",
+        "type": "Unit - Space",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/178.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "TIE/ln Fighter",
+    "type": "Unit - Space",
+    "cost": 1,
+    "rarity": "Common",
+    "power": 2,
+    "HP": 1,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_180": {
+    "id": "IC27_180",
+    "face": {
+      "front": {
+        "name": "Super Battle Droid",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/180.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Battle Droid",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "DROID",
+      "TROOPER"
+    ]
+  },
+  "IC27_181": {
+    "id": "IC27_181",
+    "face": {
+      "front": {
+        "name": "Rogue-class Starfighter",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/181.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue-class Starfighter",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 4,
+    "HP": 3,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "SEPARATIST",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_182": {
+    "id": "IC27_182",
+    "face": {
+      "front": {
+        "name": "HK-87 Assassin Droid",
+        "type": "Unit - Ground",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/182.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "HK-87 Assassin Droid",
+    "type": "Unit - Ground",
+    "cost": 5,
+    "rarity": "Special",
+    "power": 4,
+    "HP": 4,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "IMPERIAL",
+      "DROID"
+    ]
+  },
+  "IC27_184": {
+    "id": "IC27_184",
+    "face": {
+      "front": {
+        "name": "Consumed by the Dark Side",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/184.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consumed by the Dark Side",
+    "type": "Event",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 0,
+    "HP": 0,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "FORCE"
+    ]
+  },
+  "IC27_185": {
+    "id": "IC27_185",
+    "face": {
+      "front": {
+        "name": "I Am Your Father",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/185.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "I Am Your Father",
+    "type": "Event",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "power": 0,
+    "HP": 0,
+    "set": "IC27",
+    "aspects": [
+      "Villainy"
+    ],
+    "unique": false,
+    "traits": [
+      "GAMBIT"
+    ]
+  },
+  "IC27_186": {
+    "id": "IC27_186",
+    "face": {
+      "front": {
+        "name": "R2-D2, Ignoring Protocol",
+        "type": "Unit - Ground",
+        "cost": 1,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/186.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "R2-D2, Ignoring Protocol",
+    "type": "Unit - Ground",
+    "cost": 1,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IC27_187": {
+    "id": "IC27_187",
+    "face": {
+      "front": {
+        "name": "Jar Jar Binks, Bumbling Representative",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/187.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jar Jar Binks, Bumbling Representative",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Rare",
+    "power": 1,
+    "HP": 5,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REPUBLIC",
+      "GUNGAN",
+      "OFFICIAL"
+    ]
+  },
+  "IC27_188": {
+    "id": "IC27_188",
+    "face": {
+      "front": {
+        "name": "C-3P0, Protocol Droid",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/188.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "C-3P0, Protocol Droid",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Special",
+    "power": 1,
+    "HP": 4,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": true,
+    "traits": [
+      "REBEL",
+      "DROID"
+    ]
+  },
+  "IC27_189": {
+    "id": "IC27_189",
+    "face": {
+      "front": {
+        "name": "Phase I Clone Trooper",
+        "type": "Unit - Ground",
+        "cost": 2,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/189.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phase I Clone Trooper",
+    "type": "Unit - Ground",
+    "cost": 2,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 2,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "CLONE",
+      "TROOPER"
+    ]
+  },
+  "IC27_190": {
+    "id": "IC27_190",
+    "face": {
+      "front": {
+        "name": "Dilapidated Ski Speeder",
+        "type": "Unit - Ground",
+        "cost": 3,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/190.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dilapidated Ski Speeder",
+    "type": "Unit - Ground",
+    "cost": 3,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 7,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "RESISTANCE",
+      "VEHICLE",
+      "SPEEDER"
+    ]
+  },
+  "IC27_191": {
+    "id": "IC27_191",
+    "face": {
+      "front": {
+        "name": "Medical Frigate",
+        "type": "Unit - Space",
+        "cost": 4,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/191.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medical Frigate",
+    "type": "Unit - Space",
+    "cost": 4,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 6,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "CAPITAL SHIP"
+    ]
+  },
+  "IC27_192": {
+    "id": "IC27_192",
+    "face": {
+      "front": {
+        "name": "Eta-2 Light Interceptor",
+        "type": "Unit - Space",
+        "cost": 5,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eta-2 Light Interceptor",
+    "type": "Unit - Space",
+    "cost": 5,
+    "rarity": "Common",
+    "power": 3,
+    "HP": 5,
+    "set": "IC27",
+    "aspects": [
+      "Heroism"
+    ],
+    "unique": false,
+    "traits": [
+      "REPUBLIC",
+      "VEHICLE",
+      "FIGHTER"
+    ]
+  },
+  "IC27_T01": {
+    "id": "IC27_T01",
+    "face": {
+      "front": {
+        "name": "Experience",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/T01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experience",
+    "type": "Upgrade",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 1,
+    "HP": 1,
+    "set": "IC27",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "LEARNED"
+    ],
+    "isToken": true
+  },
+  "IC27_T02": {
+    "id": "IC27_T02",
+    "face": {
+      "front": {
+        "name": "Shield",
+        "type": "Upgrade",
+        "cost": 0,
+        "image": "https://cdn.swu-db.com/images/cards/IC27/T02.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shield",
+    "type": "Upgrade",
+    "cost": 0,
+    "rarity": "Token",
+    "power": 0,
+    "HP": 0,
+    "set": "IC27",
+    "aspects": [],
+    "unique": false,
+    "traits": [
+      "ARMOR"
+    ],
+    "isToken": true
   }
 }

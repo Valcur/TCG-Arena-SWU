@@ -1,6 +1,99 @@
 {
-  "total_cards": 9,
+  "total_cards": 59,
   "data": [
+    {
+      "Set": "IC27",
+      "Number": "169",
+      "Name": "A-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "4077517356",
+      "Cost": "1",
+      "Power": "1",
+      "HP": "2",
+      "FrontText": "Raid 1 (This unit gets +1/+0 while attacking.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Kursad Karatas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/169.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "027",
+      "Name": "AT-AT Suppressor",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "4901911688",
+      "Cost": "8",
+      "Power": "8",
+      "HP": "8",
+      "FrontText": "When Played: Exhaust all ground units.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Brian Matyas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/027.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "093",
+      "Name": "Academy Training",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Command"
+      ],
+      "Traits": [
+        "LEARNED"
+      ],
+      "cid": "9291950452",
+      "Cost": "2",
+      "Power": "2",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/093.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
     {
       "Set": "IC27",
       "Number": "038",
@@ -31,6 +124,38 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/038.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "020",
+      "Name": "Admiral Piett",
+      "Subtitle": "In Command Now",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "9784707688",
+      "Cost": "4",
+      "Power": "2",
+      "HP": "5",
+      "FrontText": "On Attack: If you control a Aggression unit, draw a card.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Nash",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/020.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "IC27",
@@ -69,6 +194,72 @@
     },
     {
       "Set": "IC27",
+      "Number": "028",
+      "Name": "Avenger",
+      "Subtitle": "Hunting the Rebels",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "4059807389",
+      "Cost": "8",
+      "Power": "8",
+      "HP": "6",
+      "FrontText": "When Played: Deal 1 damage to each other unit (including friendly units).",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "EJ Dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/028.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "025",
+      "Name": "Blizzard One",
+      "Subtitle": "Veers at the Helm",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "WALKER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "8223192715",
+      "Cost": "7",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "When Played: You may defeat a non-leader ground unit with 3 or less remaining HP.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Reno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/025.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
       "Number": "146",
       "Name": "Boba Fett",
       "Subtitle": "Compensated if He Dies",
@@ -97,6 +288,73 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/146.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "080",
+      "Name": "Bright Hope",
+      "Subtitle": "Narrow Escape",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "4156311388",
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Ignacio Bazan-Lazcano",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/080.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "188",
+      "Name": "C-3P0",
+      "Subtitle": "Protocol Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "7914619760",
+      "Cost": "2",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "When Played/On Attack: Choose a number, then look at the top card of your deck. If its cost is the chosen number, you may reveal and draw it. (Otherwise, leave it on top of your deck.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/188.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "IC27",
@@ -137,6 +395,86 @@
     },
     {
       "Set": "IC27",
+      "Number": "009",
+      "Name": "City in the Clouds",
+      "Subtitle": "Cloud City",
+      "Type": "Base",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "cid": "4190517999",
+      "HP": "30",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Rocío Espin",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/009.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "098",
+      "Name": "Commander Pyre",
+      "Subtitle": "Golden Menace",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FIRST ORDER",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "0277841277",
+      "Cost": "2",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Saboteur"
+      ],
+      "Artist": "Guillaume Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/098.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "184",
+      "Name": "Consumed by the Dark Side",
+      "Type": "Event",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "cid": "0275935652",
+      "Cost": "2",
+      "FrontText": "Give 2 Experience tokens to a unit, then deal 2 damage to it.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "David Kegg",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/184.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
       "Number": "168",
       "Name": "Cunning Ploy",
       "Type": "Event",
@@ -161,6 +499,342 @@
     },
     {
       "Set": "IC27",
+      "Number": "129",
+      "Name": "DRK-1 Probe Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression"
+      ],
+      "Traits": [
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "5920718646",
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Played: You may defeat a non-unique (non-unique) upgrade.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Shane Molina",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/129.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "026",
+      "Name": "Darth Sidious",
+      "Subtitle": "Move Against the Jedi",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "SEPARATIST",
+        "SITH"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "4502531237",
+      "Cost": "7",
+      "Power": "5",
+      "HP": "8",
+      "FrontText": "Restore 3 (When this unit attacks, heal 3 damage from your base.)\nWhen you heal damage from your base: Deal that much damage to an enemy unit.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Afif Khaled",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/026.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "001",
+      "Name": "Darth Vader",
+      "Subtitle": "No One to Stop Us",
+      "Type": "Leader",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "IMPERIAL",
+        "SITH"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "5222380842",
+      "Cost": "7",
+      "Power": "5",
+      "HP": "7",
+      "FrontText": "Action [C=1, Exhaust, defeat a friendly unit]: Draw a card and heal 2 damage from your base.",
+      "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+      "DoubleSided": true,
+      "BackArt": "https://cdn.swu-db.com/images/cards/IC27/001-b.png",
+      "BackText": "On Attack: You may defeat another friendly unit. If you do, draw a card and heal 2 damage from your base.",
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/001.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "097",
+      "Name": "Death Star Stormtrooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "2276437630",
+      "Cost": "1",
+      "Power": "3",
+      "HP": "1",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Brian Matyas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/097.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "017",
+      "Name": "Death Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "6282527090",
+      "Cost": "3",
+      "Power": "3",
+      "HP": "3",
+      "FrontText": "When Played: Deal 2 damage to a friendly ground unit and 2 damage to an enemy ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Borja Pindado",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/017.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "190",
+      "Name": "Dilapidated Ski Speeder",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "RESISTANCE",
+        "VEHICLE",
+        "SPEEDER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "7394231638",
+      "Cost": "3",
+      "Power": "3",
+      "HP": "7",
+      "FrontText": "When Played: Deal 3 damage to this unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Jake Parker",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/190.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "010",
+      "Name": "Echo Base",
+      "Subtitle": "Hoth",
+      "Type": "Base",
+      "Aspects": [
+        "Command"
+      ],
+      "cid": "8762863430",
+      "HP": "30",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Stephen Zavala",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/010.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "099",
+      "Name": "Eighth Brother",
+      "Subtitle": "Ill-Fated Escape",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "IMPERIAL",
+        "INQUISITOR"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "0454689845",
+      "Cost": "2",
+      "Power": "3",
+      "HP": "1",
+      "FrontText": "When Defeated: You may ready an Imperial unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/099.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "192",
+      "Name": "Eta-2 Light Interceptor",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "0856603950",
+      "Cost": "5",
+      "Power": "3",
+      "HP": "5",
+      "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Stephen Zavala",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/192.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "T01",
+      "Name": "Experience",
+      "Type": "Token Upgrade",
+      "Traits": [
+        "LEARNED"
+      ],
+      "cid": "9636269394",
+      "Cost": "0",
+      "Power": "1",
+      "HP": "1",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Kyle Petchock",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/T01.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "105",
+      "Name": "General Veers",
+      "Subtitle": "Leading the Assault",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "3103633053",
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "When Played: If you control a Vigilance unit, deal 2 damage to an enemy base and heal 2 damage from your base.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/105.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
       "Number": "024",
       "Name": "Grand Admiral Thrawn",
       "Subtitle": "Listen to Me Carefully",
@@ -176,7 +850,7 @@
       "Arenas": [
         "Ground"
       ],
-      "cid": "",
+      "cid": "3850988543",
       "Cost": "6",
       "Power": "4",
       "HP": "4",
@@ -231,6 +905,160 @@
     },
     {
       "Set": "IC27",
+      "Number": "154",
+      "Name": "Grogu",
+      "Subtitle": "Irresistible",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "0121713502",
+      "Cost": "2",
+      "Power": "0",
+      "HP": "5",
+      "FrontText": "Action [Exhaust]: Exhaust an enemy unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Brian Matyas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/154.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "182",
+      "Name": "HK-87 Assassin Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "1555798401",
+      "Cost": "5",
+      "Power": "4",
+      "HP": "4",
+      "FrontText": "When Defeated: Deal 2 damage to each ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Guillaume Ospital",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/182.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "161",
+      "Name": "Han Solo",
+      "Subtitle": "Scruffy-Looking Nerf Herder",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "5482241413",
+      "Cost": "6",
+      "Power": "4",
+      "HP": "6",
+      "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.)\nOn Attack: The defender gets –2/–0 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Raid"
+      ],
+      "Artist": "Envar Entertainment",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/161.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "173",
+      "Name": "Hidden Sharpshooter",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "CLONE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "7279203169",
+      "Cost": "4",
+      "Power": "4",
+      "HP": "3",
+      "FrontText": "Ambush (When you play this unit, it may ready and attack an enemy unit.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Ambush"
+      ],
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/173.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "185",
+      "Name": "I Am Your Father",
+      "Type": "Event",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "GAMBIT"
+      ],
+      "cid": "8505513279",
+      "Cost": "3",
+      "FrontText": "Deal 7 Damage to an enemy unit unless its controller says \"no.\" If they do, draw 3 cards.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Stefano Landini",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/185.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
       "Number": "166",
       "Name": "I've Got A Bad Feeling",
       "Type": "Event",
@@ -241,7 +1069,7 @@
       "Traits": [
         "INNATE"
       ],
-      "cid": "",
+      "cid": "6468588697",
       "Cost": "4",
       "FrontText": "Return a non-leader unit to its owner's hand. \nGive a Shield token to a friendly unit.",
       "DoubleSided": false,
@@ -252,6 +1080,398 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/166.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "085",
+      "Name": "Inspiring Mentor",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "cid": "9173476547",
+      "Cost": "2",
+      "Power": "1",
+      "HP": "1",
+      "FrontText": "Attach to a non-Vehicle unit. \nAttached unit gains: \"On Attack/When Defeated: Give an Experience token to another friendly unit.\"",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Brian Matyas",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/085.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "187",
+      "Name": "Jar Jar Binks",
+      "Subtitle": "Bumbling Representative",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "GUNGAN",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "5969823765",
+      "Cost": "2",
+      "Power": "1",
+      "HP": "5",
+      "FrontText": "On Attack: Discard a card from your deck. If it costs 6 or more, this unit gets +4/+0 for this attack.",
+      "DoubleSided": false,
+      "Rarity": "Rare",
+      "Unique": true,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/187.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "011",
+      "Name": "KCM Mining Facility",
+      "Subtitle": "Mustafar",
+      "Type": "Base",
+      "Aspects": [
+        "Aggression"
+      ],
+      "cid": "0098910510",
+      "HP": "30",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Adrien Girod",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/011.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "030",
+      "Name": "Lethal Crackdown",
+      "Type": "Event",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "TACTIC"
+      ],
+      "cid": "8534827800",
+      "Cost": "4",
+      "FrontText": "Defeat a non-leader unit. Deal damage to your base equal to that unit's power.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/030.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "082",
+      "Name": "Luke Skywalker",
+      "Subtitle": "Do You Read Me?",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "FORCE",
+        "REBEL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "9267887613",
+      "Cost": "7",
+      "Power": "6",
+      "HP": "6",
+      "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)\nWhen Played: You may deal 3 damage to a ground unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Keywords": [
+        "Restore"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/082.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "191",
+      "Name": "Medical Frigate",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "VEHICLE",
+        "CAPITAL SHIP"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "8573085938",
+      "Cost": "4",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "On Attack: You may heal 2 damage from another unit.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Thomas Wievegg",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/191.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "164",
+      "Name": "Millennium Falcon",
+      "Subtitle": "Bucket of Bolts",
+      "Type": "Unit",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "TRANSPORT"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "5983227789",
+      "Cost": "7",
+      "Power": "5",
+      "HP": "6",
+      "FrontText": "When Played: If your base has more damage on it than an enemy base, ready this unit.",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/164.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "022",
+      "Name": "Moff Gideon",
+      "Subtitle": "Cold Calling",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "2284519061",
+      "Cost": "5",
+      "Power": "3",
+      "HP": "6",
+      "FrontText": "If a friendly unit was defeated this phase, this unit costs 2 less to play.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Joshua Cairos",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/022.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "012",
+      "Name": "Mos Eisley",
+      "Subtitle": "Tatooine",
+      "Type": "Base",
+      "Aspects": [
+        "Cunning"
+      ],
+      "cid": "8699414647",
+      "HP": "30",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": false,
+      "Artist": "Rocío Espin",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/012.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "015",
+      "Name": "Onyx Squadron Brute",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "4081687314",
+      "Cost": "2",
+      "Power": "2",
+      "HP": "3",
+      "FrontText": "When Defeated: Heal 2 damage from a base.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Amad Mir",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/015.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "189",
+      "Name": "Phase I Clone Trooper",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REPUBLIC",
+        "CLONE",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "0920325462",
+      "Cost": "2",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Ario Anindito",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/189.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "073",
+      "Name": "Phoenix Squadron A-Wing",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "4400736678",
+      "Cost": "2",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Francois Cannels",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/073.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "008",
+      "Name": "Princess Leia",
+      "Subtitle": "On a Diplomatic Mission",
+      "Type": "Leader",
+      "Aspects": [
+        "Cunning",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "9505461983",
+      "Cost": "6",
+      "Power": "4",
+      "HP": "7",
+      "FrontText": "Action [C=1, Exhaust]: Draw a card, then put a card from your hand on the top or bottom of your deck.",
+      "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+      "DoubleSided": true,
+      "BackArt": "https://cdn.swu-db.com/images/cards/IC27/008-b.png",
+      "BackText": "On Attack: Draw a card, then put a card from your hand on the top or bottom of your deck.",
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "David Buisán",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/008.png",
+      "LowPrice": "0.00"
     },
     {
       "Set": "IC27",
@@ -271,7 +1491,7 @@
       "Arenas": [
         "Ground"
       ],
-      "cid": "",
+      "cid": "6150462824",
       "Cost": "5",
       "Power": "5",
       "HP": "5",
@@ -287,6 +1507,312 @@
       "MarketPrice": "0.00",
       "FoilPrice": "",
       "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/079.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "186",
+      "Name": "R2-D2",
+      "Subtitle": "Ignoring Protocol",
+      "Type": "Unit",
+      "Aspects": [
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "DROID"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "4440494124",
+      "Cost": "1",
+      "Power": "1",
+      "HP": "4",
+      "FrontText": "When Played/On Attack: Look at the top card of your deck. You may put it on the bottom of your deck. (Otherwise, leave it on top of your deck.)",
+      "DoubleSided": false,
+      "Rarity": "Special",
+      "Unique": true,
+      "Artist": "Aitor Prieto",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/186.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "075",
+      "Name": "Red Leader",
+      "Subtitle": "Wait For My Signal",
+      "Type": "Unit",
+      "Aspects": [
+        "Command",
+        "Heroism"
+      ],
+      "Traits": [
+        "REBEL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "6147099585",
+      "Cost": "3",
+      "Power": "2",
+      "HP": "4",
+      "FrontText": "Sentinel (Enemy units in this arena must attack a Sentinel when they attack you.) \nRestore 2 (When this unit attacks, heal 2 damage from your base.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Keywords": [
+        "Restore",
+        "Sentinel"
+      ],
+      "Artist": "Johnny Morrow",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/075.png"
+    },
+    {
+      "Set": "IC27",
+      "Number": "052",
+      "Name": "Resilient",
+      "Type": "Upgrade",
+      "Aspects": [
+        "Vigilance"
+      ],
+      "Traits": [
+        "INNATE"
+      ],
+      "cid": "2423559680",
+      "Cost": "1",
+      "Power": "0",
+      "HP": "3",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Joshua Carson",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/052.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "181",
+      "Name": "Rogue-class Starfighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "SEPARATIST",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "8591503730",
+      "Cost": "4",
+      "Power": "4",
+      "HP": "3",
+      "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Keywords": [
+        "Sentinel"
+      ],
+      "Artist": "Omercan Cirit",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/181.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "016",
+      "Name": "Rune Haako",
+      "Subtitle": "Scheming Second",
+      "Type": "Unit",
+      "Aspects": [
+        "Vigilance",
+        "Villainy"
+      ],
+      "Traits": [
+        "SEPARATIST",
+        "OFFICIAL"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "7521702010",
+      "Cost": "2",
+      "Power": "3",
+      "HP": "2",
+      "FrontText": "When Played: If a friendly unit was defeated this phase, you may give a unit -1/-1 for this phase.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Sebastián Guidobono",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/016.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "108",
+      "Name": "Savage Opress",
+      "Subtitle": "Monster",
+      "Type": "Unit",
+      "Aspects": [
+        "Aggression",
+        "Villainy"
+      ],
+      "Traits": [
+        "FORCE",
+        "NIGHT",
+        "UNDERWORLD"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "1549722975",
+      "Cost": "7",
+      "Power": "7",
+      "HP": "7",
+      "FrontText": "When Played: If you control fewer units (including this unit) than an opponent, ready this unit.",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": true,
+      "Artist": "Kyle Petchock",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/108.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "T02",
+      "Name": "Shield",
+      "Type": "Token Upgrade",
+      "Traits": [
+        "ARMOR"
+      ],
+      "cid": "8266111522",
+      "Cost": "0",
+      "Power": "0",
+      "HP": "0",
+      "FrontText": "If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "EJ Dela Cruz",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/T02.png",
+      "LowPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "175",
+      "Name": "Shoot First",
+      "Type": "Event",
+      "Aspects": [
+        "Cunning"
+      ],
+      "Traits": [
+        "TRICK"
+      ],
+      "cid": "5321847735",
+      "Cost": "1",
+      "FrontText": "Attack with a unit. It gets +1/+0 for this attack and deals its combat damage before the defender. (If the defender is defeated, it deals no combat damage.)",
+      "DoubleSided": false,
+      "Rarity": "Uncommon",
+      "Unique": false,
+      "Artist": "Ario Murti",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/175.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "180",
+      "Name": "Super Battle Droid",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "SEPARATIST",
+        "DROID",
+        "TROOPER"
+      ],
+      "Arenas": [
+        "Ground"
+      ],
+      "cid": "3188278432",
+      "Cost": "3",
+      "Power": "4",
+      "HP": "3",
+      "FrontText": "",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "Eslam AboShady",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/180.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
+    },
+    {
+      "Set": "IC27",
+      "Number": "178",
+      "Name": "TIE/ln Fighter",
+      "Type": "Unit",
+      "Aspects": [
+        "Villainy"
+      ],
+      "Traits": [
+        "IMPERIAL",
+        "VEHICLE",
+        "FIGHTER"
+      ],
+      "Arenas": [
+        "Space"
+      ],
+      "cid": "6606298560",
+      "Cost": "1",
+      "Power": "2",
+      "HP": "1",
+      "DoubleSided": false,
+      "Rarity": "Common",
+      "Unique": false,
+      "Artist": "French Carlomagno",
+      "VariantType": "Normal",
+      "MarketPrice": "0.00",
+      "FoilPrice": "0.00",
+      "FrontArt": "https://cdn.swu-db.com/images/cards/IC27/178.png",
+      "LowPrice": "0.00",
+      "LowFoilPrice": "0.00"
     }
   ],
   "tcgArena": {
@@ -296,14 +1822,132 @@
       "releaseDate": "11/20/26",
       "excludedVariants": {}
     },
-    "updatedAt": "2026-10-20T17:24:29.890Z",
+    "updatedAt": "2026-10-25T11:55:58.344Z",
     "images": {
+      "IC27_001": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/001-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/001.png",
+        "back": "https://cdn.swu-db.com/images/cards/IC27/001-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/IC27/001-b.png"
+      },
+      "IC27_008": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/008-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/008.png",
+        "back": "https://cdn.swu-db.com/images/cards/IC27/008-b.png",
+        "backHorizontal": false,
+        "srcBack": "https://cdn.swu-db.com/images/cards/IC27/008-b.png"
+      },
+      "IC27_009": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/009-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/009.png"
+      },
+      "IC27_010": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/010-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/010.png"
+      },
+      "IC27_011": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/011-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/011.png"
+      },
+      "IC27_012": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/012-r.png",
+        "frontHorizontal": true,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/012.png"
+      },
+      "IC27_015": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/015.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/015.png"
+      },
+      "IC27_016": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/016.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/016.png"
+      },
+      "IC27_017": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/017.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/017.png"
+      },
+      "IC27_020": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/020.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/020.png"
+      },
+      "IC27_022": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/022.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/022.png"
+      },
       "IC27_024": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/024.png",
         "frontHorizontal": false,
         "local": [],
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/024.png"
+      },
+      "IC27_025": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/025.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/025.png"
+      },
+      "IC27_026": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/026.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/026.png"
+      },
+      "IC27_027": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/027.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/027.png"
+      },
+      "IC27_028": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/028.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/028.png"
+      },
+      "IC27_030": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/030.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/030.png"
       },
       "IC27_038": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/038.png",
@@ -319,12 +1963,33 @@
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/041.png"
       },
+      "IC27_052": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/052.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/052.png"
+      },
       "IC27_071": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/071.png",
         "frontHorizontal": false,
         "local": [],
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/071.png"
+      },
+      "IC27_073": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/073.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/073.png"
+      },
+      "IC27_075": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/075.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/075.png"
       },
       "IC27_079": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/079.png",
@@ -333,6 +1998,55 @@
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/079.png"
       },
+      "IC27_080": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/080.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/080.png"
+      },
+      "IC27_082": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/082.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/082.png"
+      },
+      "IC27_085": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/085.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/085.png"
+      },
+      "IC27_093": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/093.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/093.png"
+      },
+      "IC27_097": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/097.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/097.png"
+      },
+      "IC27_098": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/098.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/098.png"
+      },
+      "IC27_099": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/099.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/099.png"
+      },
       "IC27_103": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/103.png",
         "frontHorizontal": false,
@@ -340,12 +2054,54 @@
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/103.png"
       },
+      "IC27_105": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/105.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/105.png"
+      },
+      "IC27_108": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/108.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/108.png"
+      },
+      "IC27_129": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/129.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/129.png"
+      },
       "IC27_146": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/146.png",
         "frontHorizontal": false,
         "local": [],
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/146.png"
+      },
+      "IC27_154": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/154.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/154.png"
+      },
+      "IC27_161": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/161.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/161.png"
+      },
+      "IC27_164": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/164.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/164.png"
       },
       "IC27_166": {
         "front": "https://cdn.swu-db.com/images/cards/IC27/166.png",
@@ -360,6 +2116,132 @@
         "local": [],
         "retry": [],
         "srcFront": "https://cdn.swu-db.com/images/cards/IC27/168.png"
+      },
+      "IC27_169": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/169.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/169.png"
+      },
+      "IC27_173": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/173.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/173.png"
+      },
+      "IC27_175": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/175.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/175.png"
+      },
+      "IC27_178": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/178.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/178.png"
+      },
+      "IC27_180": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/180.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/180.png"
+      },
+      "IC27_181": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/181.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/181.png"
+      },
+      "IC27_182": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/182.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/182.png"
+      },
+      "IC27_184": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/184.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/184.png"
+      },
+      "IC27_185": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/185.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/185.png"
+      },
+      "IC27_186": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/186.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/186.png"
+      },
+      "IC27_187": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/187.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/187.png"
+      },
+      "IC27_188": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/188.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/188.png"
+      },
+      "IC27_189": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/189.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/189.png"
+      },
+      "IC27_190": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/190.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/190.png"
+      },
+      "IC27_191": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/191.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/191.png"
+      },
+      "IC27_192": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/192.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/192.png"
+      },
+      "IC27_T01": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/T01.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/T01.png"
+      },
+      "IC27_T02": {
+        "front": "https://cdn.swu-db.com/images/cards/IC27/T02.png",
+        "frontHorizontal": false,
+        "local": [],
+        "retry": [],
+        "srcFront": "https://cdn.swu-db.com/images/cards/IC27/T02.png"
       }
     }
   }

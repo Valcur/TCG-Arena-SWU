@@ -1,18 +1,18 @@
-# Mise à jour des cartes SWU — 2026-10-20 17:24 UTC
+# Mise à jour des cartes SWU — 2026-10-25 11:55 UTC
 
 | | |
 |---|---|
-| Sets téléchargés | SOR, SHD, TWI, JTL, LOF, IBH, SEC, LAW, TS26, ASH, HMW, IC27 |
-| Sets re-téléchargés (récents / incomplets) | — |
-| Sets lus depuis Sets/ | — |
-| Cartes dans SWUCards.json | 5349 (avant : 5349) |
-| Nouvelles cartes | 0 |
-| Cartes traitées ce run (images) | 5349 |
-| Images -r trouvées | 687 |
-| Images tournées localement | 10 |
+| Sets téléchargés | — |
+| Sets re-téléchargés (récents / incomplets) | HMW, IC27 |
+| Sets lus depuis Sets/ | SOR, SHD, TWI, JTL, LOF, IBH, SEC, LAW, TS26, ASH |
+| Cartes dans SWUCards.json | 5399 (avant : 5349) |
+| Nouvelles cartes | 50 |
+| Cartes traitées ce run (images) | 50 |
+| Images -r trouvées | 6 |
+| Images tournées localement | 0 |
 | Cartes à retenter (erreur réseau) | 0 |
 | ❌ Erreurs | 0 |
-| ⚠️ Avertissements | 21 |
+| ⚠️ Avertissements | 8 |
 
 ## ✅ Vérification : aucune ancienne carte perdue
 
@@ -37,31 +37,9 @@
 | TS26 | Twin Suns 2026 | 5/8/26 | 88 | — |
 | ASH | Ashes of the Empire | 7/17/26 | 599 | Hyperspace Foil 238, Prestige Foil 47, Prestige Serialized 47 |
 | HMW | Homeworlds | 10/9/26 | 620 | Hyperspace Foil 238, Prestige Foil 48, Serialized 48 |
-| IC27 | Icons 2027 | 11/20/26 | 9 | — |
+| IC27 | Icons 2027 | 11/20/26 | 59 | — |
 
-## ⚠️ Avertissements (21)
-
-### Verso horizontal : tourné et hébergé sur GitHub Pages — 4
-
-- `TWI_274` — 1560x1117 → Images/TWI/274-b.webp
-- `TWI_017` — 1560x1120 → Images/TWI/017-b.webp
-- `TWI_292` — 1560x1120 → Images/TWI/292-b.webp
-- `LAW_004` — 1560x1117 → Images/LAW/004-b.webp
-
-### Pas d'image -r mais recto déjà vertical (utilisé tel quel) — 3
-
-- `TWI_297` — 1117x1560
-- `TWI_294` — 1117x1560
-- `TWI_303` — 1116x1560
-
-### Pas d'image -r : recto tourné et hébergé sur GitHub Pages — 6
-
-- `TWI_300` — 1560x1116 → Images/TWI/300.webp
-- `JTL_283` — 1560x1117 → Images/JTL/283.webp
-- `JTL_286` — 1560x1117 → Images/JTL/286.webp
-- `JTL_293` — 1560x1117 → Images/JTL/293.webp
-- `JTL_290` — 1560x1117 → Images/JTL/290.webp
-- `JTL_287` — 1560x1117 → Images/JTL/287.webp
+## ⚠️ Avertissements (8)
 
 ### Unités sans arène dans l'API (mises en "Unit - Ground") — 8
 
@@ -73,3 +51,7 @@
 - `HMW_T08` — Beast
 - `HMW_T09` — Beast
 - `HMW_T10` — Beast
+
+## ➕ Nouvelles cartes (50)
+
+- **IC27** (50) : `IC27_001`, `IC27_008`, `IC27_009`, `IC27_010`, `IC27_011`, `IC27_012`, `IC27_015`, `IC27_016`, `IC27_017`, `IC27_020`, `IC27_022`, `IC27_025`, `IC27_026`, `IC27_027`, `IC27_028`, `IC27_030`, `IC27_052`, `IC27_073`, `IC27_075`, `IC27_080`, `IC27_082`, `IC27_085`, `IC27_093`, `IC27_097`, `IC27_098`, `IC27_099`, `IC27_105`, `IC27_108`, `IC27_129`, `IC27_154`, `IC27_161`, `IC27_164`, `IC27_169`, `IC27_173`, `IC27_175`, `IC27_178`, `IC27_180`, `IC27_181`, `IC27_182`, `IC27_184`, `IC27_185`, `IC27_186`, `IC27_187`, `IC27_188`, `IC27_189`, `IC27_190`, `IC27_191`, `IC27_192`, `IC27_T01`, `IC27_T02`
