@@ -1,4 +1,4 @@
-# Mise à jour des cartes SWU — 2026-11-01 13:42 UTC
+# Mise à jour des cartes SWU — 2026-11-08 13:47 UTC
 
 | | |
 |---|---|
